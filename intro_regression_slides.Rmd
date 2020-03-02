@@ -65,11 +65,11 @@ class: middle, center
 ## Agenda
 
 - What is regression?
-- Prepping your data
-- Fitting a model
+- Fitting a model in R
+- Interpreting Output
 - Model Diagnostics
 - Checking Assumptions
-- Q&A 
+- Interactive Exercises + Q&A
 
 ---
 
@@ -210,13 +210,6 @@ predict(model, x_star, interval='prediction', level=0.95)
   - **Prediction interval** (interval='prediction') captures the uncertainty in obtaining $\hat{\beta}$, **plus** the uncertainty from the error inherent in $Y$
   - Prediction intervals are always guaranteed to be wider as a result
 
----
-## Try it out
-
-Download the .Rmd from ASDF and 
-
-
----
 
 ## Checking Assumptions of Linear Regression
 
@@ -400,6 +393,9 @@ knitr::include_graphics("intro_regression_slides_files/residuals_serial_effect.J
   - Proving causality requires a carefully designed experiment or carefully accounting for confounding variables in an observational study
 - Be careful of providing variables that are too correlated 
   - You can use model selection techniques to help understand which variables you should retain
+- Don't add too many variables
+  - Adding too many variables
+- Model selection is an iteractive process
 
 
 ---
@@ -414,3 +410,13 @@ knitr::include_graphics("intro_regression_slides_files/residuals_serial_effect.J
 - **Penalized regression**: Wide class of techniques used to obtain more stable estimates of $\beta$ at the expense of an unbiased estimate
 - **Poisson regression**: Used to model count-based data
 - **Bayesian approaches to regression**: How to use priors to gain estimates of the distribution of $\hat{\beta}, \hat{\sigma^2}$
+
+---
+## Try it out
+
+Download the .Rmd from ASDF and 
+
+
+---
+
+

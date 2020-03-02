@@ -9,9 +9,172 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{r libraries}
+library(broom)
+library(tidyverse)
+library(ggplot2)
+
+
+```
+
+
 ```{r download_and_clean}
 
+basic <- read_csv("https://raw.githubusercontent.com/wyseguy7/intro_regression/master/data/airbnb_basic.csv")
+details = read_csv("https://raw.githubusercontent.com/wyseguy7/intro_regression/master/data/airbnb_details.csv")
+
+df <- basic %>% inner_join(details, by='id') %>% select(price, cleaning_fee, property_type, room_type, number_of_reviews, review_scores_rating) %>%  extract(cleaning_fee, "cleaning_fee") %>%
+  mutate(cleaning_fee = as.numeric(cleaning_fee)) %>%
+  mutate(cleaning_fee = case_when(is.na(cleaning_fee)~ 0,
+                                  TRUE ~ cleaning_fee))%>%
+  mutate(price_3_nights= cleaning_fee+3*price) %>%
+  filter(property_type %in% c('House', 'Apartment','Guest suite')) %>%
+  filter(price < 5000) # remove some outliers
+df
+```
+## Exercise 1
+Take a look at the data. Explore it if you like, and recode the character columns as factors so we can use them in our regression. 
+```{r recoding}
+
+df <- df %>% mutate(
+  room_type=as.factor(room_type),
+  property_type=as.factor(property_type),
+)
+head(df)
+```
+
+
+
+## Exercise 2
+
+Using the `df` object created above, run a regression that predicts `price_3_nights` using `room_type`, `property_type` and `number_of_reviews`. 
+
+Look at the output. Which of the variables are significant? Which are not? How did the `room_type` variable get used, and as which category was used as the baseline? 
+
+Note: when using categorical variables, the category that gets used as a baseline will always be the first level in the factor. You can adjust this by modifying the column with the with the `relevel` function
+```{r regression}
+
+
+# Answers: 
+model = lm(price_3_nights ~ room_type + property_type  + number_of_reviews, data=df)
+broom::tidy(model) %>% kable(format="markdown", digits=3) 
+```
+
+## Exercise 3
+Extract the residuals from the model as `res`, and calculate the $R^2$ value. Recall for residuals $e_i$, $R^2 =  1-\frac{\sum e_i^2}{nVar[Y]} = 1-\frac{\sum e_i^2}{\sum(y_i-\bar{y})^2}$ is 1 minus the sum of the squared residuals divided by the variance of $Y$ times $n$
+
+```{r residuals}
+
+res = residuals(model)
+r2 = 1-sum(res**2)/var(df$price_3_nights)/length(res)
+r2
+```
+
+## Exercise 4
+Examine the plots below, and determine whether our model meets the core assumptions of
+- Linearity
+- Constant Variance
+- Normality
+- Independence
+```{r assumptions_check}
+fitted = model$fitted.values
+ggplot(mapping = aes(x=fitted,y=res)) + 
+  geom_point() + 
+  geom_hline(yintercept=0,color="red") +
+  labs(title="Model Residuals vs. Fitted Values", 
+       x="Fitted Values", y="Residuals")
+
+ggplot(mapping = aes(x=res)) + geom_histogram(bins=100) + 
+  labs(title="Histogram of Model Residuals", 
+       x="Residuals", y="Count")
+
+ggplot(mapping = aes(sample=res)) + 
+  stat_qq() + stat_qq_line() +  
+  labs(title="QQ-Plot of Residuals")
 
 
 
 ```
+
+## Exercise 5
+Lets try predicting `log(price_3_nights)` instead, to see if this helps us resolve some of the issues we were having with our assumptions. 
+
+```{r assumptions_check}
+m2 <- lm(log(price) ~ room_type + number_of_reviews + cleaning_fee, data=df)
+res = m2$residuals
+fitted = m2$fitted.values
+ggplot(mapping = aes(x=fitted,y=res)) + 
+  geom_point() + 
+  geom_hline(yintercept=0,color="red") +
+  labs(title="Model Residuals vs. Fitted Values", 
+       x="Fitted Values", y="Residuals")
+
+ggplot(mapping = aes(x=res)) + geom_histogram(bins=100) + 
+  labs(title="Histogram of Model Residuals", 
+       x="Residuals", y="Count")
+
+ggplot(mapping = aes(sample=res)) + 
+  stat_qq() + stat_qq_line() +  
+  labs(title="QQ-Plot of Residuals")
+
+
+
+```
+
+
+#### Advanced applications
+```{r advanced}
+
+## fit interaction terms
+## for room_type x cleaning_fee and room_type x number_of_reviews
+model = lm(price ~ room_type + number_of_reviews+cleaning_fee + room_type*(number_of_reviews + cleaning_fee), data=df)
+
+## don't fit an intercept in the model  
+model = lm(price ~ room_type + number_of_reviews+cleaning_fee - 1, data=df)
+
+
+## extract the X matrix
+## note that the QR algorithm is used to compute the inverse of (X^TX), so results aren't completely precise
+X = qr.X(model$qr)
+
+## coefficients of the model  
+model$coefficients 
+
+## fitting a logistic model 
+df_sub <- df %>% filter(room_type %in% c('Entire room', 'Shared room'))
+logistic_model = glm(room_type ~ price + number_of_reviews, data=df_sub, family=binomial)
+
+## fitting a Poisson model
+pois_model = glm(number_of_reviews ~ price + room_type, data=df, family=poisson)
+
+library(nnet)
+# fitting a multinomial model
+multinom_model = multinom(room_type ~ price + number_of_reviews, data=df)
+
+
+#### statistical tests ########
+
+## Nested F-test to compare significance of group of predictors
+full = lm(price ~ room_type + number_of_reviews+cleaning_fee + room_type*(number_of_reviews + cleaning_fee), data=df)
+reduced = lm(price ~ room_type + number_of_reviews+cleaning_fee, data=df)
+anova(reduced, full)
+
+
+## Drop in deviance test for logistic/multinomial regression
+full = lm(property_type ~ room_type + number_of_reviews+cleaning_fee + room_type*(number_of_reviews + cleaning_fee), data=df)
+reduced = lm(property_type ~ room_type + number_of_reviews+cleaning_fee, data=df)
+
+anova(reduced, full, test='Chisq')
+
+## Attaching variable-level diagnostics
+# `augment` will calculate and return residuals, fitted values, leverage
+# cooks distance, etc
+df_aug = broom::augment(model)
+df_aug
+
+```
+
+
+
+
+
