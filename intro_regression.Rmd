@@ -1,0 +1,17 @@
+---
+title: "Regression Basics"
+author: "Evan Wyse"
+date: "3/2/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r download_and_clean}
+
+
+
+
+```
