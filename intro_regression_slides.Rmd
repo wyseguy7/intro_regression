@@ -55,10 +55,7 @@ library(infer)
 
 class: middle, center
 
-### Download slides at TBD
-
-### Download companion Rmd at TBD
-
+### Download slides at [http://bit.ly/duke_lib_regression](http://bit.ly/duke_lib_regression)
 
 ---
 
@@ -90,6 +87,42 @@ class: middle, center
  - $\epsilon$ is an error term - we assume that it's drawn from a normal (bell-curve) distribution with an unknown variance $\sigma^2$
 - We don't know what $\beta_0, \beta_1$, or $\sigma^2$ are - but we'd like to estimate them
   - We'll call our estimate for the unknown $\beta$ and $\sigma^2$ as $\hat{\beta}$ and $\hat{\sigma^2}$ respectively
+  
+---
+## Regression Visualized
+  
+```{r,echo=F}
+library("readr")
+wages <- case1202 %>% 
+  mutate(Sex = as.factor(Sex), Education = case_when(
+    Educ < 12 ~ 'HighSchool',
+    Educ == 12 ~ 'Bachelor',
+    TRUE ~ 'Graduate'), Education=as.factor(Education)) %>%
+  select(-Sal77, -Educ)
+m <- lm(Bsal ~ Exper,data=wages)
+
+```
+
+```{r echo=F,warning=F, message=F}
+set.seed(1)
+n=20
+beta = 3
+X = runif(n=n, 0, 5)
+Y = beta*X + rnorm(n=length(X))*3
+guess <- lm(Y~X)
+
+
+ggplot() + geom_point(aes(x=X, y=Y)) + geom_line(aes(x=X, y=X*beta, col='red')) + geom_line(aes(x=X, y=guess$fitted.values, col='blue'))+ theme(legend.position='bottom') + scale_color_discrete(name="Legend", breaks=c('blue','red'), labels=c('Actual relationship', 'Estimated Relationship'))
+
+
+# ggplot(data=wages,mapping=aes(x=Exper,y=Bsal)) + 
+#   geom_point() + 
+#   geom_smooth(method="lm",se=FALSE) + 
+#   labs(title="Regression", x="X", y="Y") + 
+#   theme(legend.position = "none")
+
+
+```
 
 
 ---
@@ -110,16 +143,6 @@ class: middle, center
 - Collectively, the standard technique for regression with one or more is called ordinary least squares (OLS)
 - OLS finds the vector (straight line) that minimizes the squared vertical distance between the line and each of the data points
 -- We refer to this squared distance as the <font class="vocab">**sum of squared error**</font>. We want to minimize it. 
-```{r,echo=F}
-library("readr")
-wages <- case1202 %>% 
-  mutate(Sex = as.factor(Sex), Education = case_when(
-    Educ < 12 ~ 'HighSchool',
-    Educ == 12 ~ 'Bachelor',
-    TRUE ~ 'Graduate')) %>%
-  select(-Sal77, -Educ)
-
-```
 
 ```{r echo=F, warning=FALSE, message=FALSE, fig.height=2.5}
 
@@ -140,15 +163,13 @@ ggplot(data=wages,mapping=aes(x=Exper,y=Bsal)) +
 - Frequently, somes variables are discrete categories (gender, race, education level, etc)
 - R will assume you'd like to regress an explanatory variable categorically if the column is stored as a `factor`, and generate the categories automatically for you
 - We can capture this using linear regression by adding $k-1$ binary (taking values 1 or 0) variables into our model for a variable with $k$ different levels
-  - We only need $k-1$ variables because once you've observed the first $k-1$ variables, you know what the value of the last variable is
-  - Example: if you'd like to encode (alive vs. dead) as a variable, it's sufficient to use a variable that's $1$ if the observation is alive, $0$ if the observation is not alive.  
-- Do NOT include as many variables as you have categories - this will cause an issue called multicollinearity 
-
+- If $X_j$ is a categorical variable:
+  - $X_j = 0 \implies X_j\beta_j = 0$
+  - $X_j = 1 \implies X_j\beta_j = \beta_j$ 
 
 ---
 ## Example: Wage Data
-- In the 1970s Harris Trust and Savings Bank was sued for discrimination on the basis of gender.
-- The following dataset is a collection of wages for bank employees
+- In the 1970s Harris Trust and Savings Bank was sued for discrimination on the basis of gender. The following dataset is a collection of wages for bank employees
 
 #### Variables
 **Explanatory**
@@ -173,34 +194,42 @@ glimpse(wages)
 ## Fitting a model
 
 - R allows you to use formula objects to interact with your data using column names
-- Can also use `response ~ .` to regress a column named `response` against everything else in the data frame
-
 ```{r}
 
-model <- lm(Bsal ~ Education + Exper + Sex + Senior + Age, data=wages)
+model <- lm(Bsal ~ Education + Exper + Sex + Age, data=wages)
 broom::tidy(model) %>% kable(format="markdown", digits=3) # View the output
 ```
-- Note that R has automatically converted the 'Sex' and 'Education' variables to a categorical variable and added categories as necessary
+- Note that R has automatically converted the 'Sex' and 'Education' variables to categorical variables and added categories as necessary
   - The 'missing' category is captured by the intercept
+
+---
+
+## Additional Syntax in R
+- Can also use `Bsal ~ .` to regress a column named `Bsal` against everything else in the data frame
+- Can use `summary` function to obtain an easy-to-read output 
+```{r}
+model2 <- lm(Bsal ~ ., data=wages)
+summary(model)
+```
 
 ---
 ## Interpreting the output
 
 - **estimate**: the estimated value of the $\beta$ coefficient for that explanatory variable.
   - For most coefficients, the way to interpret this is "*for every 1 unit increase in X, we observe a $\beta$ unit increase in $Y$.*"
-  - For the **intercept**: the interpretation is "*the expected (average) value for $Y$ if all the $X$ variables are $0$*"
+  - For the **intercept**: the interpretation is "*the expected (average) value for $Y$ if all the $X$ variables are $0$*". If we have categorical variables, the baseline category is included here. 
+  
 - **std.error**: The standard error estimate for the coefficient
 - **statistic**: The t-statistic for deviation 
 - **p.value**: The p-value implied by the t-statistic
   - The interpretation of the p-value for a particular coefficient $\hat{\beta_j}$ is "the probability of calculating a $\hat{\beta_j}$ this extreme or more extreme **assuming the null hypothesis is true** (in this case, null hypothesis is $\beta_j=0$)
-  - p.value appears to be $0$ in table above because we've truncated to 3 digits, it's actually just very small
 
 ---
 
 ## Prediction
 
 ```{r}
-x_star <- data.frame(Senior=96, Age=329, Education='HighSchool', Exper=14.0, Sex="Male")
+x_star <- data.frame(Age=329, Education='HighSchool', Exper=14.0, Sex="Male")
 predict(model, x_star, interval='prediction', level=0.95)
 ```
 
@@ -208,13 +237,13 @@ predict(model, x_star, interval='prediction', level=0.95)
 - Types of uncertainty estimates for predictions:
   - **Confidence interval** (interval='confidence') captures the uncertainty inherent in estimating $\beta$ - this is our best guess for the average value of $Y$ at $X$ 
   - **Prediction interval** (interval='prediction') captures the uncertainty in obtaining $\hat{\beta}$, **plus** the uncertainty from the error inherent in $Y$
-  - Prediction intervals are always guaranteed to be wider as a result
 
+---
 
 ## Checking Assumptions of Linear Regression
 
 - OLS only gives unbiased estimates if four assumptions are satisfied
-  - **Linearity**: $Y$ cannont depend on $\mathbf{X}$ in a nonlinear way - 
+  - **Linearity**: $Y$ cannont depend on $\mathbf{X}$ in a nonlinear way 
   - **Normality**: The error must be normally distributed, and centered at $0$. Note: $\mathbf{X}$ can be distributed however you want - it's **just the error $\epsilon$**  that needs to be normally distributed
   - **Constant Error** The amount of error can't change as the predicted value changes
   - **Independence**: Each individual $Y_i$ can't depend on any of the other $Y_i$'s except via their individual $X$ values
@@ -226,11 +255,19 @@ predict(model, x_star, interval='prediction', level=0.95)
 ### Assumption 1: Linearity
 - **How to check**: Plot the predicted value $\hat{Y}$ against residuals
   - Values should be centered around $0$ at every value of $\hat{Y}$
-- When conducting multiple linear regression, it's advisable to check the relationship for each individual predictor, as well as $\hat{Y}$ overall. 
-- You can fix this by transforming $Y$ or $X$ to make the relationship linear - but remember then that your predictors, confidence intervals, etc, are all going to be in the transformed space, and won't necessarily translate back to the same point in the untransformed space
+- You can fix this by transforming $Y$ or $X$ to make the relationship linear - but remember then that your predictors, confidence intervals, etc, are all going to be in the transformed space
+
+```{r echo=F, message=F, warning=F, fig.height=3}
+# x = runif(n=1000)
+x = seq(-5, 5, by=0.03)
+y = x^4 + rnorm(n=length(x))*10
+nl = lm(y~x)
+ggplot() + geom_point(aes(x=x, y=y)) + geom_line(aes(x=x, y=nl$fitted.values, col='red', show.legend=F)) + theme(legend.position = "none") + labs(title="Linear Regression Works Poorly With Nonlinear Data")
+```
+
 
 ---
-### Linearity continued
+### Assumption 1: Linearity
 ```{r, echo=F, message=F, warning=F}
 library(fivethirtyeight) #fandango dataset
 movie_scores <- fandango %>%
@@ -245,17 +282,27 @@ movie_scores <- movie_scores %>% mutate(residuals=resid(model), yhat=predict(mod
 ```
 ```{r, echo=F, message=F, warning=F}
 library(egg)
-p1 <- ggplot(data=movie_scores,mapping=aes(x=yhat, y=residuals)) + 
+ggplot(data=movie_scores,mapping=aes(x=yhat, y=residuals)) + 
   geom_point() + 
   geom_hline(yintercept=0,color="red")+
   labs(title="Residuals without Nonlinearities (Good)")
+```
+- DON'T worry if the data is bunched in some areas left-to-right
+- DO worry if the data appears to be bunched above/below the line
 
-p2 <- ggplot(data=movie_scores,mapping=aes(x=yhat_nonlinear, y=residuals_nonlinear)) + 
+
+---
+### Assumption 1: Linearity
+
+
+
+```{r echo=F, message=F, warning=F}
+
+ggplot(data=movie_scores,mapping=aes(x=yhat_nonlinear, y=residuals_nonlinear)) + 
   geom_point() + 
   geom_hline(yintercept=0,color="red")+
-  labs(title="Residuals with Nonlinearity (Bad)")
+  labs(title="Residuals with Nonlinearities (Bad)")
 
-grid.arrange(p1, p2, nrow=2)
 ```
 - DON'T worry if the data is bunched in some areas left-to-right
 - DO worry if the data appears to be bunched above/below the line
@@ -269,15 +316,10 @@ grid.arrange(p1, p2, nrow=2)
 - **How to check**: Make a histogram and QQ-plot of the residuals, and examine if the data appears to be normally distributed
   - You should observe a roughly bell-shaped curve. Anything else indicates that the normality assumption is violated
 
-- DON'T worry if the histogram shows a somewhat spikey pattern - this happens a lot just due to inherent randomness if your sample size is small
-- DO worry if you see multiple modes emerge in the histogram - an 'M' shape is almost certainly evidence of a problem
-
 ---
 
-### Assumption 2: Normality (cont'd)
-
-
-```{r, warning=F, message=F}
+### Assumption 2: Normality 
+```{r, echo=F, warning=F, message=F}
 p1 <- ggplot(data=movie_scores,mapping=aes(x=residuals)) + 
   geom_histogram() + 
   labs(title="Histogram, Normal Error")
@@ -293,11 +335,14 @@ p4 <- ggplot(data=movie_scores,mapping=aes(sample=residuals_non_normal)) +
 grid.arrange(p1, p2, p3, p4, nrow=2, ncol=2)
 ```
 
+- DON'T worry if the histogram shows a somewhat spikey pattern - this happens a lot just due to inherent randomness if your sample size is small
+- DO worry if you see multiple modes emerge in the histogram - an 'M' shape is almost certainly evidence of a problem
+
 ---
 
 ## Assumption 3: Constant Error
 
-- The typical error $\sigma^2$ can't change as $X$ changes
+- The expected squared error $\sigma^2$ can't change as $X$ changes
 - **How to check**: Plot the predicted value $\hat{Y}$ against residuals. The spread above/below zero shouldn't change. 
 
 ```{r, echo=FALSE,out.width = '80%',fig.align='center'}
@@ -305,7 +350,7 @@ knitr::include_graphics("intro_regression_slides_files/regression.png")
 ```
 
 
-```{r, echo=FALSE,out.width = '80%',fig.align='center'}
+```{r, echo=FALSE,out.width = '80%',fig.align='center', eval=F}
 #- Occurs frequently with time series data - below is an example, where Netflix's stock has different volatility at different times
 library(tidyquant)
 netflix <- tq_get("NFLX", from='2009-01-01', to='2020-01-01', get='stock.prices')
@@ -313,25 +358,29 @@ netflix <- tq_get("NFLX", from='2009-01-01', to='2020-01-01', get='stock.prices'
 
 ```
 
+---
+
+### Assumption 3: Constant Error
+
+```{r, echo=F, message=F, warning=F}
+ggplot(data=movie_scores,mapping=aes(x=yhat, y=residuals)) + 
+  geom_point() + 
+  geom_hline(yintercept=0,color="red")+
+  labs(title="Residuals without Nonconstant Error (Good)", x="Predicted Value", y="Residual")
+# grid.arrange(p1, p2, nrow=2)
+```
 
 ---
 
 ### Assumption 3: Constant Error
 
 ```{r, echo=F, message=F, warning=F}
-p1 <- ggplot(data=movie_scores,mapping=aes(x=yhat, y=residuals)) + 
-  geom_point() + 
-  geom_hline(yintercept=0,color="red")+
-  labs(title="Residuals without Nonconstant Error (Good)", x="Predicted Value", y="Residual")
-
-p2 <- ggplot(data=movie_scores,mapping=aes(x=yhat, y=residuals*yhat^2)) + 
+ggplot(data=movie_scores,mapping=aes(x=yhat, y=residuals*yhat^2)) + 
   geom_point() + 
   geom_hline(yintercept=0,color="red")+
   labs(title="Residuals with Nonconstant Error (Bad)", x="Predicted Value", y="Residual")
-
-grid.arrange(p1, p2, nrow=2)
 ```
-- Note how the bottom plot has noticeably higher error as the predicted value increases
+- Note how the residuals get larger as the predicted value increases. This is bad. 
 
 ---
 
@@ -354,8 +403,8 @@ ggplot(data=pew_data, mapping = aes(x=percapitaincome,y=residuals,color=State)) 
   labs(title="Residuals vs. Per Capita Income", 
        x="Per Capita Income ($)")
 ```
-```{r, echo=FALSE, out.width='100%', fig.align='left'}
-knitr::include_graphics("intro_regression_slides_files/residuals_cluster_effect.JPG")
+```{r, echo=FALSE, out.width='80%', fig.align='left'}
+knitr::include_graphics("intro_regression_slides_files/residuals_cluster_effect.jpg")
 ```
 
 ---
@@ -368,11 +417,9 @@ ggplot(data=pew_data, aes(x=Year,y=residuals,color=State)) + geom_point() +
   scale_x_continuous(breaks=seq(2000,2009,1))
 ```
 
-```{r, echo=FALSE, out.width = '100%',fig.align='left'}
-knitr::include_graphics("intro_regression_slides_files/residuals_serial_effect.JPG")
+```{r, echo=FALSE, out.width = '80%',fig.align='left'}
+knitr::include_graphics("intro_regression_slides_files/residuals_serial_effect.jpg")
 ```
-
----
 
 ---
 
@@ -393,9 +440,9 @@ knitr::include_graphics("intro_regression_slides_files/residuals_serial_effect.J
   - Proving causality requires a carefully designed experiment or carefully accounting for confounding variables in an observational study
 - Be careful of providing variables that are too correlated 
   - You can use model selection techniques to help understand which variables you should retain
-- Don't add too many variables
-  - Adding too many variables
 - Model selection is an iteractive process
+  - Don't be afraid to change your model based on the outcome of initial regressions
+  - BUT, monkeying around with your model in pursuit of better p-values is not scientific. If you're deciding between a lot of different models, engage a statistician to help you capture the uncertainty associated with this process. 
 
 
 ---
@@ -404,7 +451,7 @@ knitr::include_graphics("intro_regression_slides_files/residuals_serial_effect.J
 
 - **Interaction terms**: What to do when some of your variables might produce an additional response when viewed together
 - **Model selection**: How to know which variables to include in your model
-- **Outlier detection**: Use of Cook's Distance and other techniques for detecting outliers
+- **Outlier detection**: Use of Cook's Distance, robust regression, and other techniques for handling outliers
 - **Logistic Regression**: When your observed variable is a binary (yes/no) response
 - **Multinomial Regression**: Similar to logistic regression, when your response is one or more discrete categories
 - **Penalized regression**: Wide class of techniques used to obtain more stable estimates of $\beta$ at the expense of an unbiased estimate
@@ -414,7 +461,8 @@ knitr::include_graphics("intro_regression_slides_files/residuals_serial_effect.J
 ---
 ## Try it out
 
-Download the .Rmd from ASDF and 
+- Download and save the .Rmd from [here](https://raw.githubusercontent.com/wyseguy7/intro_regression/master/intro_regression.Rmd) so we can step through exercises together
+
 
 
 ---

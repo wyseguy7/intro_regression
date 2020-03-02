@@ -25,21 +25,18 @@ class: center, middle, inverse, title-slide
 
 class: middle, center
 
-### Download slides at TBD
-
-### Download companion Rmd at TBD
-
+### Download slides at [http://bit.ly/duke_lib_regression](http://bit.ly/duke_lib_regression)
 
 ---
 
 ## Agenda
 
 - What is regression?
-- Prepping your data
-- Fitting a model
+- Fitting a model in R
+- Interpreting Output
 - Model Diagnostics
 - Checking Assumptions
-- Q&amp;A 
+- Interactive Exercises + Q&amp;A
 
 ---
 
@@ -60,6 +57,13 @@ class: middle, center
  - `\(\epsilon\)` is an error term - we assume that it's drawn from a normal (bell-curve) distribution with an unknown variance `\(\sigma^2\)`
 - We don't know what `\(\beta_0, \beta_1\)`, or `\(\sigma^2\)` are - but we'd like to estimate them
   - We'll call our estimate for the unknown `\(\beta\)` and `\(\sigma^2\)` as `\(\hat{\beta}\)` and `\(\hat{\sigma^2}\)` respectively
+  
+---
+## Regression Visualized
+  
+
+
+&lt;img src="intro_regression_slides_files/figure-html/unnamed-chunk-3-1.png" style="display: block; margin: auto;" /&gt;
 
 
 ---
@@ -81,8 +85,7 @@ class: middle, center
 - OLS finds the vector (straight line) that minimizes the squared vertical distance between the line and each of the data points
 -- We refer to this squared distance as the &lt;font class="vocab"&gt;**sum of squared error**&lt;/font&gt;. We want to minimize it. 
 
-
-&lt;img src="intro_regression_slides_files/figure-html/unnamed-chunk-3-1.png" style="display: block; margin: auto;" /&gt;
+&lt;img src="intro_regression_slides_files/figure-html/unnamed-chunk-4-1.png" style="display: block; margin: auto;" /&gt;
 
 ---
 
@@ -91,15 +94,13 @@ class: middle, center
 - Frequently, somes variables are discrete categories (gender, race, education level, etc)
 - R will assume you'd like to regress an explanatory variable categorically if the column is stored as a `factor`, and generate the categories automatically for you
 - We can capture this using linear regression by adding `\(k-1\)` binary (taking values 1 or 0) variables into our model for a variable with `\(k\)` different levels
-  - We only need `\(k-1\)` variables because once you've observed the first `\(k-1\)` variables, you know what the value of the last variable is
-  - Example: if you'd like to encode (alive vs. dead) as a variable, it's sufficient to use a variable that's `\(1\)` if the observation is alive, `\(0\)` if the observation is not alive.  
-- Do NOT include as many variables as you have categories - this will cause an issue called multicollinearity 
-
+- If `\(X_j\)` is a categorical variable:
+  - `\(X_j = 0 \implies X_j\beta_j = 0\)`
+  - `\(X_j = 1 \implies X_j\beta_j = \beta_j\)` 
 
 ---
 ## Example: Wage Data
-- In the 1970s Harris Trust and Savings Bank was sued for discrimination on the basis of gender.
-- The following dataset is a collection of wages for bank employees
+- In the 1970s Harris Trust and Savings Bank was sued for discrimination on the basis of gender. The following dataset is a collection of wages for bank employees
 
 #### Variables
 **Explanatory**
@@ -129,18 +130,16 @@ glimpse(wages)
 ## $ Senior    &lt;int&gt; 96, 82, 67, 97, 66, 92, 66, 82, 88, 75, 89, 91, 66, 86, 9...
 ## $ Age       &lt;int&gt; 329, 357, 315, 354, 351, 374, 369, 363, 555, 416, 481, 33...
 ## $ Exper     &lt;dbl&gt; 14.0, 72.0, 35.5, 24.0, 56.0, 41.5, 54.5, 32.0, 252.0, 13...
-## $ Education &lt;chr&gt; "Graduate", "Graduate", "Graduate", "Bachelor", "Bachelor...
+## $ Education &lt;fct&gt; Graduate, Graduate, Graduate, Bachelor, Bachelor, Graduat...
 ```
 ---
 
 ## Fitting a model
 
 - R allows you to use formula objects to interact with your data using column names
-- Can also use `response ~ .` to regress a column named `response` against everything else in the data frame
-
 
 ```r
-model &lt;- lm(Bsal ~ Education + Exper + Sex + Senior + Age, data=wages)
+model &lt;- lm(Bsal ~ Education + Exper + Sex + Age, data=wages)
 broom::tidy(model) %&gt;% kable(format="markdown", digits=3) # View the output
 ```
 
@@ -148,27 +147,60 @@ broom::tidy(model) %&gt;% kable(format="markdown", digits=3) # View the output
 
 |term                | estimate| std.error| statistic| p.value|
 |:-------------------|--------:|---------:|---------:|-------:|
-|(Intercept)         | 6611.707|   561.142|    11.783|   0.000|
-|EducationGraduate   |  388.756|   120.536|     3.225|   0.002|
-|EducationHighSchool | -231.447|   165.201|    -1.401|   0.165|
-|Exper               |    0.567|     1.058|     0.536|   0.593|
-|SexMale             |  748.307|   129.631|     5.773|   0.000|
-|Senior              |  -22.522|     5.283|    -4.263|   0.000|
-|Age                 |    0.526|     0.731|     0.720|   0.474|
-- Note that R has automatically converted the 'Sex' and 'Education' variables to a categorical variable and added categories as necessary
+|(Intercept)         | 4541.806|   307.768|    14.757|   0.000|
+|EducationGraduate   |  378.285|   131.869|     2.869|   0.005|
+|EducationHighSchool | -256.727|   180.654|    -1.421|   0.159|
+|Exper               |    0.051|     1.150|     0.045|   0.964|
+|SexMale             |  746.467|   141.848|     5.262|   0.000|
+|Age                 |    1.109|     0.786|     1.411|   0.162|
+- Note that R has automatically converted the 'Sex' and 'Education' variables to categorical variables and added categories as necessary
   - The 'missing' category is captured by the intercept
+
+---
+
+## Additional Syntax in R
+- Can also use `Bsal ~ .` to regress a column named `Bsal` against everything else in the data frame
+- Can use `summary` function to obtain an easy-to-read output 
+
+```r
+model2 &lt;- lm(Bsal ~ ., data=wages)
+summary(model)
+```
+
+```
+## 
+## Call:
+## lm(formula = Bsal ~ Education + Exper + Sex + Age, data = wages)
+## 
+## Residuals:
+##      Min       1Q   Median       3Q      Max 
+## -1050.48  -389.96   -24.56   321.94  2021.29 
+## 
+## Coefficients:
+##                       Estimate Std. Error t value Pr(&gt;|t|)
+## (Intercept)         4541.80562  307.76782  14.757  &lt; 2e-16
+## EducationGraduate    378.28523  131.86917   2.869  0.00517
+## EducationHighSchool -256.72742  180.65427  -1.421  0.15886
+## Exper                  0.05148    1.15002   0.045  0.96440
+## SexMale              746.46733  141.84809   5.262 1.01e-06
+## Age                    1.10933    0.78617   1.411  0.16179
+## 
+## Residual standard error: 554.3 on 87 degrees of freedom
+## Multiple R-squared:  0.423,	Adjusted R-squared:  0.3899 
+## F-statistic: 12.76 on 5 and 87 DF,  p-value: 2.646e-09
+```
 
 ---
 ## Interpreting the output
 
 - **estimate**: the estimated value of the `\(\beta\)` coefficient for that explanatory variable.
   - For most coefficients, the way to interpret this is "*for every 1 unit increase in X, we observe a `\(\beta\)` unit increase in `\(Y\)`.*"
-  - For the **intercept**: the interpretation is "*the expected (average) value for `\(Y\)` if all the `\(X\)` variables are `\(0\)`*"
+  - For the **intercept**: the interpretation is "*the expected (average) value for `\(Y\)` if all the `\(X\)` variables are `\(0\)`*". If we have categorical variables, the baseline category is included here. 
+  
 - **std.error**: The standard error estimate for the coefficient
 - **statistic**: The t-statistic for deviation 
 - **p.value**: The p-value implied by the t-statistic
   - The interpretation of the p-value for a particular coefficient `\(\hat{\beta_j}\)` is "the probability of calculating a `\(\hat{\beta_j}\)` this extreme or more extreme **assuming the null hypothesis is true** (in this case, null hypothesis is `\(\beta_j=0\)`)
-  - p.value appears to be `\(0\)` in table above because we've truncated to 3 digits, it's actually just very small
 
 ---
 
@@ -176,27 +208,26 @@ broom::tidy(model) %&gt;% kable(format="markdown", digits=3) # View the output
 
 
 ```r
-x_star &lt;- data.frame(Senior=96, Age=329, Education='HighSchool', Exper=14.0, Sex="Male")
+x_star &lt;- data.frame(Age=329, Education='HighSchool', Exper=14.0, Sex="Male")
 predict(model, x_star, interval='prediction', level=0.95)
 ```
 
 ```
 ##        fit      lwr      upr
-## 1 5147.594 4063.677 6231.511
+## 1 5397.236 4218.215 6576.257
 ```
 
 - Code above shows how to obtain an estimate ('fit') as well as the lower and upper bounds of the 95% prediction interval
 - Types of uncertainty estimates for predictions:
   - **Confidence interval** (interval='confidence') captures the uncertainty inherent in estimating `\(\beta\)` - this is our best guess for the average value of `\(Y\)` at `\(X\)` 
   - **Prediction interval** (interval='prediction') captures the uncertainty in obtaining `\(\hat{\beta}\)`, **plus** the uncertainty from the error inherent in `\(Y\)`
-  - Prediction intervals are always guaranteed to be wider as a result
 
 ---
 
 ## Checking Assumptions of Linear Regression
 
 - OLS only gives unbiased estimates if four assumptions are satisfied
-  - **Linearity**: `\(Y\)` cannont depend on `\(\mathbf{X}\)` in a nonlinear way - 
+  - **Linearity**: `\(Y\)` cannont depend on `\(\mathbf{X}\)` in a nonlinear way 
   - **Normality**: The error must be normally distributed, and centered at `\(0\)`. Note: `\(\mathbf{X}\)` can be distributed however you want - it's **just the error `\(\epsilon\)`**  that needs to be normally distributed
   - **Constant Error** The amount of error can't change as the predicted value changes
   - **Independence**: Each individual `\(Y_i\)` can't depend on any of the other `\(Y_i\)`'s except via their individual `\(X\)` values
@@ -208,13 +239,25 @@ predict(model, x_star, interval='prediction', level=0.95)
 ### Assumption 1: Linearity
 - **How to check**: Plot the predicted value `\(\hat{Y}\)` against residuals
   - Values should be centered around `\(0\)` at every value of `\(\hat{Y}\)`
-- When conducting multiple linear regression, it's advisable to check the relationship for each individual predictor, as well as `\(\hat{Y}\)` overall. 
-- You can fix this by transforming `\(Y\)` or `\(X\)` to make the relationship linear - but remember then that your predictors, confidence intervals, etc, are all going to be in the transformed space, and won't necessarily translate back to the same point in the untransformed space
+- You can fix this by transforming `\(Y\)` or `\(X\)` to make the relationship linear - but remember then that your predictors, confidence intervals, etc, are all going to be in the transformed space
+
+&lt;img src="intro_regression_slides_files/figure-html/unnamed-chunk-9-1.png" style="display: block; margin: auto;" /&gt;
+
 
 ---
-### Linearity continued
+### Assumption 1: Linearity
 
-&lt;img src="intro_regression_slides_files/figure-html/unnamed-chunk-8-1.png" style="display: block; margin: auto;" /&gt;
+&lt;img src="intro_regression_slides_files/figure-html/unnamed-chunk-11-1.png" style="display: block; margin: auto;" /&gt;
+- DON'T worry if the data is bunched in some areas left-to-right
+- DO worry if the data appears to be bunched above/below the line
+
+
+---
+### Assumption 1: Linearity
+
+
+
+&lt;img src="intro_regression_slides_files/figure-html/unnamed-chunk-12-1.png" style="display: block; margin: auto;" /&gt;
 - DON'T worry if the data is bunched in some areas left-to-right
 - DO worry if the data appears to be bunched above/below the line
   
@@ -227,42 +270,22 @@ predict(model, x_star, interval='prediction', level=0.95)
 - **How to check**: Make a histogram and QQ-plot of the residuals, and examine if the data appears to be normally distributed
   - You should observe a roughly bell-shaped curve. Anything else indicates that the normality assumption is violated
 
+---
+
+### Assumption 2: Normality 
+&lt;img src="intro_regression_slides_files/figure-html/unnamed-chunk-13-1.png" style="display: block; margin: auto;" /&gt;
+
 - DON'T worry if the histogram shows a somewhat spikey pattern - this happens a lot just due to inherent randomness if your sample size is small
 - DO worry if you see multiple modes emerge in the histogram - an 'M' shape is almost certainly evidence of a problem
 
 ---
 
-### Assumption 2: Normality (cont'd)
-
-
-
-```r
-p1 &lt;- ggplot(data=movie_scores,mapping=aes(x=residuals)) + 
-  geom_histogram() + 
-  labs(title="Histogram, Normal Error")
-p2 &lt;- ggplot(data=movie_scores,mapping=aes(sample=residuals)) + 
-  stat_qq() + stat_qq_line() +  
-  labs(title="QQ-Plot, Normal Error")
-p3 &lt;- ggplot(data=movie_scores,mapping=aes(x=residuals_non_normal)) + 
-  geom_histogram() + 
-  labs(title="Histogram, Non-Normal Error")
-p4 &lt;- ggplot(data=movie_scores,mapping=aes(sample=residuals_non_normal)) + 
-  stat_qq() + stat_qq_line() +  
-  labs(title="QQ-Plot, Non-Normal Error")
-grid.arrange(p1, p2, p3, p4, nrow=2, ncol=2)
-```
-
-&lt;img src="intro_regression_slides_files/figure-html/unnamed-chunk-9-1.png" style="display: block; margin: auto;" /&gt;
-
----
-
 ## Assumption 3: Constant Error
 
-- The typical error `\(\sigma^2\)` can't change as `\(X\)` changes
+- The expected squared error `\(\sigma^2\)` can't change as `\(X\)` changes
 - **How to check**: Plot the predicted value `\(\hat{Y}\)` against residuals. The spread above/below zero shouldn't change. 
 
 &lt;img src="intro_regression_slides_files/regression.png" width="80%" style="display: block; margin: auto;" /&gt;
-
 
 
 
@@ -271,8 +294,14 @@ grid.arrange(p1, p2, p3, p4, nrow=2, ncol=2)
 
 ### Assumption 3: Constant Error
 
-&lt;img src="intro_regression_slides_files/figure-html/unnamed-chunk-12-1.png" style="display: block; margin: auto;" /&gt;
-- Note how the bottom plot has noticeably higher error as the predicted value increases
+&lt;img src="intro_regression_slides_files/figure-html/unnamed-chunk-16-1.png" style="display: block; margin: auto;" /&gt;
+
+---
+
+### Assumption 3: Constant Error
+
+&lt;img src="intro_regression_slides_files/figure-html/unnamed-chunk-17-1.png" style="display: block; margin: auto;" /&gt;
+- Note how the residuals get larger as the predicted value increases. This is bad. 
 
 ---
 
@@ -296,7 +325,7 @@ ggplot(data=pew_data, mapping = aes(x=percapitaincome,y=residuals,color=State)) 
   labs(title="Residuals vs. Per Capita Income", 
        x="Per Capita Income ($)")
 ```
-&lt;img src="intro_regression_slides_files/residuals_cluster_effect.JPG" width="100%" style="display: block; margin: auto auto auto 0;" /&gt;
+&lt;img src="intro_regression_slides_files/residuals_cluster_effect.jpg" width="80%" style="display: block; margin: auto auto auto 0;" /&gt;
 
 ---
  
@@ -309,9 +338,7 @@ ggplot(data=pew_data, aes(x=Year,y=residuals,color=State)) + geom_point() +
   scale_x_continuous(breaks=seq(2000,2009,1))
 ```
 
-&lt;img src="intro_regression_slides_files/residuals_serial_effect.JPG" width="100%" style="display: block; margin: auto auto auto 0;" /&gt;
-
----
+&lt;img src="intro_regression_slides_files/residuals_serial_effect.jpg" width="80%" style="display: block; margin: auto auto auto 0;" /&gt;
 
 ---
 
@@ -332,6 +359,9 @@ ggplot(data=pew_data, aes(x=Year,y=residuals,color=State)) + geom_point() +
   - Proving causality requires a carefully designed experiment or carefully accounting for confounding variables in an observational study
 - Be careful of providing variables that are too correlated 
   - You can use model selection techniques to help understand which variables you should retain
+- Model selection is an iteractive process
+  - Don't be afraid to change your model based on the outcome of initial regressions
+  - BUT, monkeying around with your model in pursuit of better p-values is not scientific. If you're deciding between a lot of different models, engage a statistician to help you capture the uncertainty associated with this process. 
 
 
 ---
@@ -340,12 +370,21 @@ ggplot(data=pew_data, aes(x=Year,y=residuals,color=State)) + geom_point() +
 
 - **Interaction terms**: What to do when some of your variables might produce an additional response when viewed together
 - **Model selection**: How to know which variables to include in your model
-- **Outlier detection**: Use of Cook's Distance and other techniques for detecting outliers
+- **Outlier detection**: Use of Cook's Distance, robust regression, and other techniques for handling outliers
 - **Logistic Regression**: When your observed variable is a binary (yes/no) response
 - **Multinomial Regression**: Similar to logistic regression, when your response is one or more discrete categories
 - **Penalized regression**: Wide class of techniques used to obtain more stable estimates of `\(\beta\)` at the expense of an unbiased estimate
 - **Poisson regression**: Used to model count-based data
 - **Bayesian approaches to regression**: How to use priors to gain estimates of the distribution of `\(\hat{\beta}, \hat{\sigma^2}\)`
+
+---
+## Try it out
+
+- Download and save the .Rmd from [here](https://raw.githubusercontent.com/wyseguy7/intro_regression/master/intro_regression.Rmd) so we can step through exercises together
+
+
+
+---
     </textarea>
 <style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/remark/0.14.0/remark.min.js"></script>
