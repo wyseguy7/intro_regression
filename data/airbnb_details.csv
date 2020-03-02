@@ -1,0 +1,1961 @@
+id,city,state,zipcode,property_type,bathrooms,bedrooms,beds,bed_type,cleaning_fee,guests_included,extra_people,review_scores_rating,cancellation_policy
+38585,Asheville,NC,28804,House,1,1,2,Real Bed,$0.00 ,1,$20.00 ,96,moderate
+80905,Asheville,NC,28801,Loft,2,3,6,Real Bed,$0.00 ,2,$25.00 ,95,super_strict_60
+80965,Asheville,NC,28801,House,1,2,2,Real Bed,$75.00 ,2,$25.00 ,,strict_14_with_grace_period
+108061,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$0.00 ,2,$0.00 ,90,strict_14_with_grace_period
+108396,Asheville,NC,28801,House,2.5,1,3,Real Bed,$75.00 ,1,$15.00 ,100,strict_14_with_grace_period
+155305,Asheville,NC,28806,Guesthouse,1,1,1,Real Bed,$15.00 ,2,$12.00 ,88,moderate
+156805,Asheville,NC,28806,House,2.5,1,1,Real Bed,,2,$12.00 ,88,moderate
+156926,Asheville,NC,28806,House,2.5,1,1,Real Bed,$0.00 ,1,$26.00 ,93,moderate
+160594,Asheville,NC,28801,House,1,1,1,Real Bed,$30.00 ,1,$50.00 ,99,moderate
+209068,Asheville,NC,28804,Guest suite,1,1,2,Real Bed,$45.00 ,2,$10.00 ,98,strict_14_with_grace_period
+213006,Asheville,NC,28806,Bungalow,1,2,2,Real Bed,$25.00 ,1,$18.00 ,97,strict_14_with_grace_period
+246315,Asheville,NC,28805,Cabin,1,1,1,Real Bed,$65.00 ,1,$15.00 ,94,strict_14_with_grace_period
+259576,Asheville,NC,28805,Apartment,1,1,1,Real Bed,$25.00 ,2,$10.00 ,98,moderate
+273534,Asheville,NC,28803,Apartment,1.5,1,1,Real Bed,$40.00 ,1,$0.00 ,99,strict_14_with_grace_period
+284690,Asheville,NC,28806,Guest suite,1,1,2,Real Bed,$50.00 ,1,$0.00 ,91,moderate
+291937,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$50.00 ,1,$0.00 ,100,strict_14_with_grace_period
+295496,Asheville,NC,28803,Apartment,1,1,1,Real Bed,$50.00 ,1,$0.00 ,93,strict_14_with_grace_period
+304379,Asheville,NC,28804,Guesthouse,1,2,2,Pull-out Sofa,$89.00 ,4,$50.00 ,98,moderate
+326772,Asheville,NC,28803,House,1,1,2,Real Bed,$50.00 ,2,$10.00 ,99,strict_14_with_grace_period
+353092,Asheville,NC,28806,Guest suite,1,1,2,Real Bed,$35.00 ,2,$15.00 ,97,moderate
+427497,Asheville,NC,28803,Guest suite,1,1,1,Real Bed,$50.00 ,1,$0.00 ,99,moderate
+433646,Asheville,NC,28801,House,1.5,1,1,Real Bed,$25.00 ,2,$25.00 ,94,strict_14_with_grace_period
+436476,Asheville,NC,28801,Guest suite,1.5,1,1,Real Bed,$50.00 ,2,$0.00 ,98,strict_14_with_grace_period
+483384,Asheville,NC,28806,Cottage,2,1,0,Real Bed,$20.00 ,2,$20.00 ,99,moderate
+495111,Asheville,NC,28801,House,1,1,1,Real Bed,$25.00 ,2,$20.00 ,98,strict_14_with_grace_period
+498089,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$60.00 ,2,$0.00 ,95,strict_14_with_grace_period
+563189,Asheville,NC,28803,House,1,1,1,Real Bed,$20.00 ,1,$0.00 ,93,moderate
+612660,Asheville,NC,28806,Bungalow,2,2,2,Real Bed,$150.00 ,2,$5.00 ,97,strict_14_with_grace_period
+621243,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$55.00 ,2,$0.00 ,99,strict_14_with_grace_period
+634319,Asheville,NC,28805,Apartment,1.5,2,2,Real Bed,$0.00 ,4,$23.00 ,99,strict_14_with_grace_period
+638349,Asheville,NC,28806,House,1,2,2,Real Bed,$100.00 ,2,$10.00 ,91,strict_14_with_grace_period
+653777,Asheville,NC,28803,House,1,1,1,Real Bed,$20.00 ,1,$0.00 ,96,moderate
+660702,Asheville,NC,28804,House,1,1,1,Real Bed,$20.00 ,2,$30.00 ,91,moderate
+674894,Asheville,NC,28805,House,1,1,1,Real Bed,$20.00 ,2,$0.00 ,92,moderate
+677692,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$75.00 ,1,$0.00 ,95,strict_14_with_grace_period
+695196,Asheville,NC,28801,House,1,1,1,Real Bed,$15.00 ,1,$10.00 ,92,moderate
+706115,Asheville,NC,28801,House,2,2,2,Real Bed,,1,$0.00 ,94,flexible
+720609,Asheville,NC,28801,Loft,1,1,4,Real Bed,$0.00 ,2,$25.00 ,96,super_strict_60
+723349,Asheville,NC,28801,Bed and breakfast,1,1,2,Real Bed,$0.00 ,2,$18.00 ,80,strict_14_with_grace_period
+751963,Asheville,NC,28806,House,2.5,2,4,Real Bed,$75.00 ,2,$35.00 ,97,moderate
+840696,Asheville,NC,28801,House,2,2,2,Real Bed,$120.00 ,2,$25.00 ,100,strict_14_with_grace_period
+846221,Asheville,NC,28804,House,1.5,3,4,Real Bed,$27.00 ,1,$0.00 ,94,strict_14_with_grace_period
+875735,Asheville,NC,28805,House,1,1,1,Real Bed,,1,$0.00 ,89,flexible
+881707,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$20.00 ,1,$0.00 ,97,strict_14_with_grace_period
+942934,Asheville,NC,28806,House,1,1,1,Real Bed,$20.00 ,1,$10.00 ,98,strict_14_with_grace_period
+943832,Asheville,NC,,House,2,2,2,Real Bed,$150.00 ,4,$25.00 ,93,strict_14_with_grace_period
+971003,Asheville,NC,28801,House,1,1,1,Real Bed,$20.00 ,1,$0.00 ,98,strict_14_with_grace_period
+976034,Asheville,NC,28803,Apartment,1,1,1,Real Bed,,1,$10.00 ,99,strict_14_with_grace_period
+977054,Asheville,NC,28804,Guesthouse,1,1,1,Real Bed,$95.00 ,2,$0.00 ,99,strict_14_with_grace_period
+990426,Asheville,NC,28801,Loft,1,2,3,Real Bed,$0.00 ,2,$25.00 ,96,super_strict_60
+992821,Candler,NC,28715,House,1,2,3,Real Bed,$60.00 ,4,$10.00 ,98,moderate
+1039028,Asheville,NC,28803,Tiny house,1.5,1,2,Real Bed,$20.00 ,2,$5.00 ,100,moderate
+1054757,Asheville,NC,28801,Bungalow,1,1,1,Real Bed,$20.00 ,1,$10.00 ,98,flexible
+1066156,Asheville,NC,28804,Guesthouse,1,1,2,Real Bed,$60.00 ,2,$20.00 ,100,strict_14_with_grace_period
+1127777,Asheville,NC,28806,Bungalow,1,1,1,Real Bed,,2,$20.00 ,98,moderate
+1138179,Asheville,NC,28806,House,2.5,1,3,Real Bed,,1,$0.00 ,,flexible
+1151149,Asheville,NC,28805,House,1,1,1,Real Bed,$30.00 ,1,$0.00 ,98,moderate
+1198090,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$30.00 ,2,$50.00 ,98,strict_14_with_grace_period
+1202777,Arden,NC,28704,House,2.5,4,4,Real Bed,$50.00 ,1,$0.00 ,96,strict_14_with_grace_period
+1212352,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$75.00 ,2,$20.00 ,96,strict_14_with_grace_period
+1219374,Asheville,NC,28801,House,1.5,3,3,Real Bed,$40.00 ,2,$25.00 ,100,moderate
+1223655,Asheville,NC,28801,Loft,2,4,6,Real Bed,$0.00 ,2,$25.00 ,95,super_strict_60
+1223683,Asheville,NC,28801,Loft,1,1,3,Real Bed,$0.00 ,2,$25.00 ,94,super_strict_60
+1235531,Arden,NC,28704,Townhouse,1,1,1,Real Bed,,2,$25.00 ,93,strict_14_with_grace_period
+1243512,Asheville,NC,28801,Loft,12,34,16,Real Bed,,6,$25.00 ,98,super_strict_60
+1297717,Asheville,NC,28805,Guest suite,1,1,2,Real Bed,$20.00 ,1,$10.00 ,93,moderate
+1312301,Asheville,NC,28805,Apartment,1,1,1,Futon,$50.00 ,1,$0.00 ,95,moderate
+1325364,Asheville,NC,28806,Townhouse,1.5,1,1,Futon,,1,$0.00 ,96,moderate
+1332684,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$35.00 ,2,$20.00 ,94,moderate
+1373040,Asheville,NC,28801,Condominium,1,1,1,Real Bed,$0.00 ,2,$10.00 ,97,moderate
+1392363,Asheville,NC,28804,Bungalow,1,1,1,Real Bed,$64.00 ,2,$0.00 ,98,moderate
+1393012,Arden,NC,28704,House,1,1,1,Real Bed,$10.00 ,2,$45.00 ,99,moderate
+1393437,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$50.00 ,2,$10.00 ,98,moderate
+1421061,Asheville,NC,28803,Apartment,1,1,1,Real Bed,$50.00 ,2,$25.00 ,98,moderate
+1441145,Asheville,NC,28801,House,1,1,1,Real Bed,$15.00 ,2,$0.00 ,97,moderate
+1475299,Asheville,NC,28804,House,1.5,3,3,Real Bed,$150.00 ,5,$50.00 ,100,moderate
+1497710,Asheville,NC,28806,House,1,1,1,Real Bed,$35.00 ,1,$0.00 ,99,strict_14_with_grace_period
+1499885,Asheville,NC,28801,House,1,0,1,Real Bed,$75.00 ,2,$25.00 ,98,strict_14_with_grace_period
+1569954,Asheville,NC,28804,House,1,1,1,Futon,$25.00 ,1,$10.00 ,98,strict_14_with_grace_period
+1571095,Asheville,NC,28803,Guesthouse,1,0,1,Real Bed,$40.00 ,2,$10.00 ,99,moderate
+1574329,Asheville,NC,28801,Bed and breakfast,1,1,1,Real Bed,$0.00 ,2,$0.00 ,100,strict_14_with_grace_period
+1577750,Asheville,NC,28803,House,1,1,1,Real Bed,$20.00 ,2,$15.00 ,96,strict_14_with_grace_period
+1578831,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$60.00 ,2,$0.00 ,94,strict_14_with_grace_period
+1586906,Asheville,NC,28801,House,1,1,1,Real Bed,$15.00 ,1,$0.00 ,99,moderate
+1684109,Asheville,NC,28805,House,2.5,3,5,Real Bed,$125.00 ,6,$15.00 ,100,strict_14_with_grace_period
+1702227,Asheville,NC,28801,Bungalow,1,1,1,Real Bed,$20.00 ,1,$10.00 ,98,flexible
+1728187,Asheville,NC,28801,House,1,2,2,Real Bed,$0.00 ,2,$0.00 ,93,moderate
+1768955,Asheville,NC,28801,Apartment,1,1,2,Real Bed,$75.00 ,2,$25.00 ,96,strict_14_with_grace_period
+1785262,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$22.00 ,1,$0.00 ,99,moderate
+1813448,Asheville,NC,28804,House,1,1,1,Real Bed,$10.00 ,2,$40.00 ,100,flexible
+1827412,Asheville,NC,28801,Hostel,2,1,1,Real Bed,$16.00 ,1,$0.00 ,94,moderate
+1843828,Asheville,NC,28804,House,2,2,2,Real Bed,$125.00 ,4,$30.00 ,99,strict_14_with_grace_period
+1852818,Asheville,NC,28804,Guesthouse,1,1,1,Real Bed,$60.00 ,1,$0.00 ,99,moderate
+1861419,Asheville,NC,28806,Townhouse,3,1,1,Real Bed,$25.00 ,1,$0.00 ,95,moderate
+1950593,Asheville,NC,28806,Cottage,1,1,1,Real Bed,$10.00 ,1,$0.00 ,99,moderate
+1956037,Asheville,NC,28804,Bungalow,2,2,5,Real Bed,$110.00 ,4,$30.00 ,97,moderate
+1972038,Asheville,NC,28806,Bungalow,1,1,1,Real Bed,$10.00 ,1,$0.00 ,98,flexible
+1984612,Asheville,NC,28806,House,2.5,2,3,Real Bed,$150.00 ,4,$25.00 ,98,moderate
+2011367,Asheville,NC,28801,Apartment,1,1,2,Real Bed,$30.00 ,2,$10.00 ,95,moderate
+2014453,Asheville,NC,28806,Cottage,1,1,1,Real Bed,$10.00 ,1,$0.00 ,99,moderate
+2072026,Asheville,NC,28804,House,1,1,2,Real Bed,$15.00 ,2,$0.00 ,99,moderate
+2108335,Asheville,NC,28801,House,2,2,4,Real Bed,$75.00 ,2,$40.00 ,98,strict_14_with_grace_period
+2142139,Asheville,NC,28806,House,1,1,1,Real Bed,$10.00 ,1,$5.00 ,99,moderate
+2152930,Asheville,NC,28801,Bungalow,1,2,2,Real Bed,$100.00 ,1,$0.00 ,98,strict_14_with_grace_period
+2176375,Asheville,NC,28806,Guesthouse,1,1,1,Real Bed,$75.00 ,2,$25.00 ,98,strict_14_with_grace_period
+2209375,Asheville,NC,28801,Bungalow,1,2,3,Real Bed,$75.00 ,5,$25.00 ,90,moderate
+2213748,Asheville,NC,28805,House,1,1,1,Real Bed,$50.00 ,1,$0.00 ,99,strict_14_with_grace_period
+2214960,Asheville,NC,28801,House,1,1,1,Real Bed,$70.00 ,1,$0.00 ,98,strict_14_with_grace_period
+2222067,Asheville,NC,28801,Guest suite,1,1,1,Real Bed,,1,$0.00 ,98,strict_14_with_grace_period
+2254521,Asheville,NC,28806,Bungalow,1,1,1,Real Bed,$25.00 ,1,$15.00 ,94,strict_14_with_grace_period
+2295996,Asheville,NC,28801,House,1,1,1,Real Bed,$0.00 ,2,$0.00 ,96,strict_14_with_grace_period
+2296152,Asheville,NC,28801,House,1,1,1,Real Bed,,2,$15.00 ,97,strict_14_with_grace_period
+2326086,Asheville,NC,28801,Loft,1,1,0,Real Bed,$89.00 ,2,$30.00 ,99,strict_14_with_grace_period
+2411109,Asheville,NC,28801,House,1,1,1,Real Bed,,2,$15.00 ,97,strict_14_with_grace_period
+2432326,Asheville,NC,28804,Bungalow,1,0,1,Real Bed,$25.00 ,2,$0.00 ,98,moderate
+2432333,Asheville,NC,28805,House,1,1,1,Real Bed,,1,$0.00 ,98,moderate
+2454666,Asheville,NC,28806,Apartment,1,2,2,Real Bed,,1,$0.00 ,98,strict_14_with_grace_period
+2477628,Asheville,NC,28801,House,1.5,2,2,Real Bed,$75.00 ,4,$25.00 ,97,strict_14_with_grace_period
+2569529,Asheville,NC,28801,Condominium,2,2,2,Real Bed,$100.00 ,4,$50.00 ,100,strict_14_with_grace_period
+2605869,Asheville,NC,28805,House,3.5,6,6,Real Bed,$250.00 ,8,$25.00 ,86,strict_14_with_grace_period
+2607570,Asheville,NC,28801,Apartment,1,1,2,Real Bed,,1,$0.00 ,97,flexible
+2624781,Asheville,NC,28803,House,1.5,2,2,Real Bed,$75.00 ,5,$100.00 ,89,moderate
+2643168,Asheville,NC,28801,Bed and breakfast,1,1,1,Real Bed,$0.00 ,2,$0.00 ,,super_strict_30
+2691057,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,,1,$0.00 ,98,moderate
+2708104,Asheville,NC,28801,House,1,1,1,Real Bed,$70.00 ,1,$0.00 ,97,strict_14_with_grace_period
+2751374,Asheville,NC,28805,Apartment,1,2,3,Real Bed,$100.00 ,2,$0.00 ,98,strict_14_with_grace_period
+2761044,Asheville,NC,28803,House,2.5,4,7,Real Bed,$0.00 ,10,$0.00 ,92,strict_14_with_grace_period
+2842035,Asheville,NC,28805,Cabin,2,2,3,Real Bed,$60.00 ,2,$10.00 ,99,strict_14_with_grace_period
+2847157,Asheville,NC,28801,House,1,1,1,Real Bed,,1,$0.00 ,99,strict_14_with_grace_period
+2925486,Asheville,NC,28805,House,1,1,2,Real Bed,$0.00 ,2,$15.00 ,99,moderate
+2943116,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$29.00 ,1,$0.00 ,98,moderate
+2949571,Asheville,NC,28806,Bungalow,1,2,2,Real Bed,$0.00 ,2,$20.00 ,98,moderate
+3018908,Asheville,NC,28806,Bed and breakfast,1,2,2,Real Bed,$75.00 ,4,$300.00 ,99,moderate
+3040444,Asheville,NC,28801,Guest suite,1,1,1,Real Bed,$25.00 ,2,$25.00 ,98,strict_14_with_grace_period
+3066648,Asheville,NC,28801,House,1,1,1,Real Bed,$60.00 ,2,$50.00 ,96,moderate
+3084395,Asheville,NC,28804,Bungalow,1,2,2,Real Bed,$0.00 ,3,$10.00 ,97,strict_14_with_grace_period
+3095136,Asheville,NC,28806,Cabin,1,3,3,Real Bed,$35.00 ,4,$0.00 ,96,strict_14_with_grace_period
+3116699,Asheville,NC,28804,House,2,3,3,Real Bed,$50.00 ,1,$0.00 ,97,strict_14_with_grace_period
+3220474,Asheville,NC,28803,House,1,1,1,Real Bed,$5.00 ,1,$0.00 ,93,strict_14_with_grace_period
+3225871,Fletcher,NC,28732,Guest suite,1,1,1,Real Bed,$25.00 ,1,$20.00 ,87,moderate
+3244166,Asheville,NC,28801,Boutique hotel,1,1,1,Real Bed,$0.00 ,2,$100.00 ,98,moderate
+3300523,Asheville,NC,28801,Apartment,1,1,2,Real Bed,$50.00 ,2,$0.00 ,99,strict_14_with_grace_period
+3302863,Asheville,NC,28803,Condominium,2,2,2,Real Bed,$65.00 ,4,$30.00 ,97,moderate
+3314819,Asheville,NC,28803,House,1,1,1,Real Bed,$5.00 ,2,$10.00 ,94,strict_14_with_grace_period
+3322161,Asheville,NC,28806,Bungalow,2,2,2,Real Bed,$125.00 ,2,$5.00 ,95,strict_14_with_grace_period
+3369973,Asheville,NC,28803,Apartment,1,1,2,Real Bed,$75.00 ,4,$50.00 ,99,moderate
+3390324,Asheville,NC,28801,House,1,1,1,Real Bed,$50.00 ,1,$0.00 ,99,moderate
+3404146,Asheville,NC,28801,House,2.5,2,2,Real Bed,$60.00 ,1,$0.00 ,100,moderate
+3405282,Asheville,NC,28801,Cabin,1,1,2,Real Bed,,3,$0.00 ,100,strict_14_with_grace_period
+3424947,Asheville,NC,28804,Apartment,1,1,1,Real Bed,$30.00 ,1,$0.00 ,97,moderate
+3439245,Asheville,NC,28801,House,1.5,3,4,Real Bed,$90.00 ,6,$25.00 ,94,moderate
+3454237,Asheville,NC,28805,House,1,2,2,Real Bed,$60.00 ,1,$0.00 ,93,moderate
+3455514,Asheville,NC,28806,House,1,1,1,Real Bed,,1,$0.00 ,97,moderate
+3522134,Asheville,NC,28806,House,2,3,3,Real Bed,$150.00 ,5,$10.00 ,95,moderate
+3522532,Asheville,NC,28806,Guesthouse,1,0,1,Real Bed,$40.00 ,1,$0.00 ,95,strict_14_with_grace_period
+3529241,Asheville,NC,28801,Guesthouse,1,0,1,Real Bed,$35.00 ,1,$0.00 ,100,moderate
+3563156,Asheville,NC,28806,Cottage,1,1,1,Real Bed,$40.00 ,2,$150.00 ,97,moderate
+3563399,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$40.00 ,2,$50.00 ,97,moderate
+3569949,Woodfin,NC,28804,Bungalow,1,2,2,Real Bed,$50.00 ,4,$0.00 ,95,moderate
+3590634,Asheville,NC,28803,Cabin,1,1,1,Real Bed,$50.00 ,1,$0.00 ,99,moderate
+3649639,Asheville,NC,28801,Apartment,1,1,3,Real Bed,$50.00 ,4,$20.00 ,98,moderate
+3654375,Asheville,NC,28801,House,1,1,2,Real Bed,$50.00 ,2,$20.00 ,94,strict_14_with_grace_period
+3738456,Fletcher,NC,28732,House,2,1,3,Real Bed,$50.00 ,2,$45.00 ,91,strict_14_with_grace_period
+3741771,Asheville,NC,28806,House,1,1,2,Real Bed,$100.00 ,2,$15.00 ,94,strict_14_with_grace_period
+3741932,Asheville,NC,28806,Bungalow,1.5,2,2,Real Bed,$50.00 ,4,$0.00 ,99,moderate
+3767793,Asheville,NC,28806,House,2.5,4,5,Real Bed,$200.00 ,6,$15.00 ,82,strict_14_with_grace_period
+3781780,Asheville,NC,28806,Bungalow,1,1,1,Real Bed,$30.00 ,1,$0.00 ,96,moderate
+3812545,Asheville,NC,28805,House,2,3,3,Real Bed,$35.00 ,3,$15.00 ,100,strict_14_with_grace_period
+3868452,Asheville,NC,28806,Cabin,2,3,3,Real Bed,$135.00 ,6,$0.00 ,98,strict_14_with_grace_period
+3868910,Asheville,NC,28801,Guest suite,1,1,1,Couch,$30.00 ,2,$15.00 ,95,strict_14_with_grace_period
+3888565,Asheville,NC,28804,House,1,1,1,Real Bed,$49.00 ,2,$15.00 ,97,strict_14_with_grace_period
+3888845,Asheville,NC,28805,House,1,1,1,Real Bed,$60.00 ,2,$0.00 ,100,strict_14_with_grace_period
+3889212,Asheville,NC,28806,Guesthouse,1,1,1,Real Bed,$35.00 ,1,$0.00 ,93,moderate
+3893957,Asheville,NC,28804,House,2,3,3,Real Bed,$85.00 ,4,$0.00 ,95,strict_14_with_grace_period
+3945733,Asheville,NC,28801,Apartment,1,0,1,Real Bed,$48.00 ,2,$15.00 ,94,strict_14_with_grace_period
+3961524,Asheville,NC,28804,House,1,1,3,Real Bed,$49.00 ,2,$30.00 ,97,strict_14_with_grace_period
+3968877,Asheville,NC,28804,Apartment,1,1,1,Real Bed,$55.00 ,2,$25.00 ,97,moderate
+3984596,Asheville,NC,28806,House,3,5,7,Real Bed,$160.00 ,6,$55.00 ,93,strict_14_with_grace_period
+3986614,Asheville,NC,28804,Guest suite,1,1,2,Real Bed,$40.00 ,2,$10.00 ,96,strict_14_with_grace_period
+3990524,Asheville,NC,28806,House,1,1,1,Futon,$10.00 ,1,$0.00 ,98,flexible
+4021238,Asheville,NC,28801,House,1,1,1,Real Bed,$75.00 ,2,$0.00 ,97,strict_14_with_grace_period
+4045013,Asheville,NC,28804,Cottage,1,1,1,Real Bed,$50.00 ,1,$0.00 ,100,strict_14_with_grace_period
+4054144,Asheville,NC,28801,House,2.5,3,3,Real Bed,$95.00 ,1,$0.00 ,98,moderate
+4108784,Asheville,NC,28804,Bungalow,1,2,3,Real Bed,$38.00 ,1,$0.00 ,92,moderate
+4124504,Asheville,NC,28803,Guest suite,1,2,2,Real Bed,$39.00 ,2,$29.00 ,97,moderate
+4129119,Asheville,NC,28804,House,1,1,1,Real Bed,,1,$0.00 ,98,flexible
+4145255,Asheville,NC,28806,House,1,2,2,Real Bed,$35.00 ,1,$0.00 ,99,flexible
+4173713,Asheville,NC,28804,Cottage,1,1,1,Real Bed,$50.00 ,1,$0.00 ,100,strict_14_with_grace_period
+4182500,Asheville,NC,28803,House,1,1,1,Real Bed,$20.00 ,2,$20.00 ,97,flexible
+4183263,Asheville,NC,28801,House,1,1,1,Real Bed,$0.00 ,1,$10.00 ,98,moderate
+4241484,Asheville,NC,28803,House,1,3,3,Real Bed,$50.00 ,2,$10.00 ,97,moderate
+4249688,Asheville,NC,28806,Guest suite,1,1,2,Real Bed,,3,$50.00 ,97,flexible
+4285157,Asheville,NC,28805,House,1,0,1,Real Bed,$50.00 ,1,$0.00 ,96,strict_14_with_grace_period
+4304358,Asheville,NC,28805,House,1,1,1,Real Bed,$25.00 ,1,$0.00 ,95,strict_14_with_grace_period
+4304361,Asheville,NC,28805,House,2,1,1,Real Bed,$0.00 ,1,$0.00 ,91,strict_14_with_grace_period
+4311472,Asheville,NC,28805,House,1,1,1,Real Bed,$15.00 ,2,$25.00 ,100,flexible
+4362574,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,,1,$0.00 ,97,moderate
+4363562,Asheville,NC,28801,House,1,1,1,Real Bed,$20.00 ,1,$20.00 ,99,moderate
+4375081,Arden,NC,28704,Cabin,2,2,3,Real Bed,$50.00 ,4,$10.00 ,96,moderate
+4394670,Asheville,NC,28804,House,1,1,2,Real Bed,$30.00 ,2,$10.00 ,96,moderate
+4394761,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$45.00 ,2,$12.00 ,97,strict_14_with_grace_period
+4429169,Asheville,NC,28803,House,1,1,1,Real Bed,$5.00 ,2,$15.00 ,99,moderate
+4448604,Asheville,NC,28804,Guest suite,1,1,2,Real Bed,$35.00 ,2,$10.00 ,95,moderate
+4510499,Asheville,NC,28803,House,2,3,3,Real Bed,,1,$0.00 ,,flexible
+4515772,Asheville,NC,28801,House,1,2,2,Real Bed,,3,$50.00 ,96,flexible
+4583056,Asheville,NC,28801,House,1.5,1,1,Real Bed,$60.00 ,2,$0.00 ,100,moderate
+4587394,Asheville,NC,28805,Cabin,1,1,1,Real Bed,$100.00 ,2,$50.00 ,99,moderate
+4593058,Asheville,NC,28803,House,1,3,3,Real Bed,$150.00 ,1,$0.00 ,99,strict_14_with_grace_period
+4662490,Asheville,NC,28806,Apartment,2.5,1,1,Real Bed,$75.00 ,1,$25.00 ,95,flexible
+4764715,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$25.00 ,2,$25.00 ,99,moderate
+4811980,Asheville,NC,28805,House,1,2,2,Real Bed,,2,$35.00 ,100,moderate
+4815479,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$60.00 ,2,$0.00 ,98,strict_14_with_grace_period
+4846733,Fletcher,NC,28732,Chalet,3,3,6,Real Bed,$130.00 ,1,$0.00 ,99,strict_14_with_grace_period
+4875054,Asheville,NC,28806,Apartment,1,0,1,Real Bed,$25.00 ,1,$0.00 ,98,strict_14_with_grace_period
+4895765,Asheville,NC,28803,Apartment,1,1,2,Real Bed,,2,$25.00 ,98,moderate
+4937473,Asheville,NC,28806,Bungalow,1,1,1,Real Bed,$25.00 ,1,$0.00 ,100,moderate
+4939317,Asheville,NC,28806,House,2,3,3,Real Bed,$150.00 ,4,$0.00 ,100,moderate
+4984181,Asheville,NC,28806,Apartment,1,1,2,Real Bed,$25.00 ,2,$20.00 ,96,moderate
+4994407,Asheville,NC,28804,Cabin,2,3,4,Real Bed,$130.00 ,1,$0.00 ,95,strict_14_with_grace_period
+5114762,Asheville,NC,28806,Bungalow,1,2,3,Real Bed,$0.00 ,2,$15.00 ,98,moderate
+5131525,Asheville,NC,28806,Guesthouse,1,1,1,Real Bed,$50.00 ,2,$30.00 ,99,strict_14_with_grace_period
+5144212,Asheville,NC,28801,Apartment,1,0,1,Real Bed,$75.00 ,1,$0.00 ,97,strict_14_with_grace_period
+5151226,Asheville,NC,28805,House,2.5,3,5,Real Bed,$125.00 ,6,$15.00 ,100,strict_14_with_grace_period
+5170218,Asheville,NC,28806,Bungalow,1,2,2,Real Bed,$100.00 ,1,$0.00 ,100,strict_14_with_grace_period
+5213038,Asheville,NC,28801,House,1.5,2,2,Real Bed,,2,$25.00 ,97,strict_14_with_grace_period
+5262825,Asheville,NC,28801,Apartment,2,2,4,Real Bed,$75.00 ,2,$15.00 ,94,moderate
+5288006,Asheville,NC,28806,House,1,0,2,Real Bed,$30.00 ,2,$15.00 ,93,strict_14_with_grace_period
+5333015,Asheville,NC,28803,Guesthouse,1,1,3,Real Bed,$95.00 ,1,$0.00 ,99,strict_14_with_grace_period
+5336187,Arden,NC,28704,Apartment,1,1,1,Real Bed,$25.00 ,1,$0.00 ,100,strict_14_with_grace_period
+5344892,Asheville,NC,28805,House,1,1,2,Real Bed,$30.00 ,2,$20.00 ,99,moderate
+5354494,Asheville,NC,28806,Apartment,1,2,2,Real Bed,$50.00 ,1,$0.00 ,94,moderate
+5405078,Asheville,NC,28803,Cabin,1,1,1,Real Bed,$30.00 ,1,$0.00 ,99,moderate
+5464591,Asheville,NC,28806,Bungalow,1,2,3,Real Bed,$60.00 ,4,$25.00 ,97,strict_14_with_grace_period
+5481195,Asheville,NC,28804,House,3.5,2,4,Real Bed,$75.00 ,4,$0.00 ,98,strict_14_with_grace_period
+5506704,Asheville,NC,28806,Apartment,1,0,1,Real Bed,$50.00 ,3,$10.00 ,97,moderate
+5507900,Asheville,NC,28801,Apartment,2,2,2,Real Bed,$110.00 ,1,$0.00 ,97,strict_14_with_grace_period
+5532718,Asheville,NC,28805,House,1,1,1,Real Bed,$50.00 ,1,$0.00 ,98,strict_14_with_grace_period
+5598622,Asheville,NC,28806,House,1,1,1,Real Bed,$12.00 ,2,$20.00 ,98,moderate
+5682601,Asheville,NC,28803,Guesthouse,1.5,1,1,Real Bed,$0.00 ,1,$0.00 ,100,strict_14_with_grace_period
+5696919,Asheville,NC,28805,Cottage,1,2,2,Real Bed,$50.00 ,2,$25.00 ,98,strict_14_with_grace_period
+5716399,Asheville,NC,28806,House,1,1,2,Real Bed,$55.00 ,2,$15.00 ,92,strict_14_with_grace_period
+5760494,Asheville,NC,,House,1,1,1,Real Bed,$40.00 ,2,$20.00 ,97,moderate
+5792634,Asheville,NC,28806,Bungalow,1.5,2,2,Real Bed,$50.00 ,4,$25.00 ,99,strict_14_with_grace_period
+5830892,Asheville,NC,28805,House,1,1,2,Real Bed,$15.00 ,2,$20.00 ,93,moderate
+5839119,Asheville,NC,28801,House,3,2,5,Real Bed,$200.00 ,1,$0.00 ,99,strict_14_with_grace_period
+5850649,"Arden, NC 28704, USA",NC,28704,Apartment,1,1,4,Real Bed,$65.00 ,4,$5.00 ,99,moderate
+5868695,Asheville,NC,28803,House,3,4,4,Real Bed,$125.00 ,1,$0.00 ,98,moderate
+5873862,Asheville,NC,28806,House,1,1,1,Real Bed,,1,$10.00 ,96,flexible
+5885284,Asheville,NC,28806,Bed and breakfast,1,2,2,Real Bed,$75.00 ,4,$300.00 ,100,moderate
+5917298,Asheville,NC,28801,Bungalow,1,2,3,Real Bed,$70.00 ,1,$15.00 ,94,moderate
+5947797,Candler,NC,28715,Guest suite,1,1,1,Real Bed,$25.00 ,1,$0.00 ,100,moderate
+6004216,Asheville,NC,28804,House,1.5,1,1,Real Bed,$7.00 ,1,$0.00 ,97,strict_14_with_grace_period
+6005112,Asheville,NC,28803,House,1.5,1,1,Real Bed,$30.00 ,1,$0.00 ,,flexible
+6015623,Asheville,NC,28806,Apartment,1,1,1,Real Bed,,1,$0.00 ,97,moderate
+6054250,Asheville,NC,28806,Loft,1,1,1,Real Bed,$25.00 ,2,$0.00 ,99,moderate
+6056098,Asheville,NC,28804,Guest suite,1,1,2,Real Bed,$0.00 ,2,$25.00 ,99,strict_14_with_grace_period
+6079982,Fletcher,NC,28732,House,1,1,2,Real Bed,$45.00 ,2,$25.00 ,96,moderate
+6145162,Asheville,NC,28801,Hostel,2,1,1,Real Bed,$16.00 ,1,$0.00 ,96,moderate
+6170347,Asheville,NC,28803,Bungalow,1,1,1,Real Bed,$20.00 ,1,$10.00 ,98,moderate
+6177422,Asheville,NC,28806,House,1,2,2,Real Bed,$75.00 ,3,$10.00 ,99,strict_14_with_grace_period
+6180513,Asheville,NC,28801,Apartment,1,2,0,Real Bed,$111.00 ,1,$0.00 ,93,super_strict_30
+6184213,Asheville,NC,28804,House,1,1,1,Real Bed,$25.00 ,1,$0.00 ,99,moderate
+6227094,Asheville,NC,28805,Cottage,1,3,3,Real Bed,$75.00 ,1,$0.00 ,98,moderate
+6234618,Asheville,NC,28806,Loft,1,1,1,Real Bed,$40.00 ,1,$10.00 ,99,moderate
+6275127,Asheville,NC,28804,House,1,1,2,Real Bed,$30.00 ,1,$0.00 ,96,moderate
+6282518,Asheville,NC,28803,Townhouse,2,3,4,Real Bed,$20.00 ,2,$25.00 ,100,flexible
+6290666,Asheville,NC,28805,Apartment,1,0,1,Real Bed,$45.00 ,1,$0.00 ,97,strict_14_with_grace_period
+6325103,Asheville,NC,28806,Guesthouse,1,1,1,Real Bed,$50.00 ,2,$30.00 ,98,flexible
+6335114,Asheville,NC,28803,House,1.5,2,5,Real Bed,$100.00 ,1,$0.00 ,98,moderate
+6362850,Asheville ,NC,28803,Guest suite,1,1,3,Real Bed,$55.00 ,3,$15.00 ,97,moderate
+6363332,Asheville,NC,28803,Cottage,1,2,2,Real Bed,$75.00 ,1,$0.00 ,100,strict_14_with_grace_period
+6399802,Asheville,NC,28801,Hostel,2,1,1,Real Bed,$16.00 ,1,$0.00 ,95,moderate
+6413234,Asheville,NC,28803,House,1,1,1,Real Bed,$30.00 ,2,$15.00 ,94,strict_14_with_grace_period
+6415234,Asheville,NC,28801,Apartment,1,1,1,Real Bed,,1,$0.00 ,94,moderate
+6419437,Asheville,NC,28806,Bungalow,1,1,1,Real Bed,$0.00 ,2,$0.00 ,98,moderate
+6452410,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$45.00 ,2,$20.00 ,95,strict_14_with_grace_period
+6464944,Asheville,NC,28805,Guest suite,1,0,1,Real Bed,$35.00 ,2,$25.00 ,98,moderate
+6503015,Asheville,NC,28801,House,1,1,1,Real Bed,$10.00 ,1,$5.00 ,98,strict_14_with_grace_period
+6544722,Asheville,NC,28803,Apartment,1,2,2,Real Bed,$50.00 ,2,$10.00 ,,flexible
+6599654,Asheville,NC,28806,House,1,2,2,Real Bed,$40.00 ,2,$10.00 ,96,moderate
+6603955,Asheville,NC,28806,Cottage,1,2,4,Real Bed,$60.00 ,1,$25.00 ,96,moderate
+6686924,Asheville,NC,28805,House,2,2,2,Real Bed,$110.00 ,4,$50.00 ,99,moderate
+6698737,Asheville,NC,28806,Bungalow,1,1,1,Real Bed,$8.00 ,2,$20.00 ,99,moderate
+6711659,Asheville,NC,28801,Apartment,1.5,2,2,Real Bed,$75.00 ,4,$25.00 ,94,strict_14_with_grace_period
+6713809,Asheville,NC,28804,Apartment,1,1,2,Real Bed,$50.00 ,2,$30.00 ,40,strict_14_with_grace_period
+6715120,Asheville,NC,28806,House,1.5,2,2,Real Bed,$65.00 ,4,$15.00 ,93,moderate
+6724476,Asheville,NC,28803,House,2.5,3,9,Real Bed,$89.00 ,6,$45.00 ,99,strict_14_with_grace_period
+6741903,Asheville,NC,28806,House,2,3,3,Real Bed,$100.00 ,6,$30.00 ,100,moderate
+6746841,Asheville,NC,28804,House,1,1,1,Real Bed,,2,$0.00 ,94,moderate
+6760016,Arden,NC,28704,Apartment,1,1,1,Real Bed,$50.00 ,2,$10.00 ,99,strict_14_with_grace_period
+6765734,Asheville,NC,28806,House,2.5,1,1,Real Bed,$0.00 ,1,$27.00 ,94,moderate
+6765832,Asheville,NC,28806,House,2.5,1,1,Real Bed,,1,$12.00 ,97,moderate
+6813265,Asheville,NC,28806,House,1,1,1,Real Bed,$10.00 ,2,$30.00 ,94,moderate
+6818139,Asheville,NC,28801,Hostel,2,1,1,Real Bed,$16.00 ,1,$0.00 ,96,moderate
+6823225,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$60.00 ,2,$50.00 ,99,moderate
+6853602,Arden,NC,28704,House,2.5,5,6,Real Bed,$150.00 ,1,$0.00 ,100,moderate
+6869894,Asheville,NC,28805,Guest suite,1,1,1,Real Bed,,1,$0.00 ,99,flexible
+6913630,Asheville,NC,28801,Cottage,1,1,2,Real Bed,$60.00 ,2,$25.00 ,97,strict_14_with_grace_period
+6964842,Asheville,NC,28801,House,1,1,1,Real Bed,,2,$50.00 ,96,moderate
+7001873,Asheville,NC,28806,Guest suite,1,0,1,Real Bed,$0.00 ,2,$0.00 ,99,moderate
+7045303,Asheville,NC,28806,Bungalow,1,1,1,Real Bed,$20.00 ,1,$0.00 ,97,moderate
+7064317,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$50.00 ,1,$0.00 ,100,moderate
+7103096,Asheville,NC,28805,House,2,3,6,Real Bed,$100.00 ,4,$25.00 ,91,strict_14_with_grace_period
+7304349,Asheville,NC,28801,House,1,1,2,Real Bed,$50.00 ,4,$20.00 ,100,moderate
+7319238,Asheville,NC,28801,Guest suite,1,1,1,Real Bed,,2,$10.00 ,100,moderate
+7340132,Asheville,NC,28804,Yurt,1,1,1,Real Bed,$45.00 ,2,$40.00 ,97,moderate
+7341057,Arden,NC,28704,House,1,2,2,Real Bed,$0.00 ,4,$7.00 ,95,flexible
+7367841,Asheville,NC,28803,House,1,1,1,Real Bed,$20.00 ,1,$0.00 ,97,moderate
+7383921,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$30.00 ,1,$0.00 ,99,strict_14_with_grace_period
+7387243,Asheville,NC,28806,Apartment,1,1,1,Real Bed,,1,$0.00 ,98,flexible
+7418991,Asheville,NC,28801,Apartment,1,0,2,Real Bed,$35.00 ,2,$10.00 ,98,moderate
+7438838,Asheville,NC,28801,House,1,2,2,Real Bed,$50.00 ,1,$0.00 ,96,strict_14_with_grace_period
+7500225,Arden,NC,28704,Guesthouse,1,1,2,Real Bed,$25.00 ,1,$0.00 ,93,moderate
+7543799,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$0.00 ,1,$0.00 ,98,strict_14_with_grace_period
+7546626,Asheville,NC,28806,Guest suite,1,2,2,Real Bed,$25.00 ,4,$10.00 ,99,moderate
+7556089,Asheville,NC,28806,House,1,2,2,Real Bed,$25.00 ,2,$20.00 ,97,strict_14_with_grace_period
+7612231,Asheville,NC,28804,House,1,1,1,Real Bed,$20.00 ,2,$25.00 ,97,strict_14_with_grace_period
+7630648,Asheville,NC,28805,House,1,1,2,Real Bed,$80.00 ,2,$29.00 ,98,strict_14_with_grace_period
+7662484,Asheville,NC,28804,Guesthouse,1,1,1,Real Bed,$50.00 ,1,$0.00 ,100,moderate
+7665386,Asheville,NC,28806,Apartment,1,1,2,Real Bed,$40.00 ,2,$30.00 ,93,strict_14_with_grace_period
+7674957,Asheville,NC,28806,House,2,3,3,Real Bed,$120.00 ,4,$25.00 ,95,strict_14_with_grace_period
+7676458,Asheville,NC,28806,Bungalow,1,1,1,Real Bed,$25.00 ,1,$0.00 ,95,flexible
+7693393,Asheville,NC,28806,Bungalow,1,1,1,Real Bed,$45.00 ,3,$10.00 ,98,flexible
+7745341,Asheville,NC,28805,Guesthouse,1,0,1,Real Bed,$50.00 ,1,$0.00 ,97,strict_14_with_grace_period
+7850593,Asheville,NC,28806,House,1,1,1,Real Bed,$20.00 ,1,$10.00 ,97,moderate
+7853266,Asheville,NC,,House,2.5,3,3,Real Bed,$50.00 ,1,$0.00 ,97,flexible
+7853605,Asheville,NC,28803,Guest suite,1,1,1,Real Bed,$40.00 ,1,$0.00 ,99,moderate
+7859259,Asheville,NC,28804,Apartment,1,1,1,Real Bed,$40.00 ,1,$0.00 ,98,moderate
+7887572,Asheville,NC,,Apartment,1,1,1,Real Bed,$40.00 ,2,$25.00 ,99,flexible
+7895827,Asheville,NC,28806,House,1,1,1,Real Bed,$20.00 ,1,$0.00 ,97,flexible
+7901875,Fletcher,NC,28732,House,1,1,1,Futon,$15.00 ,1,$0.00 ,97,moderate
+7938548,Asheville,NC,28803,House,1,1,1,Real Bed,$45.00 ,1,$0.00 ,98,flexible
+7938930,Asheville,NC,28803,Townhouse,1,1,2,Real Bed,$150.00 ,1,$5.00 ,93,strict_14_with_grace_period
+7947839,Asheville,NC,28801,Apartment,1,1,2,Real Bed,$35.00 ,2,$10.00 ,98,moderate
+7956588,Asheville,NC,28804,Bed and breakfast,1,1,1,Real Bed,$80.00 ,2,$80.00 ,97,moderate
+7966916,Asheville,NC,28806,House,1,1,2,Real Bed,$25.00 ,2,$35.00 ,99,strict_14_with_grace_period
+7967886,Asheville,NC,28803,Apartment,1.5,2,2,Real Bed,$60.00 ,1,$0.00 ,100,strict_14_with_grace_period
+7970419,Woodfin,NC,28804,Townhouse,2.5,3,6,Real Bed,$110.00 ,1,$0.00 ,91,moderate
+7995120,Asheville,NC,28806,House,2.5,4,6,Real Bed,$195.00 ,8,$30.00 ,96,strict_14_with_grace_period
+8030058,Asheville,NC,28806,House,1.5,1,1,Real Bed,$10.00 ,1,$0.00 ,100,moderate
+8030827,Asheville,NC,28804,House,1,1,2,Real Bed,$75.00 ,2,$90.00 ,98,moderate
+8051829,Asheville,NC,28806,House,1,1,1,Real Bed,,1,$0.00 ,94,flexible
+8064417,Asheville,NC,28806,House,2,3,3,Real Bed,$99.00 ,1,$0.00 ,100,flexible
+8085716,Asheville,NC,28804,House,1,1,1,Real Bed,$20.00 ,2,$25.00 ,94,strict_14_with_grace_period
+8173732,Asheville,NC,28801,Bungalow,1,2,2,Real Bed,$125.00 ,4,$12.00 ,95,strict_14_with_grace_period
+8193368,Asheville,NC,28805,Guest suite,1,1,1,Real Bed,$30.00 ,2,$25.00 ,100,moderate
+8211404,Asheville,NC,28803,Chalet,2,2,2,Real Bed,$125.00 ,4,$25.00 ,98,strict_14_with_grace_period
+8225458,Asheville,NC,28803,House,2.5,3,3,Real Bed,$60.00 ,4,$25.00 ,100,flexible
+8246075,Asheville,NC,28806,Bungalow,1,1,1,Real Bed,$30.00 ,1,$0.00 ,98,moderate
+8265544,Asheville,NC,28806,House,2.5,3,3,Real Bed,$80.00 ,4,$50.00 ,99,moderate
+8266788,Asheville,NC,28803,House,2,4,4,Real Bed,$130.00 ,1,$0.00 ,92,moderate
+8304698,Asheville,NC,28801,Guest suite,1,0,1,Futon,$15.00 ,1,$0.00 ,98,strict_14_with_grace_period
+8310318,Asheville,NC,28805,Apartment,1,1,1,Real Bed,$50.00 ,2,$15.00 ,100,strict_14_with_grace_period
+8362668,Asheville,NC,28806,Apartment,1,1,2,Real Bed,$35.00 ,2,$20.00 ,98,strict_14_with_grace_period
+8366456,Asheville,NC,28806,House,1,1,1,Real Bed,$99.00 ,1,$0.00 ,98,moderate
+8403131,Asheville,NC,28806,House,2.5,3,3,Real Bed,$125.00 ,4,$25.00 ,99,strict_14_with_grace_period
+8427121,Asheville,NC,28803,Apartment,1,1,2,Real Bed,$40.00 ,2,$20.00 ,98,flexible
+8443279,Asheville,NC,28801,Guesthouse,1,1,1,Real Bed,$60.00 ,2,$35.00 ,100,strict_14_with_grace_period
+8496052,Asheville,NC,28806,House,2,3,3,Real Bed,$0.00 ,2,$25.00 ,97,moderate
+8505396,Asheville,NC,28806,House,1,1,2,Real Bed,$40.00 ,2,$20.00 ,96,moderate
+8576671,Asheville,NC,28806,House,1,2,2,Real Bed,$20.00 ,2,$15.00 ,99,moderate
+8592142,Fletcher,NC,28732,House,1,1,1,Real Bed,$10.00 ,2,$5.00 ,90,flexible
+8593492,Fletcher,NC,28732,Hotel,1,1,2,Real Bed,$0.00 ,2,$5.00 ,97,moderate
+8624659,Asheville,NC,28801,Condominium,1,0,1,Real Bed,$65.00 ,2,$20.00 ,98,moderate
+8634354,Asheville,NC,28801,House,1.5,1,1,Real Bed,$45.00 ,2,$0.00 ,99,strict_14_with_grace_period
+8656299,Asheville,NC,28806,House,1,1,1,Real Bed,$20.00 ,1,$10.00 ,98,moderate
+8664712,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$50.00 ,2,$50.00 ,100,moderate
+8672247,Asheville,NC,28806,Apartment,1,2,2,Real Bed,$100.00 ,4,$35.00 ,100,moderate
+8721288,Asheville,NC,28803,Apartment,1,2,2,Real Bed,$50.00 ,4,$20.00 ,97,moderate
+8741844,Arden,NC,28704,Cabin,2,1,2,Real Bed,$95.00 ,4,$0.00 ,,strict_14_with_grace_period
+8782463,Asheville,NC,28801,Apartment,1,1,3,Real Bed,$30.00 ,2,$10.00 ,95,moderate
+8799413,Asheville,NC,28805,Guest suite,1,1,1,Real Bed,$40.00 ,2,$20.00 ,99,moderate
+8841337,Asheville,NC,28806,House,1,1,1,Real Bed,$50.00 ,2,$25.00 ,99,moderate
+8867635,Asheville,NC,28804,Apartment,1,1,0,Real Bed,$45.00 ,1,$0.00 ,100,moderate
+8895397,Asheville,NC,28806,House,1.5,2,2,Real Bed,$75.00 ,4,$50.00 ,98,flexible
+9022608,Asheville,NC,28801,Apartment,1,2,2,Real Bed,$50.00 ,2,$20.00 ,97,moderate
+9062255,Asheville,NC,28805,House,1,1,0,Futon,$40.00 ,2,$40.00 ,99,moderate
+9131234,Asheville,NC,28806,House,1,1,1,Real Bed,$10.00 ,2,$5.00 ,99,flexible
+9173401,Asheville,NC,28806,Apartment,1,1,2,Real Bed,$25.00 ,2,$10.00 ,100,strict_14_with_grace_period
+9182448,Asheville,NC,28806,House,1,1,1,Real Bed,$50.00 ,2,$10.00 ,100,moderate
+9243493,Asheville,NC,28804,House,2,3,4,Real Bed,$115.00 ,1,$0.00 ,100,strict_14_with_grace_period
+9254177,Asheville,NC,28801,House,1,1,1,Futon,$35.00 ,1,$20.00 ,83,strict_14_with_grace_period
+9282426,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$60.00 ,1,$0.00 ,97,strict_14_with_grace_period
+9344195,Asheville,NC,28806,Loft,1,1,1,Real Bed,,2,$0.00 ,98,strict_14_with_grace_period
+9406902,Arden,NC,28704,House,1,1,1,Real Bed,$20.00 ,1,$10.00 ,99,moderate
+9442229,Asheville,NC,28806,House,1,1,2,Real Bed,$25.00 ,2,$10.00 ,98,strict_14_with_grace_period
+9445588,Asheville,NC,28805,Apartment,1,1,1,Real Bed,,2,$30.00 ,94,moderate
+9464561,Asheville,NC,28801,Loft,1,1,1,Real Bed,$60.00 ,1,$0.00 ,96,moderate
+9476164,Asheville,NC,28806,House,1,2,2,Real Bed,$30.00 ,2,$25.00 ,97,strict_14_with_grace_period
+9531839,Asheville,NC,28806,House,1,0,1,Real Bed,$20.00 ,1,$0.00 ,98,flexible
+9562953,Asheville,NC,28801,Bungalow,2,3,4,Real Bed,$100.00 ,1,$0.00 ,100,moderate
+9651318,Asheville,NC,28805,Cabin,1,1,1,Real Bed,$0.00 ,1,$0.00 ,90,strict_14_with_grace_period
+9716129,Asheville,NC,28806,Apartment,1,1,2,Real Bed,,1,$0.00 ,100,flexible
+9756931,Asheville,NC,28806,House,2,2,2,Real Bed,$100.00 ,5,$10.00 ,100,strict_14_with_grace_period
+9794899,Asheville,NC,28801,Apartment,1,1,2,Real Bed,,2,$0.00 ,99,strict_14_with_grace_period
+9807236,Asheville,NC,28801,Apartment,1,1,1,Airbed,,1,$0.00 ,,flexible
+9826677,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$20.00 ,2,$0.00 ,98,strict_14_with_grace_period
+9906491,Asheville,NC,28806,House,1,1,1,Real Bed,$25.00 ,1,$0.00 ,100,moderate
+9935590,Asheville,NC,28806,House,1,2,2,Real Bed,$65.00 ,2,$25.00 ,99,moderate
+9944111,Asheville,NC,28805,Yurt,1,0,2,Real Bed,,1,$0.00 ,94,strict_14_with_grace_period
+9988028,Fletcher,NC,28732,House,1,1,1,Real Bed,$0.00 ,1,$0.00 ,99,flexible
+10014090,Asheville,NC,28801,Apartment,1,1,1,Futon,,1,$0.00 ,,flexible
+10084836,Asheville,NC,28801,House,1,1,1,Real Bed,$75.00 ,2,$50.00 ,100,strict_14_with_grace_period
+10085566,Asheville,NC,28805,Apartment,1,0,1,Real Bed,$40.00 ,2,$5.00 ,93,moderate
+10089256,Asheville,NC,28804,House,1,1,1,Real Bed,,2,$20.00 ,98,moderate
+10122830,Asheville,NC,28801,House,1.5,3,3,Real Bed,$100.00 ,1,$0.00 ,80,flexible
+10140699,Asheville,NC,28801,House,1,3,3,Real Bed,$50.00 ,4,$50.00 ,95,strict_14_with_grace_period
+10232448,Asheville,NC,28806,Guest suite,1.5,1,1,Real Bed,$20.00 ,1,$0.00 ,99,moderate
+10263107,Asheville,NC,28801,House,1,1,1,Real Bed,$80.00 ,1,$0.00 ,97,strict_14_with_grace_period
+10289755,Woodfin,NC,28804,Apartment,1,1,1,Real Bed,$50.00 ,2,$15.00 ,96,moderate
+10307715,Asheville,NC,28801,Apartment,1,1,1,Real Bed,,1,$0.00 ,100,flexible
+10335139,Asheville,NC,28806,Cottage,1,1,0,Real Bed,$69.00 ,1,$0.00 ,100,moderate
+10360188,Asheville,NC,28801,House,1,1,1,Real Bed,$25.00 ,2,$0.00 ,99,moderate
+10410075,Asheville,NC,28805,Apartment,1,0,1,Real Bed,,1,$0.00 ,,flexible
+10464357,Asheville,NC,28803,House,2,3,5,Real Bed,,1,$0.00 ,,flexible
+10491232,Asheville,NC,28806,House,2,3,3,Real Bed,$100.00 ,1,$0.00 ,94,moderate
+10524188,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$60.00 ,2,$45.00 ,99,strict_14_with_grace_period
+10545839,Asheville,NC,28806,Apartment,1,1,1,Real Bed,,1,$0.00 ,98,moderate
+10583310,Asheville,NC,28806,House,1,1,1,Real Bed,$20.00 ,2,$20.00 ,99,moderate
+10632884,Asheville,NC,28801,Guest suite,1,1,1,Real Bed,$20.00 ,2,$30.00 ,97,flexible
+10635789,Asheville,NC,28803,House,1,1,1,Real Bed,$25.00 ,1,$10.00 ,97,moderate
+10674355,Asheville,NC,28804,House,1,2,2,Real Bed,$50.00 ,1,$0.00 ,99,moderate
+10684883,Asheville,NC,28805,Townhouse,1,1,1,Real Bed,,1,$0.00 ,98,strict_14_with_grace_period
+10785231,Asheville,NC,28805,Cabin,1,1,2,Real Bed,,1,$0.00 ,88,strict_14_with_grace_period
+10853381,Arden,NC,28704,House,2,2,3,Real Bed,$80.00 ,6,$25.00 ,100,strict_14_with_grace_period
+10884543,Asheville,NC,28801,House,1,2,2,Real Bed,$35.00 ,2,$20.00 ,97,moderate
+10900676,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$25.00 ,1,$0.00 ,98,strict_14_with_grace_period
+10909034,Asheville,NC,28801,House,3,3,2,Real Bed,$120.00 ,4,$50.00 ,93,strict_14_with_grace_period
+10991982,Asheville,NC,28806,House,1,2,2,Real Bed,$40.00 ,1,$0.00 ,99,flexible
+11094904,Arden,NC,28704,House,1,1,1,Real Bed,,1,$0.00 ,100,flexible
+11167742,Asheville,NC,28801,House,2,2,3,Real Bed,$85.00 ,4,$25.00 ,98,moderate
+11182596,Arden,NC,28704,Cabin,1,1,1,Real Bed,$25.00 ,1,$0.00 ,98,moderate
+11208688,Asheville,NC,28806,House,1,1,1,Real Bed,$25.00 ,1,$5.00 ,90,moderate
+11242744,Candler,NC,28715,Guest suite,2,2,2,Real Bed,,1,$0.00 ,100,moderate
+11259371,Asheville,NC,28806,Guest suite,1,1,2,Real Bed,$0.00 ,4,$50.00 ,87,moderate
+11283225,Asheville,NC,28806,Camper/RV,1,1,2,Real Bed,$30.00 ,2,$10.00 ,98,moderate
+11291801,Asheville,NC,28806,Cabin,1,3,3,Real Bed,$75.00 ,1,$0.00 ,97,strict_14_with_grace_period
+11315898,Asheville,NC,28806,Apartment,1,1,2,Real Bed,$50.00 ,1,$0.00 ,100,moderate
+11330351,Asheville,NC,,Condominium,2,3,4,Real Bed,$20.00 ,2,$20.00 ,,flexible
+11388248,Asheville,NC,28805,Chalet,1,2,2,Real Bed,$75.00 ,1,$0.00 ,98,moderate
+11421709,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$40.00 ,1,$0.00 ,97,strict_14_with_grace_period
+11440752,Asheville,NC,28803,House,1,1,1,Real Bed,$20.00 ,1,$15.00 ,98,strict_14_with_grace_period
+11475492,Asheville,NC,28801,Guest suite,1,1,1,Real Bed,$75.00 ,1,$0.00 ,99,moderate
+11483381,Asheville,NC,28805,House,2,3,3,Real Bed,$100.00 ,6,$0.00 ,98,strict_14_with_grace_period
+11489172,Asheville,NC,28804,House,1,2,3,Real Bed,$35.00 ,4,$25.00 ,98,moderate
+11510567,Asheville,NC,28803,House,1.5,2,2,Real Bed,,2,$20.00 ,99,moderate
+11545230,Asheville,NC,28806,House,1,2,3,Real Bed,$50.00 ,2,$25.00 ,92,strict_14_with_grace_period
+11553531,Asheville,NC,28803,House,1,1,1,Real Bed,$25.00 ,1,$0.00 ,99,moderate
+11586894,Asheville,NC,28804,House,4.5,4,9,Real Bed,$250.00 ,1,$0.00 ,99,strict_14_with_grace_period
+11609580,Asheville,NC,28801,Apartment,1,1,0,Real Bed,$30.00 ,2,$50.00 ,99,strict_14_with_grace_period
+11618840,Asheville,NC,28805,House,2.5,3,4,Real Bed,$125.00 ,6,$20.00 ,100,moderate
+11686204,Asheville,NC,28801,Bungalow,2,2,3,Real Bed,$80.00 ,4,$20.00 ,100,strict_14_with_grace_period
+11701027,Arden,NC,28704,House,1,1,1,Real Bed,$5.00 ,3,$10.00 ,96,flexible
+11709950,Asheville,NC,28803,Cabin,1,3,4,Real Bed,$75.00 ,6,$0.00 ,95,moderate
+11728697,Asheville,NC,,House,1,1,2,Real Bed,$45.00 ,2,$25.00 ,98,moderate
+11730986,Asheville,NC,28806,Bungalow,1,1,1,Real Bed,$25.00 ,1,$0.00 ,94,moderate
+11738931,Asheville,NC,28806,Guest suite,1,1,2,Real Bed,$50.00 ,2,$10.00 ,100,strict_14_with_grace_period
+11739534,Asheville,NC,28804,Apartment,1,1,1,Real Bed,,1,$0.00 ,,flexible
+11773647,Asheville,NC,28801,Loft,1,0,3,Real Bed,$100.00 ,2,$0.00 ,98,strict_14_with_grace_period
+11811039,Asheville,NC,28804,Apartment,1,1,2,Real Bed,$65.00 ,1,$0.00 ,97,moderate
+11839089,Asheville,NC,28806,Bungalow,2,3,3,Real Bed,$35.00 ,6,$0.00 ,98,moderate
+11842218,Asheville,NC,28803,House,1,1,2,Real Bed,$20.00 ,1,$15.00 ,99,strict_14_with_grace_period
+11890251,Asheville,NC,28803,House,2.5,2,3,Real Bed,$80.00 ,4,$10.00 ,100,moderate
+11905157,Asheville,NC,28806,House,4,6,7,Real Bed,$94.00 ,2,$40.00 ,94,strict_14_with_grace_period
+11925721,Asheville,NC,28801,Guesthouse,1,0,2,Real Bed,$35.00 ,2,$25.00 ,100,flexible
+11938223,Asheville,NC,28803,Cabin,1,0,1,Real Bed,$50.00 ,1,$0.00 ,98,moderate
+11946709,Asheville,NC,28806,House,1,2,2,Real Bed,$50.00 ,2,$50.00 ,93,strict_14_with_grace_period
+11947108,Asheville,NC,28803,Guest suite,1,2,2,Real Bed,$30.00 ,4,$25.00 ,98,strict_14_with_grace_period
+11962915,Asheville,NC,28803,Apartment,1,1,1,Real Bed,$20.00 ,1,$0.00 ,100,moderate
+12105828,Asheville,NC,28801,Apartment,1,1,2,Real Bed,,1,$0.00 ,100,flexible
+12107874,Asheville,NC,28801,Guest suite,1,1,2,Real Bed,$30.00 ,1,$0.00 ,97,strict_14_with_grace_period
+12122743,Asheville,NC,28803,Apartment,1,1,1,Real Bed,,1,$0.00 ,,flexible
+12144656,Asheville,NC,28806,Cottage,1,2,2,Real Bed,$65.00 ,4,$20.00 ,99,flexible
+12166658,Arden,NC,28704,House,1,1,1,Real Bed,$15.00 ,1,$0.00 ,,moderate
+12186372,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$20.00 ,2,$25.00 ,96,moderate
+12188215,Asheville,NC,28803,Apartment,1,1,2,Real Bed,$45.00 ,2,$0.00 ,98,moderate
+12189623,Asheville,NC,28801,Apartment,1,1,2,Real Bed,,1,$0.00 ,96,flexible
+12222050,Asheville,NC,28804,House,2,3,3,Real Bed,$150.00 ,6,$0.00 ,99,strict_14_with_grace_period
+12229453,Asheville,NC,28801,House,2,2,2,Real Bed,$40.00 ,2,$25.00 ,98,strict_14_with_grace_period
+12251952,Asheville,NC,28801,House,1,1,1,Real Bed,$25.00 ,1,$100.00 ,97,strict_14_with_grace_period
+12266103,Asheville,NC,28804,Apartment,2,2,2,Real Bed,$125.00 ,4,$50.00 ,100,flexible
+12281167,Asheville,NC,,House,1,1,1,Futon,$20.00 ,1,$9.00 ,99,moderate
+12286328,Asheville,NC,28806,House,2.5,1,1,Real Bed,$0.00 ,1,$27.00 ,93,moderate
+12290379,Asheville,NC,28803,House,1,1,3,Real Bed,$30.00 ,1,$10.00 ,98,moderate
+12304610,Asheville,NC,28801,House,2.5,4,5,Real Bed,$175.00 ,1,$0.00 ,100,moderate
+12310425,Asheville,NC,28806,House,2,3,4,Real Bed,$125.00 ,1,$0.00 ,98,strict_14_with_grace_period
+12363894,Asheville,NC,28805,Bungalow,2,2,0,Real Bed,$69.00 ,2,$0.00 ,100,strict_14_with_grace_period
+12377575,Asheville,NC,28805,House,3,3,3,Real Bed,$175.00 ,6,$25.00 ,100,strict_14_with_grace_period
+12400514,Asheville,NC,28806,House,1,1,2,Real Bed,$50.00 ,2,$15.00 ,98,moderate
+12401202,Asheville,NC,28801,Loft,2.5,2,2,Real Bed,$175.00 ,6,$50.00 ,100,strict_14_with_grace_period
+12425483,Asheville,NC,28805,Cottage,1,1,1,Real Bed,$15.00 ,1,$0.00 ,92,flexible
+12433546,Asheville,NC,28806,Bungalow,1,2,2,Real Bed,$50.00 ,4,$20.00 ,98,strict_14_with_grace_period
+12470763,Asheville,NC,28806,House,1,1,2,Real Bed,$25.00 ,3,$20.00 ,99,moderate
+12520279,Asheville,NC,28803,House,1,2,2,Real Bed,$80.00 ,1,$0.00 ,96,strict_14_with_grace_period
+12543684,Asheville,NC,28803,House,2,3,7,Real Bed,$95.00 ,8,$10.00 ,97,moderate
+12587092,Asheville,NC,28803,Apartment,1,1,1,Real Bed,$40.00 ,1,$0.00 ,100,flexible
+12599311,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$7.00 ,2,$0.00 ,98,flexible
+12600829,Asheville,NC,28806,Guest suite,1,2,4,Real Bed,$12.00 ,5,$10.00 ,96,flexible
+12600850,Asheville,NC,28806,Guest suite,1,1,3,Real Bed,$7.00 ,3,$0.00 ,98,flexible
+12615474,Asheville,NC,28801,House,1,1,1,Real Bed,$40.00 ,1,$0.00 ,94,moderate
+12625582,Asheville,NC,28805,House,2,2,4,Real Bed,$100.00 ,1,$0.00 ,80,flexible
+12685614,Asheville,NC,28801,Apartment,1,1,2,Real Bed,,1,$0.00 ,96,flexible
+12761982,Asheville,NC,28804,House,1,1,1,Real Bed,$0.00 ,1,$0.00 ,84,moderate
+12763722,Candler,NC,28715,Cottage,1,3,4,Real Bed,$40.00 ,1,$0.00 ,95,strict_14_with_grace_period
+12782770,Asheville,NC,28803,Guest suite,1,1,1,Real Bed,$20.00 ,1,$0.00 ,96,moderate
+12809255,Asheville,NC,28806,House,1,1,1,Real Bed,$10.00 ,1,$5.00 ,100,flexible
+12810440,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$50.00 ,2,$15.00 ,99,strict_14_with_grace_period
+12824241,Asheville,NC,28805,House,1,2,2,Real Bed,$0.00 ,4,$20.00 ,97,strict_14_with_grace_period
+12832679,Asheville,NC,28806,House,2,3,4,Real Bed,$115.00 ,1,$0.00 ,100,strict_14_with_grace_period
+12834984,Asheville,NC,28801,House,1,1,1,Real Bed,$50.00 ,1,$0.00 ,98,strict_14_with_grace_period
+12835184,Asheville,NC,28801,Guesthouse,1,1,1,Real Bed,$30.00 ,1,$0.00 ,95,moderate
+12848084,Fletcher,NC,28732,Apartment,1.5,1,2,Real Bed,$0.00 ,2,$20.00 ,99,flexible
+12871394,Asheville,NC,28803,Townhouse,1,1,2,Real Bed,$60.00 ,2,$10.00 ,97,moderate
+12918380,Asheville,NC,28806,Guest suite,1,1,2,Real Bed,$40.00 ,2,$15.00 ,99,moderate
+12925044,Arden,NC,28704,House,2,3,2,Real Bed,$25.00 ,2,$15.00 ,100,moderate
+12944995,Asheville,NC,28805,House,1,0,1,Real Bed,$80.00 ,2,$0.00 ,95,strict_14_with_grace_period
+12965736,Asheville,NC,28805,Apartment,1,1,1,Real Bed,$35.00 ,2,$0.00 ,100,moderate
+12970301,Asheville,NC,28806,Apartment,1,1,3,Real Bed,$30.00 ,2,$10.00 ,98,strict_14_with_grace_period
+12972968,Asheville,NC,28804,House,2.5,2,3,Real Bed,$150.00 ,6,$35.00 ,99,moderate
+12989718,Asheville,NC,28806,House,2.5,1,1,Real Bed,$0.00 ,1,$27.00 ,93,moderate
+13010670,Fletcher,NC,28732,House,4.5,6,12,Real Bed,$425.00 ,1,$0.00 ,100,strict_14_with_grace_period
+13017092,Asheville,NC,28801,Apartment,1,2,2,Real Bed,$75.00 ,1,$0.00 ,99,flexible
+13018143,Asheville,NC,28806,Apartment,1.5,2,2,Real Bed,$69.00 ,3,$10.00 ,87,moderate
+13027063,Asheville,NC,,Apartment,1,1,1,Real Bed,$50.00 ,1,$0.00 ,97,moderate
+13032117,Arden,NC,28704,Bed and breakfast,1,1,1,Real Bed,,1,$0.00 ,,flexible
+13044640,Asheville,NC,28806,Bungalow,1,2,2,Real Bed,$0.00 ,4,$10.00 ,98,moderate
+13093505,Asheville,NC,28801,Apartment,1,1,2,Real Bed,$55.00 ,2,$10.00 ,98,moderate
+13093999,Asheville,NC,28805,Cabin,1,0,1,Real Bed,$30.00 ,1,$0.00 ,100,strict_14_with_grace_period
+13108582,Asheville,NC,28803,Guest suite,1,2,2,Real Bed,$35.00 ,2,$34.00 ,100,strict_14_with_grace_period
+13112074,Asheville,NC,28804,House,1,1,1,Real Bed,$35.00 ,1,$0.00 ,98,moderate
+13113051,Asheville,NC,28803,Cabin,2,3,4,Real Bed,$130.00 ,1,$0.00 ,99,moderate
+13122771,Fletcher,NC,28732,Apartment,2,3,4,Real Bed,$25.00 ,1,$0.00 ,94,flexible
+13136198,Asheville,NC,28806,Apartment,1,1,2,Real Bed,$50.00 ,2,$10.00 ,99,moderate
+13149407,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$15.00 ,2,$25.00 ,100,moderate
+13170678,Asheville,NC,,Apartment,2,2,2,Real Bed,$50.00 ,2,$10.00 ,98,moderate
+13180224,Asheville,NC,28801,House,1.5,2,2,Real Bed,$150.00 ,1,$0.00 ,100,strict_14_with_grace_period
+13186091,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$50.00 ,1,$0.00 ,99,strict_14_with_grace_period
+13203770,Asheville,NC,28803,House,1,1,1,Real Bed,$20.00 ,1,$0.00 ,95,moderate
+13206560,Asheville,NC,28801,Loft,1,1,1,Real Bed,$89.00 ,2,$30.00 ,99,strict_14_with_grace_period
+13209065,Asheville,NC,28806,House,1,1,1,Real Bed,$10.00 ,1,$0.00 ,99,flexible
+13209712,Asheville,NC,28801,House,1,1,1,Real Bed,$15.00 ,1,$0.00 ,95,strict_14_with_grace_period
+13216889,Asheville,NC,28804,House,1,1,1,Real Bed,$15.00 ,1,$10.00 ,96,moderate
+13224612,Asheville,NC,28806,House,1,1,1,Real Bed,$10.00 ,1,$5.00 ,95,moderate
+13225039,Asheville,NC,28803,House,1,2,2,Real Bed,$49.00 ,4,$20.00 ,97,moderate
+13231021,Asheville,NC,28803,House,2,3,3,Real Bed,$115.00 ,6,$25.00 ,99,moderate
+13234214,Arden,NC,28704,Apartment,1,2,2,Real Bed,$100.00 ,4,$10.00 ,100,strict_14_with_grace_period
+13251709,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$15.00 ,1,$0.00 ,95,strict_14_with_grace_period
+13258472,Asheville,NC,28805,Guest suite,1,1,1,Real Bed,$50.00 ,1,$0.00 ,99,strict_14_with_grace_period
+13260302,Asheville,NC,28803,Guesthouse,1,0,1,Real Bed,$50.00 ,1,$0.00 ,97,moderate
+13274313,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$35.00 ,1,$0.00 ,100,strict_14_with_grace_period
+13279595,Asheville,NC,28803,House,1,1,1,Real Bed,$20.00 ,2,$20.00 ,100,flexible
+13308291,Asheville,NC,28806,House,2,2,2,Real Bed,$50.00 ,1,$0.00 ,97,moderate
+13312601,Arden,NC,28704,House,1,3,3,Real Bed,$75.00 ,4,$25.00 ,99,moderate
+13326253,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$75.00 ,2,$20.00 ,96,moderate
+13333422,Asheville,NC,28806,Other,1,1,1,Real Bed,$50.00 ,3,$25.00 ,98,moderate
+13340576,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$20.00 ,1,$0.00 ,97,strict_14_with_grace_period
+13345957,Asheville,NC,28806,House,1,1,1,Real Bed,$25.00 ,2,$45.00 ,99,moderate
+13348419,Asheville,NC,28804,Guest suite,1,1,2,Real Bed,$50.00 ,2,$25.00 ,95,moderate
+13355384,Asheville,NC,28806,Apartment,2,2,2,Real Bed,$90.00 ,4,$20.00 ,97,moderate
+13359588,Asheville,NC,28806,House,1,1,1,Real Bed,$25.00 ,2,$45.00 ,99,moderate
+13372056,Asheville,NC,28806,Guest suite,1,1,2,Real Bed,$35.00 ,2,$10.00 ,99,moderate
+13373427,Asheville,NC,28805,Apartment,1,1,1,Real Bed,$30.00 ,1,$0.00 ,98,strict_14_with_grace_period
+13386987,Asheville,NC,28803,Guesthouse,1,1,1,Real Bed,$25.00 ,1,$0.00 ,91,moderate
+13388627,Asheville,NC,28801,Apartment,1,2,0,Real Bed,$111.00 ,1,$0.00 ,94,super_strict_30
+13426466,Asheville,NC,28801,Loft,1,0,1,Futon,$30.00 ,1,$0.00 ,99,flexible
+13429035,Arden,NC,28704,Cottage,1.5,2,2,Real Bed,$80.00 ,1,$0.00 ,99,strict_14_with_grace_period
+13452018,Asheville,NC,28801,House,1.5,2,3,Real Bed,$55.00 ,2,$35.00 ,99,moderate
+13459342,Arden,NC,28704,House,2,2,2,Real Bed,$35.00 ,1,$0.00 ,,flexible
+13479400,Asheville,NC,,House,1,2,2,Real Bed,$25.00 ,2,$30.00 ,97,moderate
+13502253,Arden,NC,28704,Guest suite,1,1,1,Real Bed,$25.00 ,1,$0.00 ,100,moderate
+13514183,Asheville,NC,28801,Apartment,1,2,0,Real Bed,$111.00 ,1,$0.00 ,95,super_strict_30
+13524286,Asheville,NC,28801,Apartment,1,2,0,Real Bed,$111.00 ,1,$0.00 ,95,super_strict_30
+13533084,Asheville,NC,28801,House,2,2,2,Real Bed,$85.00 ,1,$0.00 ,97,moderate
+13548265,Asheville,NC,28801,Guesthouse,1,1,1,Real Bed,$50.00 ,2,$100.00 ,93,strict_14_with_grace_period
+13556933,Asheville,NC,28804,Guest suite,1,1,1,Real Bed,$20.00 ,1,$0.00 ,99,moderate
+13582513,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$40.00 ,1,$0.00 ,94,strict_14_with_grace_period
+13606248,Asheville,NC,,Guesthouse,1,2,3,Real Bed,$85.00 ,4,$8.00 ,89,strict_14_with_grace_period
+13617638,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$25.00 ,1,$0.00 ,97,moderate
+13648270,Asheville,NC,28806,House,1,1,1,Real Bed,$15.00 ,1,$10.00 ,98,moderate
+13648659,Asheville,NC,28805,Apartment,1,1,1,Real Bed,$50.00 ,1,$0.00 ,99,strict_14_with_grace_period
+13674901,Asheville,NC,28803,Bungalow,1,1,1,Real Bed,$35.00 ,1,$0.00 ,97,moderate
+13684589,Asheville,NC,28806,House,1.5,2,3,Real Bed,$150.00 ,6,$35.00 ,,flexible
+13692771,Asheville,NC,28803,Guest suite,1,1,1,Real Bed,$20.00 ,2,$20.00 ,92,moderate
+13700790,Arden,NC,28704,House,1,1,1,Real Bed,$5.00 ,1,$0.00 ,98,flexible
+13706838,Asheville,NC,28806,Guest suite,2,2,5,Real Bed,$110.00 ,4,$15.00 ,98,flexible
+13708322,Asheville,NC,28806,House,2,2,2,Real Bed,$50.00 ,4,$50.00 ,93,strict_14_with_grace_period
+13716891,Asheville,NC,28804,Guesthouse,1,1,1,Futon,$35.00 ,2,$10.00 ,97,flexible
+13744589,Asheville,NC,28806,House,2,2,2,Real Bed,$39.00 ,4,$20.00 ,98,flexible
+13765762,Asheville,NC,28805,Tiny house,1,0,1,Real Bed,$20.00 ,1,$0.00 ,95,moderate
+13779774,Asheville,NC,28806,House,1,1,1,Real Bed,$40.00 ,2,$7.00 ,92,strict_14_with_grace_period
+13815203,Asheville,NC,,House,1,1,1,Real Bed,$30.00 ,2,$0.00 ,100,strict_14_with_grace_period
+13819278,Asheville,NC,28805,Apartment,2,2,2,Real Bed,$70.00 ,4,$15.00 ,98,strict_14_with_grace_period
+13877850,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$30.00 ,1,$0.00 ,97,moderate
+13879892,Asheville,NC,28805,House,1,2,3,Real Bed,$60.00 ,1,$0.00 ,99,moderate
+13893832,Asheville,NC,28801,Condominium,1,1,1,Real Bed,$20.00 ,1,$0.00 ,100,flexible
+13901952,Asheville,NC,28801,Apartment,1,1,2,Real Bed,,1,$0.00 ,96,flexible
+13924283,Asheville,NC,28806,House,1,1,1,Real Bed,,1,$0.00 ,98,flexible
+13941886,Woodfin,NC,28804,House,1,1,1,Real Bed,$15.00 ,1,$10.00 ,98,moderate
+13942925,Ashville,NC,28804,Bungalow,1,2,3,Real Bed,$70.00 ,5,$25.00 ,97,moderate
+13974448,Asheville,NC,28801,Guest suite,1,1,1,Real Bed,$40.00 ,2,$15.00 ,100,moderate
+14011745,Asheville,NC,28805,Guest suite,1,1,1,Real Bed,$25.00 ,2,$0.00 ,97,strict_14_with_grace_period
+14052114,Asheville,NC,28806,Apartment,1,2,3,Real Bed,$35.00 ,4,$25.00 ,98,moderate
+14076438,Asheville,NC,28805,Cottage,1.5,2,2,Real Bed,,4,$0.00 ,99,moderate
+14102422,Asheville,NC,28803,House,1,2,3,Real Bed,$15.00 ,2,$10.00 ,92,flexible
+14122794,Asheville,NC,28803,Guesthouse,1,2,2,Real Bed,$75.00 ,1,$0.00 ,98,flexible
+14125023,Asheville,NC,28801,House,1,1,1,Real Bed,$150.00 ,1,$0.00 ,100,strict_14_with_grace_period
+14167740,Asheville,NC,28806,House,2,2,2,Real Bed,$65.00 ,1,$0.00 ,89,strict_14_with_grace_period
+14168464,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$40.00 ,2,$10.00 ,98,moderate
+14168714,Asheville,NC,28806,House,1,1,1,Real Bed,$20.00 ,1,$0.00 ,99,flexible
+14184893,Asheville,NC,28805,House,1,1,1,Real Bed,$35.00 ,1,$0.00 ,99,moderate
+14186791,Asheville,NC,28801,Apartment,1,1,1,Real Bed,,1,$0.00 ,97,flexible
+14203513,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$0.00 ,2,$5.00 ,99,moderate
+14236639,Asheville,NC,28801,Bungalow,1,2,2,Real Bed,$50.00 ,1,$0.00 ,100,moderate
+14252155,Asheville,NC,28803,House,1,1,3,Real Bed,$35.00 ,4,$20.00 ,80,moderate
+14252379,Asheville,NC,28803,House,1,1,2,Real Bed,$25.00 ,2,$20.00 ,96,moderate
+14252454,Asheville,NC,28803,House,1,1,1,Real Bed,$25.00 ,2,$20.00 ,100,moderate
+14266066,Asheville,NC,28803,House,1.5,2,3,Real Bed,$40.00 ,1,$0.00 ,100,moderate
+14295265,Asheville,NC,28803,Condominium,1,1,1,Real Bed,$10.00 ,2,$25.00 ,100,strict_14_with_grace_period
+14334104,Asheville,NC,28805,Apartment,1,1,3,Real Bed,$35.00 ,2,$15.00 ,98,moderate
+14352724,Asheville,NC,28801,Apartment,2,1,0,Real Bed,$50.00 ,2,$25.00 ,99,strict_14_with_grace_period
+14355288,Asheville,NC,28801,House,2,3,3,Real Bed,$120.00 ,6,$25.00 ,97,strict_14_with_grace_period
+14413164,Asheville,NC,28806,House,1.5,1,1,Real Bed,,2,$15.00 ,96,flexible
+14430828,Asheville,NC,28806,Guest suite,1,1,3,Couch,$45.00 ,4,$25.00 ,98,moderate
+14440002,Woodfin,NC,28804,House,2,4,4,Real Bed,$35.00 ,5,$25.00 ,91,moderate
+14442508,Asheville,NC,28806,Apartment,1,1,2,Real Bed,$15.00 ,2,$25.00 ,97,moderate
+14448789,Asheville,NC,28801,House,1,1,1,Real Bed,,2,$0.00 ,100,moderate
+14466206,Asheville,NC,28806,House,1,2,2,Real Bed,$35.00 ,4,$20.00 ,100,flexible
+14466985,Asheville,NC,28806,House,1,1,1,Real Bed,,1,$0.00 ,95,moderate
+14472996,Asheville,NC,28804,House,2,3,3,Real Bed,$100.00 ,1,$0.00 ,,strict_14_with_grace_period
+14487885,Asheville,NC,28801,House,1,3,4,Real Bed,$125.00 ,4,$12.00 ,94,strict_14_with_grace_period
+14489666,Asheville,NC,28806,Townhouse,1,1,1,Real Bed,$20.00 ,1,$0.00 ,100,moderate
+14499003,Asheville,NC,28803,Guest suite,1,1,4,Real Bed,$37.00 ,3,$25.00 ,95,moderate
+14514191,Asheville,NC,28806,House,1,2,4,Real Bed,,4,$10.00 ,100,strict_14_with_grace_period
+14522467,Woodfin,NC,28804,Bungalow,1,2,2,Real Bed,$60.00 ,1,$0.00 ,100,strict_14_with_grace_period
+14523242,Asheville,NC,28806,House,2,3,3,Real Bed,$85.00 ,6,$10.00 ,97,moderate
+14547745,Asheville,NC,28805,House,1,1,1,Real Bed,$0.00 ,1,$0.00 ,99,flexible
+14555658,Asheville,NC,28804,House,1,2,2,Real Bed,$50.00 ,2,$25.00 ,97,strict_14_with_grace_period
+14555712,Asheville,NC,28806,Apartment,1,1,1,Pull-out Sofa,$75.00 ,1,$0.00 ,94,strict_14_with_grace_period
+14561813,Asheville,NC,28801,Townhouse,1,1,1,Real Bed,$85.00 ,1,$0.00 ,99,strict_14_with_grace_period
+14603190,Asheville,NC,28806,Cottage,1,1,3,Real Bed,$35.00 ,2,$8.00 ,100,flexible
+14632829,Asheville,NC,28806,House,1,1,1,Real Bed,$10.00 ,2,$30.00 ,97,moderate
+14649826,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$45.00 ,2,$40.00 ,97,strict_14_with_grace_period
+14671973,Asheville,NC,28801,House,1,1,1,Real Bed,,2,$0.00 ,100,moderate
+14672298,Asheville,NC,28801,Guest suite,1,2,4,Real Bed,$25.00 ,4,$35.00 ,98,moderate
+14715823,Asheville,NC,28805,House,1,1,2,Real Bed,$40.00 ,2,$10.00 ,99,flexible
+14731119,Asheville,NC,28804,Guest suite,1,1,1,Real Bed,$20.00 ,2,$10.00 ,99,moderate
+14731928,Asheville,NC,28805,House,1,1,1,Real Bed,$50.00 ,1,$0.00 ,98,strict_14_with_grace_period
+14737689,Asheville,NC,28806,House,2.5,4,4,Real Bed,$94.00 ,2,$40.00 ,94,strict_14_with_grace_period
+14738243,Asheville,NC,28801,Bungalow,1,1,1,Airbed,,1,$25.00 ,98,moderate
+14751215,Asheville,NC,28803,House,1,2,3,Real Bed,$89.00 ,4,$30.00 ,98,flexible
+14757919,Asheville,NC,28801,Guest suite,1,1,1,Real Bed,$40.00 ,1,$0.00 ,98,moderate
+14773557,Asheville,NC,28803,House,2,2,2,Real Bed,$25.00 ,2,$25.00 ,99,moderate
+14787424,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$20.00 ,1,$0.00 ,99,moderate
+14803947,Asheville,NC,28805,House,3,3,3,Real Bed,$150.00 ,1,$0.00 ,98,moderate
+14805266,Asheville,NC,28801,Apartment,1,1,0,Real Bed,$80.00 ,2,$35.00 ,100,strict_14_with_grace_period
+14808434,Arden,NC,28704,Guest suite,1,1,1,Real Bed,$50.00 ,2,$50.00 ,100,moderate
+14824135,Asheville,NC,28806,House,1,1,1,Real Bed,$20.00 ,1,$0.00 ,97,moderate
+14826403,Asheville,NC,28804,Apartment,1,1,1,Real Bed,$40.00 ,1,$0.00 ,100,moderate
+14832058,Candler,NC,28715,House,2,3,4,Real Bed,$150.00 ,8,$25.00 ,100,moderate
+14835813,Arden,NC,28704,Guest suite,1,1,3,Real Bed,$50.00 ,4,$10.00 ,99,moderate
+14841361,Asheville,NC,28806,House,1,2,2,Real Bed,$50.00 ,1,$0.00 ,97,moderate
+14857013,Asheville,NC,28806,House,1,1,0,Real Bed,$65.00 ,2,$100.00 ,99,strict_14_with_grace_period
+14884802,Asheville,NC,28801,Loft,2,4,0,Real Bed,$250.00 ,8,$25.00 ,100,strict_14_with_grace_period
+14899945,Asheville,NC,28803,Bed and breakfast,1,1,1,Real Bed,$20.00 ,1,$0.00 ,100,moderate
+14900960,Candler,NC,28715,Cabin,1.5,3,4,Real Bed,$95.00 ,6,$10.00 ,98,strict_14_with_grace_period
+14934441,Asheville,NC,28803,House,2,3,6,Pull-out Sofa,$100.00 ,6,$15.00 ,97,moderate
+14941161,Asheville,NC,28801,Apartment,1,2,2,Real Bed,$50.00 ,2,$15.00 ,97,moderate
+14963589,Asheville,NC,28803,Guesthouse,1,1,1,Real Bed,$35.00 ,2,$20.00 ,99,moderate
+14976451,Asheville,NC,28801,House,1,1,1,Real Bed,$25.00 ,2,$30.00 ,100,moderate
+14992285,Asheville,NC,28803,Apartment,2,2,2,Real Bed,$60.00 ,3,$100.00 ,95,strict_14_with_grace_period
+15009020,Asheville,NC,28803,Guest suite,1,2,2,Real Bed,$50.00 ,1,$0.00 ,99,moderate
+15009504,Asheville,NC,28801,Apartment,1,2,2,Real Bed,$65.00 ,2,$10.00 ,98,strict_14_with_grace_period
+15009920,Asheville,NC,28801,House,2,2,3,Real Bed,$100.00 ,1,$0.00 ,100,strict_14_with_grace_period
+15016101,Asheville,NC,28804,Apartment,1,1,2,Real Bed,$30.00 ,1,$0.00 ,100,strict_14_with_grace_period
+15055380,Asheville,NC,28806,Apartment,1,2,3,Real Bed,$50.00 ,4,$25.00 ,93,moderate
+15083470,Asheville,NC,28806,House,1,1,2,Real Bed,$20.00 ,2,$20.00 ,99,moderate
+15091721,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$40.00 ,1,$0.00 ,92,flexible
+15091813,Asheville,NC,28801,Guesthouse,1,1,1,Real Bed,$35.00 ,2,$40.00 ,100,moderate
+15124397,Asheville,NC,28803,Apartment,1,1,1,Real Bed,$20.00 ,1,$0.00 ,99,moderate
+15132769,Asheville,NC,28806,Guest suite,1,0,2,Real Bed,$22.00 ,1,$0.00 ,98,strict_14_with_grace_period
+15158878,Asheville,NC,28803,Guesthouse,1,1,2,Real Bed,$39.00 ,2,$0.00 ,98,moderate
+15174633,Asheville,NC,28801,Other,1,1,1,Real Bed,,2,$10.00 ,88,flexible
+15192947,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$55.00 ,2,$10.00 ,98,moderate
+15194828,Asheville,NC,28805,House,1,1,2,Real Bed,$20.00 ,2,$15.00 ,97,moderate
+15204868,Asheville,NC,28803,House,1,2,2,Real Bed,$40.00 ,1,$25.00 ,96,moderate
+15230720,Asheville,NC,28801,House,1,1,2,Real Bed,$25.00 ,2,$20.00 ,99,moderate
+15231248,Asheville,NC,28806,Guest suite,1,1,2,Real Bed,$50.00 ,2,$15.00 ,98,moderate
+15248786,Asheville,NC,28803,House,1,1,1,Real Bed,$20.00 ,2,$20.00 ,99,flexible
+15268297,Asheville,NC,28801,House,1,1,1,Real Bed,$40.00 ,1,$0.00 ,95,moderate
+15271420,Arden,NC,28704,Cottage,1,1,1,Real Bed,$25.00 ,2,$15.00 ,96,strict_14_with_grace_period
+15297764,Asheville,NC,28805,House,1,1,2,Real Bed,,2,$10.00 ,97,moderate
+15321136,Asheville,NC,28805,Camper/RV,1,2,3,Real Bed,$25.00 ,2,$15.00 ,97,moderate
+15327549,Asheville,NC,28801,Bungalow,1,1,1,Real Bed,$15.00 ,1,$5.00 ,100,moderate
+15336786,Asheville,NC,28806,House,1,2,3,Real Bed,$70.00 ,2,$6.00 ,98,strict_14_with_grace_period
+15339276,Asheville,NC,28801,Apartment,2,2,1,Real Bed,$65.00 ,2,$15.00 ,100,strict_14_with_grace_period
+15343687,Asheville,NC,28806,House,1,1,1,Real Bed,$36.00 ,1,$0.00 ,99,moderate
+15345095,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$65.00 ,2,$15.00 ,100,moderate
+15351409,Candler,NC,28715,Camper/RV,1,2,6,Real Bed,$75.00 ,3,$10.00 ,95,strict_14_with_grace_period
+15354741,Asheville,NC,28805,House,2,2,2,Real Bed,$100.00 ,4,$10.00 ,100,strict_14_with_grace_period
+15355010,Asheville,NC,28801,House,1,1,1,Real Bed,$20.00 ,1,$0.00 ,99,moderate
+15358166,Asheville,NC,28801,Loft,2,2,2,Real Bed,$65.00 ,1,$0.00 ,99,moderate
+15359380,Asheville,NC,28801,House,2,3,3,Real Bed,$150.00 ,2,$10.00 ,,strict_14_with_grace_period
+15359431,Asheville,NC,28805,Guest suite,1,1,1,Real Bed,$50.00 ,2,$45.00 ,98,flexible
+15371871,Asheville,NC,28805,Cottage,1,1,1,Real Bed,$45.00 ,2,$35.00 ,99,moderate
+15395331,Asheville,NC,28806,House,1,1,1,Real Bed,$0.00 ,1,$20.00 ,100,strict_14_with_grace_period
+15419328,Asheville,NC,28806,House,1,1,1,Futon,$30.00 ,1,$20.00 ,100,flexible
+15422307,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$36.00 ,2,$20.00 ,99,moderate
+15431178,Asheville,NC,28803,House,2,2,2,Real Bed,$120.00 ,4,$30.00 ,99,strict_14_with_grace_period
+15437202,Asheville,NC,28803,Cottage,1,1,1,Real Bed,$20.00 ,1,$0.00 ,99,flexible
+15444450,Asheville,NC,28801,Guest suite,1,2,2,Real Bed,,2,$20.00 ,99,flexible
+15462269,Asheville,NC,28805,House,2,2,3,Real Bed,$100.00 ,1,$0.00 ,100,strict_14_with_grace_period
+15467289,Asheville,NC,28806,Other,1,1,1,Real Bed,$45.00 ,2,$15.00 ,94,strict_14_with_grace_period
+15475292,Asheville,NC,28805,Apartment,1,1,1,Real Bed,$20.00 ,1,$0.00 ,98,moderate
+15476300,Fletcher,NC,28732,House,2,3,4,Real Bed,$100.00 ,6,$10.00 ,92,strict_14_with_grace_period
+15481467,Asheville,NC,28801,Apartment,1,2,0,Real Bed,$65.00 ,2,$15.00 ,99,strict_14_with_grace_period
+15484732,Asheville,NC,28806,Apartment,1,2,2,Real Bed,,1,$0.00 ,,moderate
+15506149,Asheville,NC,28806,House,1,1,1,Real Bed,,1,$0.00 ,97,moderate
+15507809,Asheville,NC,28801,Guesthouse,1,2,2,Real Bed,$75.00 ,1,$0.00 ,98,moderate
+15510852,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$40.00 ,1,$0.00 ,92,strict_14_with_grace_period
+15516714,Arden,NC,28704,House,1,1,1,Real Bed,,1,$0.00 ,100,strict_14_with_grace_period
+15530268,Asheville,NC,28804,Apartment,1,1,1,Real Bed,$35.00 ,2,$50.00 ,98,flexible
+15544670,Asheville,NC,28806,Apartment,1,1,1,Real Bed,,1,$0.00 ,,flexible
+15546661,Asheville,NC,28805,Guest suite,1,1,1,Real Bed,$24.00 ,2,$10.00 ,100,moderate
+15547377,Arden,NC,28704,House,2,3,4,Real Bed,$70.00 ,8,$15.00 ,100,moderate
+15565423,Arden,NC,28704,House,2,2,2,Real Bed,$25.00 ,2,$0.00 ,98,strict_14_with_grace_period
+15568000,Asheville,NC,28805,Yurt,1,1,1,Real Bed,,1,$0.00 ,95,strict_14_with_grace_period
+15577790,Asheville,NC,28806,Guesthouse,1,1,1,Real Bed,$80.00 ,1,$0.00 ,99,strict_14_with_grace_period
+15579134,Asheville,NC,28801,House,1,1,1,Real Bed,$40.00 ,1,$0.00 ,99,moderate
+15616335,Asheville,NC,28803,House,1,1,1,Real Bed,,2,$50.00 ,97,flexible
+15647883,Asheville,NC,28806,Apartment,1,0,1,Real Bed,$79.00 ,1,$0.00 ,98,moderate
+15653105,Asheville,NC,28805,Bungalow,1,1,1,Real Bed,$50.00 ,1,$25.00 ,97,strict_14_with_grace_period
+15664695,Asheville,NC,28803,Guest suite,1,1,1,Real Bed,$10.00 ,2,$5.00 ,99,flexible
+15685101,Asheville,NC,28803,Guest suite,1,1,1,Real Bed,$30.00 ,2,$25.00 ,97,moderate
+15701324,Asheville,NC,28805,Guest suite,1,1,1,Real Bed,$15.00 ,2,$20.00 ,97,moderate
+15706129,Asheville,NC,28805,Guest suite,1,0,2,Real Bed,$25.00 ,2,$20.00 ,100,moderate
+15718256,Asheville,NC,28801,Guest suite,1,1,3,Real Bed,$40.00 ,2,$10.00 ,95,moderate
+15726031,Asheville,NC,28801,House,1,1,1,Real Bed,$80.00 ,1,$0.00 ,100,strict_14_with_grace_period
+15728861,Asheville,NC,28803,Bungalow,1,1,1,Real Bed,$15.00 ,1,$5.00 ,99,strict_14_with_grace_period
+15757654,Asheville,NC,28803,Apartment,2,1,1,Real Bed,$10.00 ,1,$10.00 ,98,moderate
+15780601,Asheville,NC,28806,Apartment,1,1,2,Real Bed,$60.00 ,1,$0.00 ,97,moderate
+15788106,Asheville,NC,28806,Cottage,1,2,2,Real Bed,$40.00 ,1,$0.00 ,97,strict_14_with_grace_period
+15806748,Asheville,NC,28803,House,1,1,1,Real Bed,$40.00 ,1,$0.00 ,100,moderate
+15817222,Asheville,NC,28806,Bungalow,1,1,1,Real Bed,$5.00 ,1,$0.00 ,95,strict_14_with_grace_period
+15827350,Fletcher,NC,28732,House,2,2,2,Real Bed,$65.00 ,4,$15.00 ,99,strict_14_with_grace_period
+15830721,Asheville,NC,28803,Guest suite,1,1,1,Real Bed,$25.00 ,1,$0.00 ,98,strict_14_with_grace_period
+15830900,Arden,NC,28704,House,2,3,5,Real Bed,$100.00 ,6,$50.00 ,96,moderate
+15843857,Asheville,NC,28805,House,1,1,1,Real Bed,$15.00 ,2,$0.00 ,99,moderate
+15850674,Asheville,NC,28806,House,2,3,4,Real Bed,$75.00 ,1,$0.00 ,100,flexible
+15867765,Asheville,NC,28801,House,1,1,1,Real Bed,$40.00 ,1,$0.00 ,99,moderate
+15868200,Asheville,NC,28805,House,1,1,1,Real Bed,,1,$0.00 ,99,flexible
+15874312,Asheville,NC,28806,House,1,3,5,Real Bed,$55.00 ,2,$20.00 ,96,moderate
+15880423,Asheville,NC,28806,Bungalow,2,2,2,Real Bed,$60.00 ,2,$60.00 ,98,moderate
+15884208,Asheville,NC,28801,House,1,1,1,Real Bed,$30.00 ,2,$10.00 ,97,moderate
+15922343,Asheville,NC,28801,Apartment,1,1,1,Real Bed,,1,$0.00 ,100,flexible
+15929513,Asheville,NC,28804,House,1.5,3,3,Real Bed,$85.00 ,1,$0.00 ,98,flexible
+15936945,Asheville,NC,28804,House,4,4,4,Real Bed,$85.00 ,2,$0.00 ,90,flexible
+15953382,Asheville,NC,28806,Apartment,1,0,1,Real Bed,$50.00 ,2,$10.00 ,95,moderate
+15995355,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$50.00 ,1,$0.00 ,99,strict_14_with_grace_period
+15998084,Asheville,NC,28805,House,2,2,2,Real Bed,$75.00 ,1,$0.00 ,,strict_14_with_grace_period
+16003488,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$50.00 ,2,$25.00 ,92,strict_14_with_grace_period
+16024372,Asheville,NC,28805,Tiny house,1,1,0,Real Bed,$40.00 ,1,$0.00 ,100,strict_14_with_grace_period
+16029611,Asheville,NC,28806,House,1,2,2,Real Bed,$45.00 ,2,$20.00 ,95,strict_14_with_grace_period
+16037508,Arden,NC,28704,House,2,3,4,Real Bed,$5.00 ,1,$0.00 ,97,flexible
+16046793,Asheville,NC,28804,House,1,2,2,Real Bed,$50.00 ,1,$0.00 ,99,moderate
+16060869,Asheville,NC,28801,House,1,1,1,Real Bed,,1,$0.00 ,98,moderate
+16147877,Asheville,NC,28803,Apartment,1,2,2,Real Bed,$40.00 ,4,$50.00 ,100,moderate
+16155218,Asheville,NC,28806,Apartment,1,1,2,Real Bed,$50.00 ,1,$0.00 ,98,strict_14_with_grace_period
+16163635,Asheville,NC,28806,House,1.5,3,4,Real Bed,$65.00 ,4,$10.00 ,96,moderate
+16185806,Arden,NC,28704,House,1.5,1,1,Real Bed,,1,$10.00 ,91,flexible
+16186167,Arden,NC,28704,House,1.5,1,1,Real Bed,,1,$10.00 ,88,flexible
+16203903,Woodfin,NC,28804,House,2,2,3,Real Bed,$90.00 ,1,$0.00 ,97,strict_14_with_grace_period
+16211914,Asheville,NC,28801,House,1,2,2,Real Bed,$50.00 ,4,$50.00 ,99,strict_14_with_grace_period
+16228218,Asheville,NC,28801,Apartment,1,1,1,Real Bed,,1,$0.00 ,96,moderate
+16267469,Asheville,NC,28803,House,1,1,1,Real Bed,$150.00 ,2,$35.00 ,100,strict_14_with_grace_period
+16267550,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$5.00 ,2,$25.00 ,93,strict_14_with_grace_period
+16282581,Asheville,NC,28803,Condominium,1,1,1,Real Bed,$5.00 ,1,$0.00 ,99,strict_14_with_grace_period
+16284364,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$50.00 ,4,$20.00 ,99,strict_14_with_grace_period
+16284468,Asheville,NC,28806,House,2,2,2,Real Bed,$75.00 ,1,$0.00 ,98,moderate
+16294435,Arden,NC,28704,House,1,3,3,Real Bed,$90.00 ,2,$15.00 ,97,moderate
+16350883,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$25.00 ,1,$0.00 ,97,strict_14_with_grace_period
+16378928,Asheville,NC,28803,House,1,2,2,Real Bed,$100.00 ,1,$0.00 ,100,moderate
+16384751,Asheville,NC,28806,House,1,1,1,Airbed,$15.00 ,1,$0.00 ,98,flexible
+16415290,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$75.00 ,2,$30.00 ,95,strict_14_with_grace_period
+16446590,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$0.00 ,1,$0.00 ,100,super_strict_60
+16451105,Asheville,NC,28801,Apartment,1,2,3,Real Bed,$85.00 ,2,$15.00 ,100,strict_14_with_grace_period
+16476358,Asheville,NC,28803,Guest suite,1,1,1,Real Bed,$40.00 ,1,$0.00 ,97,moderate
+16477857,Asheville,NC,28801,House,1,2,3,Real Bed,$50.00 ,2,$20.00 ,97,strict_14_with_grace_period
+16505517,Asheville,NC,28804,House,1,1,1,Real Bed,,1,$0.00 ,93,moderate
+16506906,Asheville,NC,28806,Guest suite,1,2,3,Real Bed,$30.00 ,4,$10.00 ,94,moderate
+16512718,Asheville,NC,28804,Guesthouse,1,1,1,Real Bed,$30.00 ,2,$10.00 ,100,moderate
+16532936,Asheville,NC,28806,House,2,3,3,Real Bed,$75.00 ,2,$0.00 ,98,flexible
+16533200,Asheville,NC,28804,House,1,2,2,Real Bed,$45.00 ,1,$0.00 ,92,moderate
+16559799,Asheville,NC,28803,Guesthouse,1,0,2,Real Bed,$20.00 ,1,$0.00 ,99,moderate
+16566334,Asheville,NC,28806,House,1,2,4,Real Bed,$50.00 ,5,$10.00 ,100,moderate
+16566932,Asheville,NC,28806,Apartment,1,2,2,Real Bed,$60.00 ,4,$25.00 ,97,strict_14_with_grace_period
+16583758,Asheville,NC,28806,House,2,3,3,Real Bed,$85.00 ,6,$10.00 ,99,moderate
+16587446,Asheville,NC,28801,Loft,2,2,3,Real Bed,$120.00 ,2,$0.00 ,99,strict_14_with_grace_period
+16602746,Asheville,NC,28806,Apartment,1,2,4,Real Bed,$65.00 ,4,$10.00 ,93,moderate
+16603497,Asheville,NC,28805,House,1,1,1,Real Bed,$49.00 ,2,$0.00 ,98,moderate
+16603859,Asheville,NC,28805,House,1,1,1,Real Bed,$49.00 ,2,$0.00 ,99,moderate
+16607736,Asheville,NC,28801,Apartment,2,2,2,Real Bed,,1,$0.00 ,100,strict_14_with_grace_period
+16627563,Asheville,NC,28801,House,1.5,1,1,Real Bed,$0.00 ,2,$65.00 ,99,moderate
+16636978,Fletcher,NC,28732,House,1,1,1,Real Bed,$30.00 ,2,$10.00 ,94,moderate
+16652322,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$0.00 ,1,$0.00 ,100,super_strict_60
+16660917,Woodfin,NC,28804,Bungalow,1,3,3,Real Bed,$90.00 ,4,$25.00 ,98,moderate
+16663252,Asheville,NC,28806,House,2,3,3,Real Bed,$250.00 ,6,$20.00 ,,strict_14_with_grace_period
+16670320,Asheville,NC,28806,Cottage,4,6,6,Real Bed,$160.00 ,12,$10.00 ,97,moderate
+16733596,Asheville,NC,28801,House,1,1,1,Real Bed,$10.00 ,1,$5.00 ,99,strict_14_with_grace_period
+16740685,Asheville,NC,28806,House,1,1,1,Real Bed,$15.00 ,1,$0.00 ,99,strict_14_with_grace_period
+16742264,Asheville,NC,28806,Bungalow,1,1,1,Real Bed,$5.00 ,1,$0.00 ,98,strict_14_with_grace_period
+16774726,Asheville,NC,28804,Bungalow,1.5,2,0,Real Bed,$55.00 ,2,$15.00 ,100,moderate
+16794735,Asheville,NC,28806,Tiny house,1,1,1,Real Bed,,2,$0.00 ,100,flexible
+16810083,Asheville,NC,28801,House,1,1,1,Real Bed,$10.00 ,1,$0.00 ,99,moderate
+16826141,Asheville,NC,28815,House,2,1,2,Real Bed,$50.00 ,4,$35.00 ,100,moderate
+16832848,Asheville,NC,28806,House,2.5,2,3,Real Bed,$100.00 ,4,$25.00 ,99,strict_14_with_grace_period
+16846899,Asheville,NC,28801,House,1,2,4,Real Bed,$0.00 ,4,$20.00 ,98,moderate
+16868257,Fletcher,NC,28732,House,2,3,5,Real Bed,$255.00 ,1,$0.00 ,,strict_14_with_grace_period
+16879450,Asheville,NC,28803,House,1,2,3,Real Bed,$120.00 ,4,$18.00 ,96,strict_14_with_grace_period
+16908337,Asheville,NC,28806,House,1.5,1,1,Real Bed,,1,$0.00 ,97,flexible
+16937948,Arden,NC,28704,House,4,6,6,Real Bed,$400.00 ,22,$0.00 ,100,super_strict_60
+16937957,Asheville,NC,28805,House,3,3,3,Real Bed,$250.00 ,8,$0.00 ,96,super_strict_60
+16937969,Asheville,NC,28801,Apartment,2,2,2,Real Bed,$125.00 ,4,$0.00 ,95,super_strict_60
+16937972,Asheville,NC,28801,Apartment,2,2,2,Real Bed,$125.00 ,4,$0.00 ,88,super_strict_60
+16937973,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$95.00 ,2,$0.00 ,98,super_strict_60
+16937975,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$95.00 ,2,$0.00 ,100,super_strict_60
+16937982,Asheville,NC,28801,Apartment,1,2,2,Real Bed,$125.00 ,4,$0.00 ,100,super_strict_60
+16937989,Arden,NC,28704,House,4,5,5,Real Bed,$425.00 ,10,$0.00 ,100,super_strict_60
+16937995,Asheville,NC,28806,House,2,3,3,Real Bed,$250.00 ,6,$0.00 ,97,super_strict_60
+16937997,Asheville,NC,28804,Cabin,3,3,3,Real Bed,$325.00 ,6,$0.00 ,97,super_strict_60
+16938004,Asheville,NC,28803,House,2,2,2,Real Bed,$175.00 ,4,$0.00 ,95,super_strict_60
+16977918,Asheville,NC,28805,Cabin,1,2,3,Real Bed,$70.00 ,6,$69.00 ,99,strict_14_with_grace_period
+16984015,Asheville,NC,28805,House,1,1,1,Real Bed,$19.00 ,2,$10.00 ,98,flexible
+17036413,Arden,NC,28704,Condominium,1.5,2,3,Real Bed,$30.00 ,1,$0.00 ,98,moderate
+17039544,Asheville,NC,28806,House,1.5,1,1,Real Bed,$15.00 ,1,$25.00 ,100,flexible
+17095670,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$50.00 ,1,$0.00 ,93,strict_14_with_grace_period
+17116810,Asheville,NC,28805,House,1,1,1,Real Bed,$20.00 ,1,$0.00 ,99,moderate
+17124352,Asheville,NC,28806,House,1,1,1,Real Bed,$10.00 ,1,$0.00 ,96,flexible
+17140023,Asheville,NC,28801,House,2,2,3,Real Bed,$50.00 ,2,$30.00 ,99,strict_14_with_grace_period
+17155164,Asheville,NC,28805,Apartment,1,0,1,Real Bed,$35.00 ,1,$0.00 ,98,strict_14_with_grace_period
+17157429,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$50.00 ,1,$0.00 ,100,moderate
+17206606,Weaverville,NC,28787,House,1,1,1,Real Bed,,1,$0.00 ,89,flexible
+17240001,Asheville,NC,28801,Guest suite,1,1,1,Real Bed,$40.00 ,2,$15.00 ,99,moderate
+17271023,Asheville,NC,28806,Bungalow,1,1,1,Real Bed,,1,$0.00 ,,flexible
+17278181,Asheville,NC,28801,House,2.5,2,3,Real Bed,$150.00 ,4,$0.00 ,100,strict_14_with_grace_period
+17310280,Asheville,NC,28804,Guesthouse,1,1,0,Real Bed,$50.00 ,1,$0.00 ,99,moderate
+17326028,Asheville,NC,28804,House,2.5,2,2,Real Bed,,1,$0.00 ,,strict_14_with_grace_period
+17345566,Asheville,NC,28804,House,1,1,1,Real Bed,$75.00 ,1,$0.00 ,100,strict_14_with_grace_period
+17364637,Asheville,NC,28806,Apartment,1,1,1,Real Bed,,2,$0.00 ,99,moderate
+17364692,Asheville,NC,28803,House,1,1,2,Real Bed,$25.00 ,1,$12.00 ,96,moderate
+17395670,Asheville,NC,28806,Apartment,1,2,2,Real Bed,,1,$0.00 ,98,strict_14_with_grace_period
+17403585,Asheville,NC,28806,House,3,3,5,Real Bed,$125.00 ,1,$0.00 ,99,moderate
+17446056,Woodfin,NC,28804,House,2,3,6,Real Bed,$125.00 ,1,$0.00 ,98,moderate
+17464124,Asheville,NC,28806,House,2,2,2,Real Bed,,1,$0.00 ,,flexible
+17476061,Asheville,NC,28801,House,2.5,1,1,Real Bed,$50.00 ,1,$35.00 ,99,strict_14_with_grace_period
+17494425,Asheville,NC,28801,House,1,1,2,Real Bed,$20.00 ,2,$15.00 ,99,moderate
+17545740,Fletcher,NC,28732,House,1,1,1,Real Bed,$0.00 ,1,$0.00 ,,flexible
+17552287,Asheville,NC,28804,House,1,1,3,Real Bed,$20.00 ,4,$25.00 ,98,moderate
+17587855,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$40.00 ,1,$0.00 ,98,moderate
+17591050,Asheville,NC,28801,House,1,2,3,Real Bed,$14.00 ,2,$15.00 ,99,flexible
+17602726,Asheville,NC,28805,House,1,1,1,Real Bed,$25.00 ,2,$35.00 ,100,flexible
+17606368,Asheville,NC,28805,Cabin,4,4,4,Real Bed,$375.00 ,10,$0.00 ,100,super_strict_60
+17606369,Asheville,NC,28803,Condominium,2,2,3,Real Bed,$145.00 ,4,$0.00 ,100,super_strict_60
+17618702,Asheville,NC,28806,Chalet,2.5,3,3,Real Bed,$150.00 ,5,$0.00 ,99,strict_14_with_grace_period
+17634705,Asheville,NC,28806,Bungalow,1,1,0,Real Bed,$60.00 ,2,$25.00 ,100,strict_14_with_grace_period
+17638575,Asheville,NC,28806,House,1,2,3,Real Bed,$135.00 ,1,$0.00 ,96,strict_14_with_grace_period
+17648416,Asheville,NC,28801,Apartment,1,1,0,Real Bed,$30.00 ,2,$0.00 ,100,strict_14_with_grace_period
+17649947,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$50.00 ,1,$0.00 ,100,strict_14_with_grace_period
+17653835,Asheville,NC,28806,Apartment,1,0,1,Real Bed,$0.00 ,1,$0.00 ,98,moderate
+17697321,Asheville,NC,28805,Apartment,1,1,1,Real Bed,$25.00 ,1,$0.00 ,99,flexible
+17708120,Asheville,NC,28801,Apartment,1,1,2,Real Bed,$60.00 ,2,$20.00 ,99,strict_14_with_grace_period
+17714585,Asheville,NC,28805,Apartment,1,1,1,Real Bed,$40.00 ,2,$0.00 ,100,moderate
+17718592,Asheville,NC,28806,House,2,4,4,Real Bed,$60.00 ,1,$0.00 ,99,moderate
+17726977,Asheville,NC,28803,House,1,1,1,Real Bed,$40.00 ,2,$15.00 ,98,moderate
+17733146,Asheville,NC,28805,House,1,1,1,Real Bed,$5.00 ,2,$10.00 ,98,flexible
+17750453,Asheville,NC,28806,Bungalow,1,2,3,Real Bed,$75.00 ,2,$35.00 ,95,strict_14_with_grace_period
+17773135,Asheville,NC,28801,Apartment,1,1,1,Real Bed,,2,$20.00 ,98,moderate
+17780854,Asheville,NC,28805,House,1,1,1,Real Bed,$5.00 ,2,$10.00 ,97,flexible
+17787933,Asheville,NC,28804,Guest suite,1,1,1,Real Bed,$35.00 ,2,$10.00 ,99,moderate
+17794306,Asheville,NC,28806,Bungalow,1,1,2,Real Bed,$25.00 ,2,$10.00 ,97,flexible
+17801964,Asheville,NC,28803,Apartment,1,2,4,Real Bed,,2,$15.00 ,95,moderate
+17810149,Arden,NC,28704,House,1,1,1,Real Bed,$20.00 ,1,$0.00 ,99,moderate
+17826503,Asheville,NC,28803,Guest suite,1,1,3,Real Bed,$35.00 ,4,$0.00 ,98,flexible
+17861930,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$50.00 ,1,$0.00 ,89,moderate
+17866138,Asheville,NC,28801,Apartment,1,2,2,Real Bed,$0.00 ,2,$25.00 ,97,super_strict_60
+17891904,Asheville,NC,28806,House,1,1,1,Real Bed,$0.00 ,1,$0.00 ,99,moderate
+17893645,Asheville,NC,28801,Apartment,1,2,3,Real Bed,$0.00 ,2,$25.00 ,100,super_strict_60
+17893818,Asheville,NC,28801,Apartment,2,4,6,Real Bed,$0.00 ,4,$25.00 ,95,super_strict_60
+17908639,Asheville,NC,28806,House,2,3,4,Real Bed,$75.00 ,6,$25.00 ,100,strict_14_with_grace_period
+17917678,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$35.00 ,1,$0.00 ,99,flexible
+17923086,Woodfin,NC,28804,House,1,2,2,Real Bed,$75.00 ,4,$40.00 ,91,flexible
+17924964,Asheville,NC,28806,House,1,1,2,Real Bed,$15.00 ,1,$0.00 ,99,flexible
+17928351,Asheville,NC,28804,Guest suite,1,1,1,Real Bed,$30.00 ,2,$20.00 ,100,flexible
+17935396,Asheville,NC,28804,Guest suite,1,1,1,Real Bed,$50.00 ,2,$75.00 ,100,strict_14_with_grace_period
+17940913,Asheville,NC,28806,House,1,2,2,Real Bed,$25.00 ,1,$0.00 ,,flexible
+17971183,Candler,NC,28715,Apartment,2,3,3,Real Bed,$150.00 ,2,$50.00 ,95,moderate
+17975156,Asheville,NC,28805,House,1,1,2,Real Bed,,2,$10.00 ,96,moderate
+17980075,Asheville,NC,28806,House,1.5,2,4,Real Bed,$40.00 ,1,$0.00 ,86,moderate
+18004232,Asheville,NC,28805,House,3,5,8,Real Bed,$94.00 ,2,$40.00 ,94,strict_14_with_grace_period
+18015864,Asheville,NC,28804,Guesthouse,1,1,1,Real Bed,$75.00 ,1,$0.00 ,,strict_14_with_grace_period
+18017043,Asheville,NC,28801,House,1,1,1,Real Bed,,1,$0.00 ,99,moderate
+18018230,Asheville,NC,28801,House,1,1,1,Real Bed,,1,$0.00 ,100,moderate
+18022683,Asheville,NC,28806,Loft,1,1,1,Real Bed,$45.00 ,2,$0.00 ,99,strict_14_with_grace_period
+18040182,Asheville,NC,28805,Apartment,1,1,1,Real Bed,$35.00 ,2,$20.00 ,100,moderate
+18055958,Asheville,NC,28801,Townhouse,2,2,2,Real Bed,$200.00 ,4,$50.00 ,97,strict_14_with_grace_period
+18057215,Asheville,NC,28805,House,1,2,2,Real Bed,,4,$10.00 ,93,moderate
+18077196,Asheville,NC,28806,Apartment,1,2,2,Real Bed,$20.00 ,1,$0.00 ,99,flexible
+18087603,Asheville,NC,28805,Guest suite,1,1,1,Real Bed,$0.00 ,1,$0.00 ,100,moderate
+18092896,Asheville,NC,28801,Bungalow,1,1,2,Real Bed,$29.00 ,2,$15.00 ,98,moderate
+18104939,Asheville,NC,28806,Apartment,1,1,4,Real Bed,$100.00 ,1,$0.00 ,97,strict_14_with_grace_period
+18117417,Asheville,NC,28801,House,1,1,1,Real Bed,$15.00 ,2,$15.00 ,98,moderate
+18119864,Asheville,NC,28804,House,1.5,2,2,Real Bed,$75.00 ,1,$25.00 ,100,moderate
+18121899,Asheville,NC,28804,Guest suite,1,1,2,Real Bed,$35.00 ,2,$10.00 ,100,flexible
+18122227,Candler,NC,28715,House,1,1,1,Real Bed,$10.00 ,1,$0.00 ,99,flexible
+18151750,Asheville,NC,28803,Farm stay,1,1,1,Real Bed,,1,$0.00 ,100,flexible
+18153024,Asheville,NC,28801,Bungalow,1.5,1,1,Real Bed,$25.00 ,3,$50.00 ,98,moderate
+18178954,Asheville,NC,28804,Guest suite,1,1,0,Real Bed,$50.00 ,1,$0.00 ,98,moderate
+18179308,Candler,NC,28715,Guest suite,1,2,3,Real Bed,$50.00 ,2,$5.00 ,99,strict_14_with_grace_period
+18227830,Asheville,NC,28806,House,1,2,2,Real Bed,,1,$0.00 ,90,flexible
+18248623,Asheville,NC,28803,House,4,4,4,Real Bed,$395.00 ,10,$0.00 ,94,super_strict_60
+18264441,Asheville,NC,28806,House,1,1,1,Real Bed,$25.00 ,2,$20.00 ,100,strict_14_with_grace_period
+18284194,Asheville,NC,28806,House,1,2,2,Real Bed,,2,$15.00 ,97,flexible
+18287668,Asheville,NC,28801,House,2.5,3,2,Real Bed,$75.00 ,1,$0.00 ,100,strict_14_with_grace_period
+18305230,Asheville,NC,28805,House,1,1,1,Real Bed,$20.00 ,1,$0.00 ,98,moderate
+18308309,Asheville,NC,28801,Other,1,1,1,Real Bed,,2,$10.00 ,85,flexible
+18308656,Asheville,NC,28801,Other,1,1,1,Real Bed,,2,$10.00 ,87,flexible
+18308869,Asheville,NC,28801,Other,1,1,1,Real Bed,,2,$10.00 ,80,flexible
+18308979,Asheville,NC,28801,Other,1,1,1,Real Bed,,2,$10.00 ,83,flexible
+18309080,Asheville,NC,28801,Other,1,1,1,Real Bed,,2,$10.00 ,84,flexible
+18322086,Asheville,NC,28805,Cottage,1,2,3,Real Bed,$50.00 ,6,$25.00 ,100,flexible
+18322753,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$30.00 ,2,$15.00 ,100,moderate
+18343468,Asheville,NC,28803,House,1,1,1,Real Bed,$20.00 ,1,$15.00 ,99,moderate
+18370607,Asheville,NC,28806,Guest suite,2,1,3,Real Bed,$40.00 ,2,$20.00 ,99,moderate
+18374305,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$15.00 ,2,$0.00 ,99,moderate
+18375617,Asheville,NC,28803,House,1,2,2,Real Bed,$50.00 ,4,$100.00 ,99,moderate
+18385101,Asheville,NC,28805,Guesthouse,1,1,1,Real Bed,$30.00 ,1,$0.00 ,98,moderate
+18389884,Asheville,NC,28801,Other,1,1,1,Real Bed,,2,$10.00 ,89,flexible
+18393059,Asheville,NC,28806,House,1,1,1,Real Bed,$20.00 ,2,$20.00 ,99,moderate
+18395523,Asheville,NC,28803,Guest suite,1,1,0,Real Bed,$25.00 ,2,$20.00 ,99,moderate
+18404153,Asheville,NC,28801,Other,1,1,2,Real Bed,,2,$10.00 ,93,flexible
+18405483,Asheville,NC,28801,Other,1,1,2,Real Bed,,2,$10.00 ,92,flexible
+18406520,Asheville,NC,28801,Other,1,1,2,Real Bed,,2,$10.00 ,85,flexible
+18413159,Asheville,NC,28806,House,1,1,1,Real Bed,$50.00 ,1,$0.00 ,97,moderate
+18422959,Asheville,NC,28806,Bungalow,1,2,3,Real Bed,$35.00 ,2,$0.00 ,99,moderate
+18431805,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$40.00 ,1,$0.00 ,98,moderate
+18432514,Asheville,NC,28805,House,1,1,1,Real Bed,$32.00 ,1,$0.00 ,100,flexible
+18466431,Asheville,NC,28805,Apartment,1,2,2,Real Bed,$18.00 ,2,$18.00 ,99,moderate
+18471514,Asheville,NC,28805,Guest suite,1,2,3,Real Bed,$25.00 ,1,$0.00 ,99,flexible
+18472679,Asheville,NC,28806,Apartment,1,1,2,Real Bed,,1,$0.00 ,60,flexible
+18473371,Asheville,NC,28806,Bungalow,1,2,4,Real Bed,$100.00 ,6,$0.00 ,100,moderate
+18487194,Asheville,NC,28803,House,1,2,4,Real Bed,$50.00 ,4,$10.00 ,92,moderate
+18502022,Candler,NC,28715,Guest suite,1,1,1,Real Bed,$25.00 ,1,$0.00 ,99,moderate
+18504155,Asheville,NC,28804,House,3,3,3,Real Bed,$375.00 ,6,$0.00 ,,super_strict_60
+18510280,Asheville,NC,28801,Bungalow,1,1,1,Real Bed,$15.00 ,2,$15.00 ,98,flexible
+18521819,Asheville,NC,28804,Guest suite,1,1,1,Real Bed,$40.00 ,1,$0.00 ,100,moderate
+18525895,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$40.00 ,2,$10.00 ,98,moderate
+18566844,Asheville,NC,28801,House,1,1,1,Real Bed,$0.00 ,1,$10.00 ,100,moderate
+18592860,Asheville,NC,28806,Bungalow,1,1,1,Real Bed,$20.00 ,1,$0.00 ,99,flexible
+18599205,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$40.00 ,1,$0.00 ,99,moderate
+18616393,Asheville,NC,28805,Apartment,1,2,2,Real Bed,$50.00 ,2,$40.00 ,98,strict_14_with_grace_period
+18627613,Asheville,NC,28806,Guest suite,1,1,2,Real Bed,$40.00 ,1,$0.00 ,96,flexible
+18670372,Asheville,NC,28806,House,1,1,1,Real Bed,$8.00 ,2,$20.00 ,97,strict_14_with_grace_period
+18708365,Asheville,NC,28801,House,1.5,1,1,Real Bed,$15.00 ,1,$0.00 ,96,strict_14_with_grace_period
+18715985,Asheville,NC,28806,House,2,3,4,Real Bed,$94.00 ,2,$40.00 ,95,strict_14_with_grace_period
+18716194,Asheville,NC,28805,Cabin,1.5,3,5,Real Bed,$95.00 ,1,$0.00 ,99,moderate
+18721359,Asheville,NC,28803,Guesthouse,1,0,1,Real Bed,,1,$0.00 ,,strict_14_with_grace_period
+18731242,Arden,NC,28704,House,4.5,5,8,Real Bed,$250.00 ,8,$25.00 ,99,strict_14_with_grace_period
+18751432,Asheville,NC,28805,House,2,2,3,Real Bed,$150.00 ,8,$299.00 ,99,moderate
+18753699,Asheville,NC,28805,Cottage,1,1,1,Real Bed,$20.00 ,1,$0.00 ,97,flexible
+18754939,Asheville,NC,28806,House,1,1,1,Real Bed,$40.00 ,2,$10.00 ,94,strict_14_with_grace_period
+18772041,Asheville,NC,28804,Guest suite,1,1,2,Real Bed,$10.00 ,1,$0.00 ,95,moderate
+18776404,Asheville,NC,28801,House,1,1,1,Real Bed,$15.00 ,1,$0.00 ,99,strict_14_with_grace_period
+18784621,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$40.00 ,1,$0.00 ,93,flexible
+18825741,Asheville,NC,28805,House,1,1,1,Real Bed,$70.00 ,1,$0.00 ,100,moderate
+18837080,Arden,NC,28704,House,2.5,3,6,Real Bed,$125.00 ,1,$0.00 ,98,moderate
+18837674,Asheville,NC,28804,Apartment,2,2,6,Real Bed,$50.00 ,4,$10.00 ,100,moderate
+18853795,Asheville,NC,28806,House,1,1,1,Real Bed,,1,$0.00 ,,strict_14_with_grace_period
+18896600,Asheville,NC,28801,Apartment,1,2,4,Real Bed,$75.00 ,4,$100.00 ,95,moderate
+18907430,Asheville,NC,28801,House,1,2,2,Real Bed,$25.00 ,2,$20.00 ,99,strict_14_with_grace_period
+18910863,Asheville,NC,28804,Apartment,1,2,2,Real Bed,$50.00 ,4,$20.00 ,93,moderate
+18918238,Candler,NC,28715,Apartment,1,1,1,Real Bed,$20.00 ,2,$20.00 ,97,strict_14_with_grace_period
+18928361,Asheville,NC,28806,Cabin,2,3,6,Real Bed,$65.00 ,4,$25.00 ,82,strict_14_with_grace_period
+18929549,Asheville,NC,28805,Cottage,1,3,3,Real Bed,,1,$0.00 ,99,flexible
+18970578,Asheville,NC,28801,Apartment,1,0,1,Real Bed,$50.00 ,1,$0.00 ,95,strict_14_with_grace_period
+18974593,Asheville,NC,28805,House,2.5,3,6,Real Bed,$200.00 ,12,$50.00 ,100,strict_14_with_grace_period
+19006372,Asheville,NC,28801,House,1,2,3,Real Bed,$75.00 ,4,$25.00 ,97,moderate
+19029460,Fletcher,NC,28732,House,1,1,1,Real Bed,$10.00 ,1,$0.00 ,97,flexible
+19032051,Asheville,NC,28806,Apartment,1,1,2,Real Bed,$50.00 ,2,$20.00 ,99,moderate
+19050500,Asheville,NC,28806,Camper/RV,1,1,2,Real Bed,$12.00 ,3,$15.00 ,98,flexible
+19066373,Asheville,NC,28806,House,1,3,4,Real Bed,$85.00 ,4,$20.00 ,92,strict_14_with_grace_period
+19066512,Asheville,NC,28806,House,2,4,6,Real Bed,$150.00 ,1,$0.00 ,100,strict_14_with_grace_period
+19077911,Asheville,NC,28806,Bungalow,1,2,3,Real Bed,$50.00 ,1,$0.00 ,100,moderate
+19085821,Arden,NC,28704,House,1.5,3,3,Real Bed,$100.00 ,6,$25.00 ,100,moderate
+19101996,Asheville,NC,28806,House,1,1,2,Real Bed,$35.00 ,2,$10.00 ,98,flexible
+19110626,Asheville,NC,28803,House,2,3,4,Real Bed,,1,$0.00 ,99,flexible
+19118629,Asheville,NC,28805,Guesthouse,1,0,3,Real Bed,$75.00 ,1,$0.00 ,98,moderate
+19120555,Asheville,NC,28806,House,3.5,4,5,Real Bed,$200.00 ,1,$0.00 ,99,strict_14_with_grace_period
+19121317,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$30.00 ,2,$20.00 ,95,moderate
+19128809,Asheville,NC,28806,House,1,1,1,Real Bed,$15.00 ,1,$19.00 ,93,moderate
+19129020,Asheville,NC,28805,Cabin,1,1,1,Real Bed,$100.00 ,2,$50.00 ,100,moderate
+19135906,Asheville,NC,28806,Cabin,1,2,3,Real Bed,$0.00 ,1,$0.00 ,,strict_14_with_grace_period
+19137905,Asheville,NC,28806,House,1,1,2,Real Bed,$25.00 ,2,$35.00 ,98,moderate
+19227583,Asheville,NC,28806,Bungalow,1,1,1,Real Bed,$50.00 ,1,$0.00 ,99,moderate
+19229221,Asheville,NC,28801,Apartment,1,1,0,Real Bed,$0.00 ,2,$25.00 ,99,super_strict_60
+19262092,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$95.00 ,2,$20.00 ,99,strict_14_with_grace_period
+19264539,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$65.00 ,2,$0.00 ,95,moderate
+19270494,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$50.00 ,2,$100.00 ,99,moderate
+19271563,Arden,NC,28704,House,2,3,4,Real Bed,$0.00 ,1,$0.00 ,99,strict_14_with_grace_period
+19307742,Asheville,NC,28801,House,1,2,3,Real Bed,$0.00 ,1,$0.00 ,100,moderate
+19326768,Asheville,NC,28801,Guest suite,1,1,1,Real Bed,$60.00 ,1,$0.00 ,99,strict_14_with_grace_period
+19340532,Asheville,NC,28806,Cottage,1,1,1,Real Bed,$85.00 ,1,$0.00 ,100,moderate
+19362401,Asheville,NC,28806,House,2.5,4,7,Real Bed,$40.00 ,1,$0.00 ,100,moderate
+19381523,Asheville,NC,28804,Apartment,1.5,1,1,Real Bed,$50.00 ,2,$40.00 ,99,strict_14_with_grace_period
+19387344,Asheville,NC,28803,Bungalow,1,1,1,Real Bed,$0.00 ,1,$0.00 ,95,moderate
+19388286,Asheville,NC,28806,Cottage,1,1,1,Real Bed,$85.00 ,1,$0.00 ,100,moderate
+19406211,Asheville,NC,28805,Apartment,1,0,1,Real Bed,$0.00 ,1,$0.00 ,94,moderate
+19409581,Asheville,NC,28805,House,1,1,1,Real Bed,$20.00 ,1,$0.00 ,99,flexible
+19412393,Asheville,NC,28804,Guest suite,1,1,3,Real Bed,$50.00 ,4,$0.00 ,100,moderate
+19415618,Asheville,NC,28803,House,2,2,3,Real Bed,$125.00 ,1,$0.00 ,100,moderate
+19453046,Asheville,NC,28806,House,1,3,5,Real Bed,,4,$50.00 ,96,moderate
+19472469,Asheville,NC,28806,House,1,2,3,Real Bed,$55.00 ,2,$12.00 ,99,strict_14_with_grace_period
+19486051,Arden,NC,28704,Townhouse,1.5,1,1,Real Bed,$10.00 ,1,$0.00 ,99,flexible
+19490081,Asheville,NC,28801,Bungalow,1,1,1,Real Bed,,1,$0.00 ,99,flexible
+19529697,Asheville,NC,28732,House,1.5,4,9,Real Bed,$125.00 ,4,$10.00 ,98,strict_14_with_grace_period
+19531546,Asheville,NC,28806,House,2,2,2,Real Bed,$85.00 ,4,$50.00 ,96,moderate
+19542299,Asheville,NC,28803,House,3,4,4,Real Bed,$200.00 ,1,$0.00 ,96,moderate
+19548415,Asheville,NC,28804,Guest suite,1,1,1,Real Bed,$35.00 ,1,$0.00 ,100,flexible
+19561946,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$40.00 ,1,$0.00 ,90,strict_14_with_grace_period
+19608022,Asheville,NC,28804,Bungalow,2,2,2,Real Bed,$75.00 ,1,$0.00 ,100,moderate
+19609285,Asheville,NC,28803,Guest suite,1,0,2,Real Bed,$35.00 ,2,$25.00 ,99,moderate
+19610809,Asheville,NC,28806,Bungalow,2,3,3,Real Bed,$60.00 ,1,$0.00 ,100,flexible
+19620931,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$50.00 ,2,$75.00 ,,flexible
+19622621,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$60.00 ,2,$25.00 ,98,moderate
+19625971,Asheville,NC,28804,House,2,3,4,Real Bed,$75.00 ,6,$10.00 ,98,moderate
+19629824,Asheville,NC,28806,Bungalow,2,3,4,Real Bed,$94.00 ,2,$40.00 ,94,strict_14_with_grace_period
+19643402,Asheville,NC,28804,Guest suite,1,1,3,Real Bed,$35.00 ,1,$15.00 ,99,moderate
+19700502,Asheville,NC,28806,Guesthouse,1,1,2,Real Bed,$40.00 ,2,$25.00 ,99,moderate
+19701203,Asheville,NC,28806,House,1,2,2,Real Bed,$65.00 ,1,$0.00 ,90,strict_14_with_grace_period
+19708817,Asheville,NC,28806,Camper/RV,1,1,3,Real Bed,$45.00 ,2,$15.00 ,99,moderate
+19711006,Asheville,NC,28804,Guest suite,1,1,2,Real Bed,$20.00 ,1,$0.00 ,94,moderate
+19716355,Asheville,NC,28801,House,1,1,1,Real Bed,$25.00 ,2,$95.00 ,98,moderate
+19719866,Asheville,NC,28806,Bungalow,1,0,2,Real Bed,,1,$0.00 ,99,flexible
+19733975,Asheville,NC,28805,House,1,1,1,Real Bed,$15.00 ,1,$0.00 ,95,flexible
+19742574,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$35.00 ,2,$0.00 ,98,moderate
+19744619,Woodfin,NC,28804,Bungalow,1,1,1,Real Bed,,1,$0.00 ,95,flexible
+19751438,Asheville,NC,28806,House,1,1,1,Real Bed,$10.00 ,1,$0.00 ,97,moderate
+19761806,Asheville,NC,28806,Bungalow,1,1,1,Real Bed,$20.00 ,1,$0.00 ,100,flexible
+19785945,Asheville,NC,28806,Apartment,1,0,2,Real Bed,$40.00 ,4,$20.00 ,99,moderate
+19787532,Asheville,NC,28801,Apartment,1,1,2,Real Bed,$45.00 ,2,$0.00 ,98,strict_14_with_grace_period
+19790687,Asheville,NC,28803,Guest suite,1,1,1,Real Bed,$25.00 ,1,$0.00 ,98,moderate
+19809125,Asheville,NC,28805,Guest suite,1,1,2,Real Bed,$35.00 ,2,$20.00 ,97,moderate
+19811549,Asheville,NC,28806,House,3.5,5,7,Real Bed,$175.00 ,6,$35.00 ,97,strict_14_with_grace_period
+19824923,Asheville,NC,28806,House,1,1,1,Real Bed,$17.00 ,2,$25.00 ,98,flexible
+19843441,Asheville,NC,28801,Townhouse,1,1,1,Real Bed,$20.00 ,1,$0.00 ,97,flexible
+19844151,Arden,NC,28704,House,1.5,3,4,Real Bed,$91.00 ,8,$0.00 ,80,strict_14_with_grace_period
+19858349,Asheville,NC,28801,Guest suite,1,0,2,Real Bed,$35.00 ,1,$0.00 ,100,strict_14_with_grace_period
+19864005,Asheville,NC,28806,House,2,3,5,Real Bed,$85.00 ,1,$0.00 ,96,flexible
+19870831,Asheville,NC,28805,House,1,1,1,Real Bed,$20.00 ,2,$0.00 ,100,moderate
+19874293,Asheville,NC,28801,Apartment,1,2,4,Real Bed,$50.00 ,2,$35.00 ,99,moderate
+19908244,Asheville,NC,28801,Guest suite,1,1,1,Real Bed,$20.00 ,1,$0.00 ,97,moderate
+19912932,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$20.00 ,1,$0.00 ,99,moderate
+19921886,Asheville,NC,28806,Bungalow,1.5,1,1,Real Bed,$45.00 ,2,$40.00 ,99,strict_14_with_grace_period
+19922723,Asheville,NC,28806,Cottage,1,1,1,Real Bed,$25.00 ,1,$0.00 ,98,flexible
+19952563,Arden,NC,28704,Apartment,1,1,1,Real Bed,$0.00 ,2,$0.00 ,100,flexible
+19959386,Asheville,NC,28806,Apartment,1,1,4,Real Bed,$0.00 ,7,$0.00 ,99,moderate
+19965982,Asheville,NC,28806,House,1,0,1,Real Bed,$10.00 ,2,$10.00 ,99,moderate
+19970767,Asheville,NC,28806,House,1,2,2,Real Bed,$70.00 ,6,$0.00 ,99,moderate
+19982717,Asheville,NC,28804,House,3.5,6,9,Real Bed,$295.00 ,10,$30.00 ,97,strict_14_with_grace_period
+19992336,Asheville,NC,28803,Farm stay,1,1,1,Real Bed,$20.00 ,1,$0.00 ,100,moderate
+20008452,Asheville,NC,28806,Guesthouse,1,0,2,Real Bed,$55.00 ,2,$10.00 ,97,strict_14_with_grace_period
+20014085,Asheville,NC,28806,House,1,2,2,Real Bed,$25.00 ,2,$15.00 ,93,moderate
+20016326,Asheville,NC,28805,House,2,2,3,Real Bed,$100.00 ,5,$0.00 ,100,moderate
+20036903,Asheville,NC,28806,House,1,1,2,Real Bed,$50.00 ,4,$25.00 ,99,moderate
+20069569,Asheville,NC,28805,Guest suite,1,1,2,Real Bed,$0.00 ,4,$0.00 ,100,moderate
+20070593,Arden,NC,28704,House,1,2,2,Real Bed,$113.00 ,5,$0.00 ,100,strict_14_with_grace_period
+20074883,Asheville,NC,28804,Guest suite,1,2,2,Real Bed,$75.00 ,2,$35.00 ,96,moderate
+20076292,Asheville,NC,28806,House,2,2,1,Real Bed,$20.00 ,1,$0.00 ,97,flexible
+20083761,Asheville,NC,28806,House,1,1,1,Real Bed,$15.00 ,1,$12.00 ,100,moderate
+20089787,Asheville,NC,28801,Apartment,1,0,1,Real Bed,$40.00 ,1,$0.00 ,86,strict_14_with_grace_period
+20091731,Asheville,NC,28804,Cottage,2,2,3,Real Bed,$80.00 ,1,$0.00 ,99,moderate
+20093880,Asheville,NC,28806,House,1,1,1,Real Bed,$0.00 ,2,$10.00 ,90,moderate
+20094237,Asheville,NC,28806,House,1,1,1,Real Bed,,1,$0.00 ,90,moderate
+20121078,Asheville,NC,28801,Guest suite,2,2,2,Real Bed,$59.00 ,1,$30.00 ,97,strict_14_with_grace_period
+20131746,Asheville,NC,28803,House,1,2,3,Real Bed,$30.00 ,2,$20.00 ,98,moderate
+20146236,Asheville,NC,28806,House,2,3,3,Real Bed,$70.00 ,6,$50.00 ,96,strict_14_with_grace_period
+20153545,Asheville,NC,28806,Guest suite,1,1,2,Real Bed,$25.00 ,2,$10.00 ,97,moderate
+20153704,Asheville,NC,28804,Guest suite,1,1,1,Real Bed,$25.00 ,1,$0.00 ,100,flexible
+20154151,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$20.00 ,2,$0.00 ,97,moderate
+20170751,Asheville,NC,28804,House,1.5,1,1,Real Bed,$15.00 ,1,$0.00 ,100,flexible
+20174263,Arden,NC,28704,Cabin,2,3,4,Real Bed,$75.00 ,2,$25.00 ,97,strict_14_with_grace_period
+20174635,Asheville,NC,28805,Cabin,1,0,2,Real Bed,$0.00 ,1,$0.00 ,99,moderate
+20191252,Asheville,NC,28804,House,1.5,1,1,Real Bed,$15.00 ,1,$0.00 ,100,flexible
+20192369,Asheville,NC,28804,Guest suite,1,2,2,Real Bed,$35.00 ,1,$0.00 ,98,moderate
+20206450,Asheville,NC,28804,House,1.5,2,0,Real Bed,$25.00 ,1,$0.00 ,100,flexible
+20208429,Asheville,NC,28801,Bungalow,1,2,2,Real Bed,$45.00 ,2,$15.00 ,98,moderate
+20234839,Asheville,NC,28803,House,1,1,1,Real Bed,$12.00 ,1,$0.00 ,98,flexible
+20241154,Asheville,NC,28803,House,2,2,2,Real Bed,$65.00 ,1,$0.00 ,100,moderate
+20255923,Asheville,NC,28806,Guesthouse,1.5,2,3,Real Bed,$25.00 ,4,$10.00 ,,flexible
+20263791,Asheville,NC,28806,House,2,3,3,Real Bed,$75.00 ,6,$25.00 ,100,moderate
+20268605,Asheville,NC,28805,Cottage,1,0,0,Real Bed,$30.00 ,2,$35.00 ,99,moderate
+20281303,Asheville,NC,28806,House,1,2,2,Real Bed,$25.00 ,3,$25.00 ,95,flexible
+20286724,Asheville,NC,28803,House,3,4,7,Real Bed,$75.00 ,1,$0.00 ,,strict_14_with_grace_period
+20294011,Woodfin,NC,28804,House,1,1,2,Real Bed,$60.00 ,2,$0.00 ,100,flexible
+20309680,Asheville,NC,28801,Guest suite,1,0,2,Real Bed,,2,$15.00 ,97,moderate
+20319362,Asheville,NC,28806,House,2.5,2,2,Real Bed,$75.00 ,4,$20.00 ,100,strict_14_with_grace_period
+20327457,Asheville,NC,28804,House,1,1,1,Real Bed,$25.00 ,1,$20.00 ,96,moderate
+20328686,Asheville,NC,28804,House,2.5,4,5,Real Bed,$90.00 ,1,$0.00 ,100,strict_14_with_grace_period
+20355406,Asheville,NC,,Guesthouse,1,1,2,Real Bed,$45.00 ,1,$0.00 ,100,moderate
+20375539,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$50.00 ,1,$0.00 ,99,moderate
+20389695,Asheville,NC,28801,Apartment,1,2,1,Real Bed,$60.00 ,2,$15.00 ,96,strict_14_with_grace_period
+20395878,Asheville,NC,28803,House,1,1,3,Real Bed,,1,$0.00 ,100,flexible
+20408452,Asheville,NC,28804,Guest suite,1,1,3,Real Bed,$0.00 ,2,$10.00 ,100,strict_14_with_grace_period
+20423335,Asheville,NC,28806,Apartment,1,2,5,Real Bed,$50.00 ,2,$25.00 ,90,moderate
+20435375,Asheville,NC,28803,Apartment,1,2,4,Real Bed,$60.00 ,2,$10.00 ,96,moderate
+20439998,Asheville,NC,28801,Apartment,1,1,2,Real Bed,$100.00 ,2,$0.00 ,100,flexible
+20441967,Asheville,NC,28806,House,2,3,3,Real Bed,$120.00 ,6,$25.00 ,98,strict_14_with_grace_period
+20447857,Asheville,NC,28801,House,1,1,1,Real Bed,$25.00 ,2,$95.00 ,100,moderate
+20454654,Asheville,NC,28801,Guesthouse,1,1,1,Real Bed,$39.00 ,1,$0.00 ,98,moderate
+20456656,Asheville,NC,28803,Apartment,1,1,1,Real Bed,$20.00 ,1,$0.00 ,100,flexible
+20462071,Asheville,NC,28805,Cabin,1,2,3,Real Bed,$60.00 ,2,$20.00 ,99,moderate
+20465164,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$75.00 ,2,$25.00 ,100,strict_14_with_grace_period
+20465557,Asheville,NC,28803,Condominium,1,1,2,Real Bed,$12.00 ,2,$20.00 ,99,flexible
+20473937,Asheville,NC,28801,House,3,2,0,Real Bed,$50.00 ,1,$0.00 ,98,moderate
+20479622,Asheville,NC,28803,House,2,2,2,Real Bed,$30.00 ,1,$0.00 ,100,moderate
+20482319,Asheville,NC,28806,Condominium,1,1,2,Real Bed,$30.00 ,2,$10.00 ,95,moderate
+20489357,Asheville,NC,28806,Cottage,1,1,1,Real Bed,$69.00 ,1,$0.00 ,100,moderate
+20504787,Asheville,NC,28803,Guesthouse,1,1,1,Real Bed,$20.00 ,2,$15.00 ,99,moderate
+20515199,Asheville,NC,28806,Guest suite,1,0,1,Real Bed,$30.00 ,1,$0.00 ,99,moderate
+20517072,Asheville,NC,28804,House,1,1,1,Real Bed,$10.00 ,2,$35.00 ,97,flexible
+20520600,Asheville,NC,28804,Guest suite,1,1,1,Real Bed,$30.00 ,1,$0.00 ,100,moderate
+20527549,Asheville,NC,28803,Guest suite,1,2,2,Real Bed,$55.00 ,2,$25.00 ,99,moderate
+20565836,Asheville,NC,28803,House,4,6,6,Real Bed,$425.00 ,14,$0.00 ,95,super_strict_60
+20570236,Asheville,NC,28805,House,1,1,3,Real Bed,$30.00 ,4,$15.00 ,100,moderate
+20570767,Asheville,NC,28803,Apartment,1,2,2,Real Bed,$0.00 ,2,$10.00 ,93,strict_14_with_grace_period
+20572681,Asheville,NC,28806,Cottage,1,2,2,Real Bed,$60.00 ,2,$15.00 ,99,moderate
+20583406,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$50.00 ,1,$0.00 ,98,moderate
+20604517,Asheville,NC,28806,Guest suite,2,2,3,Real Bed,$70.00 ,4,$25.00 ,98,moderate
+20621957,Asheville,NC,28803,Bungalow,1,1,1,Real Bed,$65.00 ,2,$25.00 ,95,moderate
+20623672,Asheville,NC,28804,Guest suite,1,2,4,Real Bed,$125.00 ,6,$40.00 ,97,strict_14_with_grace_period
+20624327,Asheville,NC,28805,Guest suite,1,1,2,Real Bed,$45.00 ,2,$10.00 ,97,moderate
+20624404,Candler,NC,28715,House,1,1,1,Real Bed,$35.00 ,2,$58.00 ,99,strict_14_with_grace_period
+20638135,Asheville,NC,28804,House,2,2,2,Real Bed,$142.00 ,6,$0.00 ,,strict_14_with_grace_period
+20638269,Asheville,NC,28803,House,2,1,1,Real Bed,$56.00 ,2,$0.00 ,,strict_14_with_grace_period
+20638399,Asheville,NC,28805,House,1,1,1,Real Bed,$120.00 ,2,$0.00 ,,strict_14_with_grace_period
+20638444,Asheville,NC,28805,House,3,4,6,Real Bed,$275.00 ,8,$30.00 ,93,strict_14_with_grace_period
+20653416,Asheville,NC,28806,House,2.5,3,4,Real Bed,$170.00 ,9,$0.00 ,100,strict_14_with_grace_period
+20663042,Asheville,NC,28803,Guest suite,1,1,1,Real Bed,$20.00 ,1,$0.00 ,98,strict_14_with_grace_period
+20665144,Asheville,NC,28804,House,2,3,5,Real Bed,$120.00 ,8,$20.00 ,99,moderate
+20692815,Asheville,NC,28806,Guest suite,1,1,2,Real Bed,$30.00 ,2,$10.00 ,97,moderate
+20694871,Asheville,NC,28803,House,1,1,1,Real Bed,$15.00 ,1,$0.00 ,100,flexible
+20695367,Asheville,NC,28806,Guest suite,1,2,2,Real Bed,$50.00 ,4,$20.00 ,100,flexible
+20697183,Asheville,NC,28806,Apartment,1,0,2,Real Bed,,1,$0.00 ,98,flexible
+20697346,Asheville,NC,28801,Bungalow,1,2,2,Real Bed,$50.00 ,1,$0.00 ,94,strict_14_with_grace_period
+20701115,Asheville,NC,28806,Cottage,1,1,2,Real Bed,$69.00 ,1,$0.00 ,100,moderate
+20728814,Arden,NC,28704,Apartment,1,1,1,Real Bed,$49.00 ,2,$40.00 ,98,moderate
+20741217,Asheville,NC,28803,House,1,1,1,Real Bed,$15.00 ,2,$5.00 ,98,flexible
+20744040,Asheville,NC,28804,Guest suite,1,1,1,Real Bed,$40.00 ,2,$25.00 ,99,moderate
+20744323,Asheville,NC,28803,House,2.5,3,6,Real Bed,$150.00 ,1,$0.00 ,99,strict_14_with_grace_period
+20747532,Candler,NC,28715,Apartment,1,1,3,Real Bed,$50.00 ,1,$0.00 ,98,moderate
+20759062,Asheville,NC,28804,Guest suite,1,1,1,Real Bed,$50.00 ,2,$25.00 ,99,moderate
+20760789,Asheville,NC,28804,House,3,4,4,Real Bed,$120.00 ,1,$0.00 ,100,strict_14_with_grace_period
+20762155,Asheville,NC,28801,Guest suite,1,1,2,Real Bed,$40.00 ,1,$0.00 ,99,moderate
+20774579,Asheville,NC,28806,Guest suite,1,1,2,Real Bed,$50.00 ,2,$10.00 ,96,moderate
+20779200,Asheville,NC,28803,Cottage,1,2,2,Real Bed,$25.00 ,2,$0.00 ,98,moderate
+20782822,Asheville,NC,28801,Guest suite,1,1,1,Real Bed,$30.00 ,2,$10.00 ,,moderate
+20785720,Asheville,NC,28804,Guesthouse,1,0,1,Real Bed,$50.00 ,2,$20.00 ,100,moderate
+20799054,Asheville,NC,28806,Cottage,1,1,1,Real Bed,$50.00 ,1,$0.00 ,99,strict_14_with_grace_period
+20800180,Asheville,NC,28805,Apartment,1,1,2,Real Bed,$50.00 ,2,$25.00 ,98,moderate
+20801691,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$30.00 ,1,$0.00 ,99,moderate
+20801888,Asheville,NC,28804,Apartment,1,1,1,Real Bed,$5.00 ,1,$0.00 ,86,flexible
+20804014,Asheville,NC,28801,Bungalow,1,2,2,Real Bed,$155.00 ,2,$10.00 ,99,moderate
+20804217,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$45.00 ,1,$0.00 ,99,moderate
+20804347,Asheville,NC,28806,Apartment,1,0,2,Real Bed,$30.00 ,2,$20.00 ,96,moderate
+20812644,Asheville,NC,28801,House,1,1,1,Real Bed,$6.00 ,1,$0.00 ,98,moderate
+20815440,Asheville,NC,28801,Guest suite,1,0,2,Real Bed,$30.00 ,2,$10.00 ,99,moderate
+20830817,Lake Wylie,Sc,29710,House,1,1,1,Real Bed,,2,$35.00 ,,flexible
+20830901,Asheville,NC,28806,Bungalow,1,1,2,Real Bed,$55.00 ,2,$15.00 ,84,strict_14_with_grace_period
+20831859,Asheville,NC,28804,House,1.5,1,1,Real Bed,$25.00 ,1,$0.00 ,100,flexible
+20834615,Asheville,NC,28801,Guest suite,1,1,1,Real Bed,$50.00 ,1,$0.00 ,98,moderate
+20842462,Asheville,NC,28804,Guest suite,1,1,2,Real Bed,$50.00 ,4,$100.00 ,98,flexible
+20850669,Asheville,NC,28803,Apartment,1,1,2,Real Bed,$50.00 ,2,$15.00 ,100,moderate
+20855873,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$40.00 ,1,$0.00 ,86,strict_14_with_grace_period
+20857612,Asheville,NC,28804,Guest suite,1,1,0,Real Bed,,1,$0.00 ,98,flexible
+20858987,Asheville,NC,28801,Guest suite,1,1,2,Real Bed,$30.00 ,1,$0.00 ,100,flexible
+20862982,Asheville,NC,28806,House,1.5,2,2,Real Bed,$75.00 ,1,$0.00 ,100,strict_14_with_grace_period
+20864500,Asheville,NC,28806,House,1,2,3,Real Bed,$40.00 ,2,$20.00 ,86,strict_14_with_grace_period
+20872849,Asheville,NC,28801,Townhouse,2.5,3,6,Real Bed,$120.00 ,1,$0.00 ,100,strict_14_with_grace_period
+20874926,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$35.00 ,2,$15.00 ,100,strict_14_with_grace_period
+20884134,Asheville,NC,28803,House,1,1,1,Real Bed,$20.00 ,1,$0.00 ,99,strict_14_with_grace_period
+20902234,Asheville,NC,28806,House,1,1,1,Real Bed,$20.00 ,1,$0.00 ,100,flexible
+20910666,Asheville,NC,28806,Bungalow,1,1,1,Real Bed,$45.00 ,1,$0.00 ,98,strict_14_with_grace_period
+20915728,Asheville,NC,,House,1,2,2,Real Bed,,1,$0.00 ,93,flexible
+20916381,Asheville,NC,28804,Bungalow,1,3,5,Real Bed,$110.00 ,1,$0.00 ,98,moderate
+20928043,Asheville,NC,28803,Apartment,1,0,1,Real Bed,$40.00 ,2,$25.00 ,97,moderate
+20964673,Candler,NC,28715,House,1,2,2,Real Bed,$40.00 ,4,$40.00 ,95,moderate
+20970417,Asheville,NC,28804,Apartment,1,1,2,Real Bed,$50.00 ,2,$35.00 ,99,moderate
+20971049,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$40.00 ,1,$0.00 ,99,moderate
+20980291,Arden,NC,28704,House,1,1,3,Real Bed,$50.00 ,2,$20.00 ,96,moderate
+20990995,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$30.00 ,2,$20.00 ,99,moderate
+20994069,Asheville,NC,28803,Guest suite,1,1,1,Real Bed,$25.00 ,1,$0.00 ,100,strict_14_with_grace_period
+20994289,Asheville,NC,28806,House,1,1,1,Real Bed,$0.00 ,1,$0.00 ,99,moderate
+21011400,Asheville,NC,28806,House,2.5,3,3,Real Bed,$175.00 ,4,$0.00 ,98,strict_14_with_grace_period
+21013638,Asheville,NC,28804,Cottage,2,2,3,Real Bed,$75.00 ,4,$25.00 ,100,strict_14_with_grace_period
+21023689,Asheville,NC,28805,Apartment,1,1,1,Real Bed,$25.00 ,2,$20.00 ,98,moderate
+21028610,Asheville,NC,28804,Guest suite,1,1,3,Real Bed,$50.00 ,1,$0.00 ,99,strict_14_with_grace_period
+21044913,Asheville,NC,28801,Guest suite,1,2,2,Real Bed,$15.00 ,1,$0.00 ,94,flexible
+21054722,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$45.00 ,2,$100.00 ,98,strict_14_with_grace_period
+21055707,Asheville,NC,28803,House,2.5,4,7,Real Bed,$170.00 ,12,$0.00 ,,strict_14_with_grace_period
+21062956,Asheville,NC,28803,House,2,2,2,Real Bed,$50.00 ,2,$14.00 ,99,moderate
+21068851,Asheville,NC,28806,Apartment,1,1,2,Real Bed,$55.00 ,2,$15.00 ,99,strict_14_with_grace_period
+21075013,Asheville,NC,28801,Loft,1,1,1,Real Bed,$25.00 ,1,$0.00 ,99,flexible
+21094481,Arden,NC,28704,Cottage,1,2,3,Real Bed,$100.00 ,1,$0.00 ,98,strict_14_with_grace_period
+21104844,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$35.00 ,1,$0.00 ,99,moderate
+21126148,Asheville,NC,28806,House,2,2,2,Real Bed,$45.00 ,4,$25.00 ,97,strict_14_with_grace_period
+21126289,Asheville,NC,28806,House,1,2,3,Real Bed,$120.00 ,1,$0.00 ,96,moderate
+21131816,Asheville,NC,28806,House,1,1,1,Real Bed,$12.00 ,1,$19.00 ,95,moderate
+21142706,Asheville,NC,28806,Other,0,1,1,Real Bed,,1,$0.00 ,,flexible
+21160267,Asheville,NC,28806,House,1,3,3,Real Bed,$75.00 ,2,$0.00 ,100,strict_14_with_grace_period
+21173674,Asheville,NC,28806,House,1,1,1,Real Bed,,1,$0.00 ,100,flexible
+21173965,Asheville,NC,28806,House,1,1,1,Real Bed,,1,$0.00 ,100,flexible
+21174524,Asheville,NC,28806,House,1,1,1,Real Bed,$25.00 ,2,$10.00 ,99,strict_14_with_grace_period
+21176027,Asheville,NC,28805,Apartment,1,1,3,Real Bed,$40.00 ,4,$10.00 ,99,moderate
+21189890,Asheville,NC,28806,House,3,3,3,Real Bed,$200.00 ,6,$0.00 ,95,super_strict_60
+21190372,Asheville,NC,28804,House,1,1,1,Real Bed,$50.00 ,1,$0.00 ,99,strict_14_with_grace_period
+21197685,Asheville,NC,28801,House,1,1,1,Real Bed,$75.00 ,2,$25.00 ,96,moderate
+21198391,Fletcher,NC,28732,Guest suite,1,1,2,Real Bed,$30.00 ,4,$15.00 ,94,flexible
+21200381,Asheville,NC,28805,Bungalow,1,3,3,Real Bed,$125.00 ,6,$0.00 ,95,moderate
+21203344,Fletcher,NC,28732,Guest suite,1,1,1,Real Bed,$18.00 ,1,$0.00 ,97,flexible
+21212588,Asheville,NC,28806,Guest suite,1,2,3,Real Bed,$45.00 ,4,$30.00 ,100,moderate
+21214062,Asheville,NC,28806,House,2,2,2,Real Bed,$0.00 ,1,$0.00 ,,strict_14_with_grace_period
+21231387,Asheville,NC,28804,House,1,1,1,Real Bed,$50.00 ,1,$0.00 ,97,strict_14_with_grace_period
+21236709,Asheville,NC,28806,House,1,1,1,Real Bed,$7.00 ,1,$0.00 ,98,flexible
+21243507,Asheville,NC,28806,House,1,3,3,Real Bed,$100.00 ,6,$25.00 ,78,strict_14_with_grace_period
+21253016,Asheville,NC,28804,Guest suite,1,1,1,Real Bed,$40.00 ,2,$20.00 ,99,strict_14_with_grace_period
+21272098,Asheville,NC,28806,House,1,1,1,Real Bed,$8.00 ,1,$0.00 ,100,flexible
+21278647,Asheville,NC,28805,Cabin,4.5,3,5,Real Bed,$95.00 ,6,$15.00 ,100,strict_14_with_grace_period
+21280708,Asheville,NC,28804,Guest suite,1,1,1,Real Bed,$40.00 ,1,$0.00 ,92,flexible
+21292861,Asheville,NC,28806,Apartment,1,1,2,Real Bed,$50.00 ,2,$15.00 ,97,strict_14_with_grace_period
+21297231,Arden,NC,28704,Guest suite,1,1,1,Real Bed,$29.00 ,1,$10.00 ,94,strict_14_with_grace_period
+21312568,Asheville,NC,28803,Guest suite,1,0,2,Real Bed,$35.00 ,1,$0.00 ,100,moderate
+21323611,Asheville,NC,,House,1.5,2,2,Real Bed,$45.00 ,2,$20.00 ,99,moderate
+21344729,Fletcher,NC,28732,House,1,1,1,Real Bed,$25.00 ,1,$0.00 ,93,flexible
+21345127,Asheville,NC,28805,House,2,2,0,Real Bed,$25.00 ,4,$30.00 ,99,strict_14_with_grace_period
+21356172,Asheville,NC,28805,House,2,3,4,Real Bed,$125.00 ,6,$40.00 ,100,strict_14_with_grace_period
+21364022,Woodfin,NC,28804,Bungalow,1.5,1,1,Real Bed,$50.00 ,1,$0.00 ,100,flexible
+21366422,Asheville,NC,28803,Guest suite,1,1,1,Real Bed,$29.00 ,2,$0.00 ,99,strict_14_with_grace_period
+21382558,Asheville,NC,28805,Cabin,4.5,4,6,Real Bed,$95.00 ,8,$15.00 ,100,strict_14_with_grace_period
+21383423,Asheville,NC,28804,Apartment,1,1,1,Real Bed,$75.00 ,1,$0.00 ,100,flexible
+21383822,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$35.00 ,2,$0.00 ,95,strict_14_with_grace_period
+21393921,Asheville,NC,28801,Bungalow,1,2,2,Real Bed,$100.00 ,1,$0.00 ,,strict_14_with_grace_period
+21396505,Asheville,NC,28806,Townhouse,3,3,1,Real Bed,$0.00 ,2,$10.00 ,,moderate
+21399365,Arden,NC,28704,Guest suite,1,1,3,Real Bed,$12.00 ,4,$10.00 ,96,strict_14_with_grace_period
+21414181,Asheville,NC,28803,House,2.5,3,2,Real Bed,$20.00 ,1,$0.00 ,80,flexible
+21437451,Asheville,NC,28801,House,1,1,1,Real Bed,$45.00 ,2,$100.00 ,99,moderate
+21449558,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$25.00 ,2,$10.00 ,100,moderate
+21450066,Asheville,NC,28806,Apartment,1,1,2,Real Bed,$60.00 ,1,$0.00 ,96,strict_14_with_grace_period
+21456384,Arden,NC,28704,House,2,2,2,Real Bed,$85.00 ,1,$0.00 ,100,moderate
+21461481,Arden,NC,28704,Guest suite,1,2,3,Real Bed,$60.00 ,2,$5.00 ,93,strict_14_with_grace_period
+21486209,Asheville,NC,28803,Guest suite,1,1,1,Real Bed,$50.00 ,1,$0.00 ,100,flexible
+21502620,Asheville,NC,28806,Guest suite,1,0,2,Real Bed,$50.00 ,1,$0.00 ,100,flexible
+21513021,Asheville,NC,28801,Condominium,1.5,2,2,Real Bed,$100.00 ,4,$25.00 ,,strict_14_with_grace_period
+21514077,Asheville,NC,28806,House,1,1,1,Real Bed,$10.00 ,1,$10.00 ,,flexible
+21544113,Asheville,NC,28805,Apartment,1,1,2,Real Bed,$20.00 ,3,$10.00 ,98,moderate
+21545853,Asheville,NC,28803,Apartment,1,1,1,Real Bed,,1,$0.00 ,,flexible
+21547115,Asheville,NC,28805,House,1,1,3,Real Bed,$12.00 ,2,$15.00 ,99,moderate
+21561017,Asheville,NC,28803,Guesthouse,1,1,2,Real Bed,$50.00 ,1,$0.00 ,97,strict_14_with_grace_period
+21579633,Asheville,NC,28803,House,1,1,1,Real Bed,,1,$0.00 ,,flexible
+21579876,Asheville,NC,28804,Apartment,1,1,1,Real Bed,$0.00 ,1,$10.00 ,99,strict_14_with_grace_period
+21580033,Asheville,NC,28806,Condominium,1.5,1,1,Real Bed,$0.00 ,1,$10.00 ,96,flexible
+21580160,Asheville,NC,28803,Cabin,2,3,4,Real Bed,$170.00 ,8,$0.00 ,60,strict_14_with_grace_period
+21591133,Asheville,NC,28804,Guest suite,1,2,1,Real Bed,$50.00 ,2,$20.00 ,100,moderate
+21593124,Asheville,NC,28801,Apartment,2,2,2,Real Bed,,1,$0.00 ,100,flexible
+21593865,Asheville,NC,28805,Chalet,1,2,2,Real Bed,$65.00 ,4,$15.00 ,98,moderate
+21630768,Asheville,NC,28803,House,1,2,2,Real Bed,$60.00 ,5,$25.00 ,100,moderate
+21631995,Asheville,NC,28801,Apartment,1,1,2,Real Bed,$52.00 ,2,$10.00 ,99,moderate
+21632570,Woodfin,NC,28804,Apartment,1,2,2,Real Bed,$60.00 ,4,$25.00 ,99,moderate
+21632900,Woodfin,NC,28804,Apartment,1,2,3,Real Bed,$60.00 ,1,$0.00 ,97,moderate
+21635212,Asheville,NC,28801,Townhouse,2.5,2,2,Real Bed,$80.00 ,1,$0.00 ,,flexible
+21640556,Asheville,NC,28805,Apartment,1,1,2,Real Bed,$20.00 ,4,$0.00 ,99,moderate
+21662716,Asheville,NC,28805,Chalet,1.5,2,2,Real Bed,$65.00 ,4,$15.00 ,100,moderate
+21663911,Asheville,NC,28803,Condominium,1,1,1,Real Bed,$25.00 ,1,$15.00 ,100,moderate
+21676833,Arden,NC,28704,Townhouse,1.5,2,4,Real Bed,$40.00 ,1,$25.00 ,95,moderate
+21678641,Arden,NC,28704,Cabin,1,1,1,Real Bed,,1,$0.00 ,,flexible
+21682891,Asheville,NC,28803,Apartment,1,2,2,Real Bed,$50.00 ,2,$15.00 ,98,moderate
+21683005,Asheville,NC,28801,Apartment,1,1,2,Real Bed,$25.00 ,1,$0.00 ,99,moderate
+21693285,Asheville,NC,28804,Guest suite,1,1,2,Real Bed,$40.00 ,4,$25.00 ,98,moderate
+21709922,Arden,NC,28704,House,2,4,5,Real Bed,$175.00 ,1,$0.00 ,99,strict_14_with_grace_period
+21713413,Asheville,NC,28806,House,1,2,2,Real Bed,$30.00 ,4,$10.00 ,94,moderate
+21713835,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$50.00 ,2,$20.00 ,100,moderate
+21733951,Fletcher,NC,28732,House,1,2,2,Real Bed,$14.00 ,2,$15.00 ,100,moderate
+21747565,Asheville,NC,28801,House,2,2,4,Real Bed,$40.00 ,4,$15.00 ,100,moderate
+21748228,Asheville,NC,28804,Guest suite,1,1,1,Real Bed,$35.00 ,2,$0.00 ,100,moderate
+21783896,Asheville,NC,28805,Chalet,2,2,2,Real Bed,$65.00 ,4,$15.00 ,100,moderate
+21784784,Asheville,NC,28806,Guesthouse,1,1,1,Real Bed,$20.00 ,1,$0.00 ,98,flexible
+21787503,Arden,NC,28704,Apartment,1,2,3,Real Bed,$50.00 ,1,$0.00 ,100,strict_14_with_grace_period
+21803829,Arden,NC,28704,House,2,3,3,Real Bed,$65.00 ,5,$10.00 ,88,moderate
+21825439,Asheville,NC,28806,House,1,1,1,Real Bed,$10.00 ,2,$10.00 ,92,moderate
+21826020,Asheville,NC,28806,House,1,1,1,Real Bed,$10.00 ,2,$10.00 ,67,moderate
+21827496,Asheville,NC,28801,Cottage,1,2,2,Real Bed,$65.00 ,5,$0.00 ,100,strict_14_with_grace_period
+21829016,Asheville,NC,28806,House,2,3,3,Real Bed,$40.00 ,4,$20.00 ,96,moderate
+21850640,Asheville,NC,28806,Guest suite,1,3,4,Real Bed,$30.00 ,5,$20.00 ,98,moderate
+21853043,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$49.00 ,2,$39.00 ,98,strict_14_with_grace_period
+21865405,Asheville,NC,28806,Cottage,2,2,2,Real Bed,$99.00 ,4,$10.00 ,100,moderate
+21878681,Asheville,NC,28806,Farm stay,1,2,2,Real Bed,$0.00 ,2,$10.00 ,93,flexible
+21894298,Asheville,NC,28805,Apartment,1,2,2,Real Bed,$65.00 ,4,$15.00 ,98,moderate
+21911184,Fletcher,NC,28732,Cabin,2,3,6,Real Bed,$130.00 ,1,$0.00 ,98,strict_14_with_grace_period
+21936688,Woodfin,NC,28804,Bungalow,1,2,2,Real Bed,$135.00 ,4,$35.00 ,98,moderate
+21947972,Arden,NC,28704,Guest suite,1,1,2,Real Bed,$0.00 ,2,$25.00 ,100,flexible
+21963653,Asheville,NC,28803,Chalet,1,2,2,Real Bed,$45.00 ,4,$0.00 ,99,flexible
+21978697,Asheville,NC,28801,Apartment,1,2,2,Real Bed,$85.00 ,4,$10.00 ,94,moderate
+22030235,Asheville,NC,28805,House,1,2,3,Real Bed,$54.00 ,2,$10.00 ,100,strict_14_with_grace_period
+22035029,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$15.00 ,1,$0.00 ,98,flexible
+22043194,Asheville,NC,28804,House,2,3,3,Real Bed,,1,$0.00 ,,moderate
+22063379,Asheville,NC,28804,Bungalow,1,1,1,Real Bed,$10.00 ,1,$0.00 ,100,moderate
+22076023,Asheville,NC,28804,House,1,1,1,Real Bed,,1,$0.00 ,99,flexible
+22086563,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$30.00 ,1,$0.00 ,95,flexible
+22107175,Asheville,NC,28801,House,1,2,3,Real Bed,$35.00 ,4,$25.00 ,98,moderate
+22114590,Asheville,NC,28801,Bed and breakfast,0,1,1,Real Bed,$0.00 ,2,$0.00 ,,strict_14_with_grace_period
+22119778,Asheville,NC,28801,Bed and breakfast,1,1,1,Real Bed,$0.00 ,2,$30.00 ,,strict_14_with_grace_period
+22147548,Arden,NC,28704,Condominium,1,1,1,Real Bed,$7.00 ,2,$25.00 ,100,strict_14_with_grace_period
+22151438,Asheville,NC,28806,House,3,4,5,Real Bed,$125.00 ,1,$0.00 ,100,moderate
+22152480,Asheville,NC,28803,Guest suite,1,1,2,Real Bed,$49.00 ,2,$10.00 ,99,flexible
+22163415,Asheville,NC,28803,House,1,1,2,Real Bed,$50.00 ,2,$50.00 ,99,flexible
+22224397,Asheville,NC,28801,Guest suite,1,1,2,Real Bed,$40.00 ,2,$20.00 ,100,moderate
+22275691,Asheville,NC,28801,Castle,2,1,1,Real Bed,,1,$0.00 ,98,moderate
+22306380,Asheville,NC,28801,House,1,0,1,Real Bed,$40.00 ,1,$0.00 ,93,moderate
+22308959,Candler,NC,28715,Cottage,2,3,4,Real Bed,$40.00 ,1,$0.00 ,93,moderate
+22317485,Candler,NC,28715,House,2,4,6,Real Bed,$125.00 ,1,$0.00 ,98,strict_14_with_grace_period
+22326909,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$100.00 ,1,$0.00 ,,flexible
+22332747,Asheville,NC,28806,House,1,1,1,Real Bed,,1,$0.00 ,98,flexible
+22351697,Asheville,NC,28804,Guest suite,1,1,1,Real Bed,$25.00 ,1,$20.00 ,98,moderate
+22378136,Asheville,NC,28806,House,2,2,2,Real Bed,,1,$0.00 ,,flexible
+22408602,Asheville,NC,28806,Guest suite,1,0,1,Real Bed,$50.00 ,1,$0.00 ,97,flexible
+22409123,Asheville,NC,28801,Condominium,1,1,1,Real Bed,$95.00 ,2,$0.00 ,95,super_strict_60
+22411166,Asheville,NC,28801,House,1,2,2,Real Bed,$50.00 ,1,$0.00 ,96,strict_14_with_grace_period
+22432939,Asheville,NC,28803,House,2,3,3,Real Bed,$0.00 ,4,$0.00 ,90,strict_14_with_grace_period
+22435227,Asheville,NC,28803,Guest suite,1,1,3,Real Bed,$25.00 ,2,$10.00 ,100,strict_14_with_grace_period
+22437203,Asheville,NC,28803,House,1,1,1,Real Bed,$0.00 ,1,$0.00 ,98,strict_14_with_grace_period
+22437447,Asheville,NC,28803,House,1,1,1,Real Bed,$0.00 ,1,$0.00 ,98,strict_14_with_grace_period
+22449973,Asheville,NC,28804,House,2,2,2,Real Bed,$50.00 ,1,$0.00 ,96,moderate
+22452672,Asheville,NC,28801,Guest suite,1,1,1,Real Bed,$25.00 ,2,$36.00 ,97,moderate
+22455175,Asheville,NC,28801,Bungalow,2,2,3,Real Bed,,1,$0.00 ,100,strict_14_with_grace_period
+22461969,Asheville,NC,28801,House,1,2,3,Real Bed,$100.00 ,1,$0.00 ,,strict_14_with_grace_period
+22486185,Asheville,NC,28805,Guesthouse,1,1,1,Real Bed,$20.00 ,2,$35.00 ,99,moderate
+22487322,Asheville,NC,28806,House,1,1,1,Real Bed,$45.00 ,1,$0.00 ,100,flexible
+22494152,Asheville,NC,28806,House,1,1,1,Real Bed,,1,$0.00 ,99,flexible
+22510926,Asheville,NC,28801,Guest suite,1,1,1,Real Bed,$20.00 ,1,$0.00 ,100,strict_14_with_grace_period
+22511514,Asheville,NC,28806,House,1,3,5,Real Bed,$79.00 ,6,$20.00 ,100,moderate
+22517744,Asheville,NC,28806,Cottage,1,1,2,Real Bed,$40.00 ,1,$0.00 ,99,moderate
+22530746,Asheville,NC,28803,Apartment,1,1,1,Real Bed,$50.00 ,2,$25.00 ,99,moderate
+22543222,Arden,NC,28704,Guesthouse,1,1,1,Real Bed,$43.00 ,1,$0.00 ,100,strict_14_with_grace_period
+22545170,Arden,NC,28704,Guesthouse,1,1,1,Real Bed,$47.00 ,1,$0.00 ,91,strict_14_with_grace_period
+22545374,Asheville,NC,28806,House,1,1,2,Real Bed,$30.00 ,1,$0.00 ,100,moderate
+22546209,Arden,NC,28704,Guesthouse,1,1,1,Real Bed,$63.00 ,1,$0.00 ,92,flexible
+22546650,Arden,NC,28704,Guesthouse,1,1,1,Real Bed,$43.00 ,1,$0.00 ,90,strict_14_with_grace_period
+22561840,Asheville,NC,28804,Guest suite,1,2,2,Real Bed,$45.00 ,2,$15.00 ,99,moderate
+22568931,Asheville,NC,28806,House,1,2,2,Real Bed,$20.00 ,2,$20.00 ,99,flexible
+22584773,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$39.00 ,2,$20.00 ,100,flexible
+22589049,Asheville,NC,28801,House,2,2,2,Real Bed,$100.00 ,1,$0.00 ,,strict_14_with_grace_period
+22594761,Asheville,NC,28803,Guest suite,1,1,1,Real Bed,$50.00 ,2,$0.00 ,99,moderate
+22597091,Asheville,NC,28804,House,3.5,3,3,Real Bed,$175.00 ,4,$12.00 ,93,strict_14_with_grace_period
+22664264,Fletcher,NC,28732,House,4,6,7,Real Bed,$225.00 ,5,$35.00 ,96,moderate
+22683936,Asheville,NC,28801,Bed and breakfast,0,1,1,Real Bed,$0.00 ,2,$30.00 ,,strict_14_with_grace_period
+22684105,Asheville,NC,28801,Bed and breakfast,0,1,1,Real Bed,$0.00 ,2,$0.00 ,,strict_14_with_grace_period
+22684155,Asheville,NC,28801,Bed and breakfast,0,1,1,Real Bed,$0.00 ,2,$0.00 ,,strict_14_with_grace_period
+22701770,Fletcher,NC,28732,House,1,1,1,Real Bed,$8.00 ,1,$16.00 ,99,moderate
+22701831,Asheville,NC,28801,Loft,2,2,2,Real Bed,$125.00 ,1,$0.00 ,98,strict_14_with_grace_period
+22702396,Fletcher,NC,28732,House,1,1,1,Real Bed,$8.00 ,1,$16.00 ,100,moderate
+22726943,Asheville,NC,28805,Farm stay,3,3,4,Real Bed,$150.00 ,6,$50.00 ,100,strict_14_with_grace_period
+22733038,Arden,NC,28704,House,1,2,2,Real Bed,$85.00 ,1,$0.00 ,100,moderate
+22740737,Asheville,NC,28806,Guest suite,1,1,2,Real Bed,$50.00 ,2,$10.00 ,100,moderate
+22746222,Asheville,NC,28806,Guest suite,1,0,1,Real Bed,$40.00 ,2,$0.00 ,100,strict_14_with_grace_period
+22752259,Asheville,NC,28806,House,1.5,1,1,Real Bed,$15.00 ,1,$0.00 ,100,moderate
+22753749,Asheville,NC,28804,House,1,0,1,Real Bed,$50.00 ,1,$19.00 ,98,strict_14_with_grace_period
+22773505,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$55.00 ,1,$0.00 ,100,moderate
+22792399,Asheville,NC,28801,Guest suite,1,2,2,Real Bed,$30.00 ,2,$25.00 ,99,strict_14_with_grace_period
+22813165,Asheville,NC,28803,House,1,1,1,Real Bed,$0.00 ,2,$10.00 ,94,strict_14_with_grace_period
+22848580,Asheville,NC,28801,House,2,2,2,Real Bed,$65.00 ,1,$0.00 ,96,moderate
+22848760,Asheville,NC,28801,Bungalow,1,1,1,Real Bed,$45.00 ,1,$0.00 ,96,moderate
+22883329,Asheville,NC,28806,House,1,2,3,Real Bed,$75.00 ,4,$15.00 ,99,moderate
+22888921,Candler,NC,28715,Camper/RV,1,0,2,Real Bed,$35.00 ,2,$10.00 ,94,moderate
+22900169,Asheville,NC,28806,House,1,1,1,Real Bed,$0.00 ,1,$10.00 ,100,moderate
+22921667,Asheville,NC,28806,Guesthouse,1,0,1,Real Bed,$50.00 ,1,$0.00 ,96,strict_14_with_grace_period
+22924150,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$35.00 ,3,$20.00 ,97,strict_14_with_grace_period
+22942125,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$20.00 ,1,$0.00 ,92,flexible
+22944749,Asheville,NC,28806,House,2,3,3,Real Bed,$135.00 ,6,$25.00 ,100,flexible
+22950161,Fletcher,NC,28732,Cabin,1,2,2,Real Bed,$75.00 ,5,$25.00 ,100,moderate
+22968354,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$25.00 ,1,$0.00 ,98,moderate
+22984192,Asheville,NC,28801,Apartment,1,1,2,Real Bed,$40.00 ,1,$25.00 ,98,moderate
+22985194,Arden,NC,28704,Condominium,1,1,1,Real Bed,,1,$0.00 ,,flexible
+22985524,Asheville,NC,28806,House,1,1,1,Real Bed,,1,$0.00 ,97,moderate
+22986709,Asheville,NC,,House,2,2,3,Real Bed,$17.00 ,1,$16.00 ,95,strict_14_with_grace_period
+22999982,Asheville,NC,28801,Loft,1,1,1,Real Bed,$55.00 ,3,$300.00 ,100,strict_14_with_grace_period
+23017092,Arden,NC,28704,Townhouse,4,6,14,Real Bed,$325.00 ,1,$0.00 ,100,strict_14_with_grace_period
+23025024,Asheville,NC,28801,Guesthouse,1,1,1,Real Bed,$50.00 ,1,$0.00 ,95,strict_14_with_grace_period
+23034313,Woodfin,NC,28804,House,1,2,2,Real Bed,$30.00 ,1,$0.00 ,99,flexible
+23049618,Asheville,NC,28801,House,2.5,2,3,Real Bed,$35.00 ,3,$10.00 ,95,flexible
+23075703,Asheville,NC,28801,Bungalow,1,2,2,Real Bed,$25.00 ,1,$0.00 ,96,moderate
+23076921,Asheville,NC,28801,House,1,1,1,Real Bed,$0.00 ,1,$0.00 ,100,flexible
+23084647,Asheville,NC,28805,Farm stay,1,1,1,Real Bed,$50.00 ,1,$0.00 ,100,flexible
+23089106,Arden,NC,28704,House,2,3,3,Real Bed,$275.00 ,6,$0.00 ,96,super_strict_60
+23109910,Asheville,NC,28803,Tiny house,1,0,2,Real Bed,$50.00 ,1,$0.00 ,100,moderate
+23142030,Asheville,NC,28801,House,2.5,1,1,Real Bed,$25.00 ,1,$5.00 ,99,moderate
+23150406,Asheville,NC,28801,Guest suite,1,2,2,Real Bed,$35.00 ,2,$15.00 ,97,moderate
+23160754,Asheville,NC,28803,House,1,2,2,Real Bed,$55.00 ,1,$0.00 ,100,flexible
+23216051,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$60.00 ,1,$0.00 ,100,strict_14_with_grace_period
+23234525,Asheville,NC,28801,House,1,1,1,Real Bed,$30.00 ,1,$20.00 ,98,flexible
+23234938,Asheville,NC,28806,House,2.5,4,5,Real Bed,$95.00 ,2,$30.00 ,98,strict_14_with_grace_period
+23254465,Asheville,NC,28804,House,2,3,4,Real Bed,$90.00 ,1,$0.00 ,99,strict_14_with_grace_period
+23254729,Asheville,NC,28801,House,1,1,0,Real Bed,$40.00 ,1,$0.00 ,99,flexible
+23259684,Asheville,NC,28803,House,1.5,3,3,Real Bed,$30.00 ,2,$15.00 ,89,flexible
+23275671,"Arden, Ashville",NC,28704,House,2,3,4,Real Bed,$150.00 ,6,$50.00 ,100,flexible
+23285263,Asheville,NC,28805,House,1,1,2,Real Bed,$20.00 ,3,$15.00 ,100,moderate
+23304811,Asheville,NC,28806,House,2,2,2,Real Bed,,1,$0.00 ,100,flexible
+23306515,Asheville,NC,28804,House,2,3,3,Real Bed,$225.00 ,1,$0.00 ,,flexible
+23315166,Asheville,NC,28715,Apartment,1,1,1,Real Bed,$35.00 ,2,$10.00 ,99,moderate
+23325044,Asheville,NC,28803,Guest suite,1,0,1,Real Bed,$35.00 ,2,$25.00 ,100,flexible
+23335956,Asheville,NC,28806,Cabin,1,2,2,Real Bed,$100.00 ,1,$0.00 ,98,strict_14_with_grace_period
+23342955,Asheville,NC,28805,Cabin,1,2,2,Real Bed,,1,$0.00 ,99,moderate
+23370743,Asheville,NC,,Guesthouse,1,1,2,Real Bed,$30.00 ,2,$20.00 ,100,moderate
+23375403,Asheville,NC,28805,Townhouse,1,1,1,Real Bed,,1,$0.00 ,96,flexible
+23393644,Asheville,NC,28801,House,1,1,1,Real Bed,,1,$0.00 ,95,flexible
+23412631,Asheville,NC,28801,Guest suite,1,1,1,Real Bed,$40.00 ,1,$0.00 ,100,strict_14_with_grace_period
+23419322,Arden,NC,28704,Townhouse,2.5,3,4,Real Bed,$50.00 ,9,$25.00 ,100,moderate
+23430202,Arden,NC,28704,Townhouse,1,1,1,Real Bed,$0.00 ,2,$10.00 ,100,flexible
+23435525,Asheville,NC,28806,House,1,2,2,Real Bed,$30.00 ,2,$20.00 ,99,flexible
+23437903,Asheville,NC,28805,Condominium,1,1,1,Real Bed,$15.00 ,1,$0.00 ,98,flexible
+23441905,Asheville,NC,28801,Condominium,1,1,1,Real Bed,$49.00 ,2,$0.00 ,,super_strict_30
+23451262,Asheville,NC,28803,Guesthouse,1,1,2,Real Bed,$50.00 ,1,$0.00 ,99,moderate
+23453962,Asheville,NC,28801,House,1,1,1,Real Bed,$25.00 ,2,$0.00 ,98,moderate
+23456189,Asheville,NC,28805,House,1,1,2,Real Bed,$15.00 ,1,$0.00 ,,flexible
+23459329,Asheville,NC,28806,Cottage,2,2,2,Real Bed,$125.00 ,1,$0.00 ,100,moderate
+23462506,Asheville,NC,28805,Bed and breakfast,1,1,1,Real Bed,$25.00 ,1,$0.00 ,100,flexible
+23467308,Asheville,NC,28803,House,1,1,1,Real Bed,$0.00 ,1,$0.00 ,99,strict_14_with_grace_period
+23478630,Asheville,NC,28806,Apartment,1,2,3,Real Bed,$50.00 ,1,$0.00 ,97,flexible
+23480306,Asheville,NC,28805,Guest suite,1,1,3,Real Bed,$25.00 ,4,$20.00 ,100,flexible
+23481039,Asheville,NC,28801,Condominium,1,0,1,Real Bed,$70.00 ,1,$0.00 ,98,flexible
+23496915,Asheville,NC,28806,House,2.5,4,4,Real Bed,$60.00 ,6,$25.00 ,98,strict_14_with_grace_period
+23498234,Arden,NC,28704,House,1,1,1,Real Bed,$6.00 ,2,$25.00 ,98,moderate
+23500108,Asheville,NC,28806,House,2,3,4,Real Bed,$60.00 ,4,$10.00 ,100,strict_14_with_grace_period
+23501965,Asheville,NC,28806,Guest suite,1,1,2,Real Bed,$20.00 ,1,$0.00 ,,flexible
+23516374,Asheville,NC,28801,House,1,0,3,Real Bed,$15.00 ,2,$10.00 ,99,moderate
+23518897,Asheville,NC,28805,Cottage,2,2,2,Real Bed,$75.00 ,1,$0.00 ,100,moderate
+23520689,Woodfin,NC,28804,House,2,2,2,Real Bed,$135.00 ,4,$50.00 ,94,strict_14_with_grace_period
+23523473,Woodfin,NC,28804,House,1,0,1,Real Bed,$45.00 ,1,$0.00 ,99,flexible
+23525377,Arden,NC,28704,House,1,2,3,Real Bed,$75.00 ,1,$0.00 ,100,moderate
+23541284,Asheville,NC,28801,Bed and breakfast,1,1,1,Real Bed,,1,$0.00 ,100,moderate
+23546508,Asheville,NC,28803,Bungalow,2,3,4,Real Bed,$200.00 ,1,$0.00 ,100,strict_14_with_grace_period
+23558686,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$35.00 ,2,$8.00 ,99,moderate
+23560631,Asheville,NC,28805,House,2.5,5,6,Real Bed,$300.00 ,1,$0.00 ,100,strict_14_with_grace_period
+23562622,Asheville,NC,28803,House,2,2,4,Real Bed,,1,$0.00 ,100,moderate
+23563574,Asheville,NC,28801,Hostel,2,1,1,Real Bed,$16.00 ,1,$0.00 ,98,moderate
+23564110,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$25.00 ,1,$0.00 ,97,strict_14_with_grace_period
+23576862,Arden,NC,28704,Apartment,2,2,2,Real Bed,$20.00 ,4,$5.00 ,100,flexible
+23578731,Asheville,NC,28803,House,1,2,2,Real Bed,$40.00 ,2,$25.00 ,96,moderate
+23596337,Asheville,NC,28805,Apartment,1.5,1,2,Real Bed,$35.00 ,2,$18.00 ,100,moderate
+23596421,Asheville,NC,28805,House,1,2,3,Real Bed,$75.00 ,2,$10.00 ,96,moderate
+23619378,Asheville,NC,28805,House,3,4,5,Real Bed,$100.00 ,4,$10.00 ,93,moderate
+23623536,Asheville,NC,28801,Guest suite,1,2,2,Real Bed,$65.00 ,4,$45.00 ,98,flexible
+23628366,Asheville,NC,28805,House,1,1,1,Real Bed,$20.00 ,2,$15.00 ,99,moderate
+23628859,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$95.00 ,2,$0.00 ,100,super_strict_60
+23631557,Asheville,NC,28803,Apartment,1,1,1,Real Bed,$50.00 ,4,$50.00 ,100,moderate
+23632735,Asheville,NC,28801,Guesthouse,1,1,1,Real Bed,$75.00 ,1,$0.00 ,93,moderate
+23641367,Asheville,NC,28804,House,1,2,2,Real Bed,,1,$0.00 ,95,flexible
+23642577,Asheville,NC,28801,Condominium,2,1,1,Real Bed,,1,$0.00 ,99,flexible
+23644478,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$75.00 ,1,$0.00 ,100,strict_14_with_grace_period
+23646431,Asheville,NC,28803,Bungalow,1,1,1,Real Bed,$25.00 ,1,$0.00 ,100,flexible
+23650921,Asheville,NC,28804,House,2,2,2,Real Bed,,1,$0.00 ,98,flexible
+23662197,Asheville,NC,28801,Townhouse,2,2,2,Real Bed,$275.00 ,4,$0.00 ,,super_strict_60
+23675467,Leicester,NC,28748,Apartment,1,0,4,Real Bed,$49.00 ,4,$20.00 ,99,moderate
+23696733,Asheville,NC,28803,House,6,5,6,Real Bed,$250.00 ,1,$0.00 ,,super_strict_60
+23704230,Asheville,NC,28803,Townhouse,1.5,1,1,Real Bed,$15.00 ,1,$0.00 ,100,flexible
+23709305,Asheville,NC,28806,Guesthouse,1,1,1,Real Bed,$20.00 ,1,$0.00 ,97,moderate
+23715234,Asheville,NC,28804,Guest suite,1,0,1,Real Bed,$35.00 ,2,$10.00 ,100,moderate
+23721441,Woodfin,NC,28804,Apartment,1,1,1,Real Bed,$5.00 ,1,$0.00 ,100,flexible
+23730997,Asheville,NC,28801,House,1,1,1,Real Bed,$30.00 ,1,$0.00 ,98,moderate
+23739741,Asheville,NC,28803,Apartment,1,2,2,Real Bed,$0.00 ,2,$10.00 ,100,moderate
+23745497,Asheville,NC,28806,Guesthouse,1,1,1,Real Bed,$25.00 ,2,$10.00 ,99,flexible
+23748278,Asheville,NC,28801,Bed and breakfast,1,1,1,Real Bed,,1,$0.00 ,100,moderate
+23748554,Asheville,NC,28806,Bungalow,1,2,2,Real Bed,,1,$0.00 ,97,flexible
+23748724,Asheville,NC,28801,Bed and breakfast,1,1,1,Real Bed,,1,$0.00 ,100,moderate
+23748903,Asheville,NC,28801,Bed and breakfast,1,1,1,Real Bed,,1,$0.00 ,100,moderate
+23748992,Asheville,NC,28801,Bed and breakfast,1,1,1,Real Bed,,1,$0.00 ,100,moderate
+23749047,Asheville,NC,28801,Bed and breakfast,1,1,1,Real Bed,,1,$0.00 ,,moderate
+23768813,Asheville,NC,28801,Bed and breakfast,7.5,5,7,Real Bed,,1,$0.00 ,100,moderate
+23771028,Asheville,NC,28804,House,4,5,0,Real Bed,$270.00 ,1,$0.00 ,100,strict_14_with_grace_period
+23788596,Asheville,NC,28801,Bed and breakfast,8.5,6,8,Real Bed,,1,$0.00 ,100,moderate
+23789294,Arden,NC,28704,House,2,3,5,Real Bed,$125.00 ,1,$0.00 ,100,strict_14_with_grace_period
+23799929,Asheville,NC,28801,Guesthouse,1,0,1,Real Bed,$65.00 ,1,$0.00 ,100,strict_14_with_grace_period
+23804250,Asheville,NC,28805,Guest suite,1,1,1,Real Bed,$35.00 ,2,$35.00 ,98,moderate
+23817909,Asheville,NC,28806,House,1,1,1,Real Bed,$0.00 ,1,$0.00 ,100,moderate
+23818026,Asheville,NC,28801,House,2.5,2,3,Real Bed,$40.00 ,3,$12.00 ,95,flexible
+23824223,Asheville,NC,28805,Apartment,1,1,1,Real Bed,$65.00 ,1,$0.00 ,97,moderate
+23856790,Candler,NC,28715,House,1,1,2,Real Bed,$50.00 ,2,$15.00 ,94,moderate
+23859316,Asheville,NC,28804,Apartment,2,2,5,Real Bed,$60.00 ,4,$10.00 ,99,moderate
+23859984,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$20.00 ,2,$10.00 ,98,flexible
+23870922,Asheville,NC,28806,Apartment,1,1,1,Real Bed,,1,$0.00 ,100,flexible
+23874576,Asheville,NC,28806,Loft,1,1,2,Real Bed,$39.00 ,2,$39.00 ,99,moderate
+23877206,Woodfin,NC,28804,Apartment,1,1,1,Real Bed,$28.00 ,1,$0.00 ,100,strict_14_with_grace_period
+23881173,Fletcher,NC,28732,Guesthouse,1,1,2,Real Bed,$25.00 ,4,$10.00 ,99,moderate
+23910106,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$194.00 ,2,$0.00 ,67,super_strict_30
+23913900,Asheville,NC,,Apartment,1,1,1,Real Bed,,1,$0.00 ,100,moderate
+23918895,Asheville,NC,28803,House,1,2,2,Real Bed,$40.00 ,4,$25.00 ,98,strict_14_with_grace_period
+23919596,Woodfin,NC,28804,Apartment,1,1,2,Real Bed,$0.00 ,2,$20.00 ,94,moderate
+23934024,Asheville,NC,28806,House,2,3,3,Real Bed,$100.00 ,1,$0.00 ,97,strict_14_with_grace_period
+23935850,Asheville,NC,28801,House,1,2,2,Real Bed,$50.00 ,2,$25.00 ,96,moderate
+23978319,Asheville,NC,28804,Apartment,1,1,2,Real Bed,$20.00 ,2,$5.00 ,100,moderate
+23986504,Asheville,NC,28806,House,2.5,3,3,Real Bed,$125.00 ,1,$0.00 ,98,moderate
+23998930,Asheville,NC,28806,Condominium,1,1,1,Real Bed,,1,$0.00 ,100,moderate
+24056179,Asheville,NC,28804,House,1,2,2,Real Bed,$75.00 ,1,$0.00 ,99,strict_14_with_grace_period
+24080389,Asheville,NC,28806,Guest suite,1,1,2,Real Bed,$50.00 ,2,$0.00 ,98,flexible
+24098735,Asheville,NC,28801,Apartment,1,1,0,Real Bed,$75.00 ,1,$25.00 ,98,strict_14_with_grace_period
+24119598,Asheville,NC,28801,Apartment,1,2,1,Real Bed,$40.00 ,1,$0.00 ,97,moderate
+24120346,Asheville,NC,28804,Guest suite,1,1,1,Real Bed,$0.00 ,1,$0.00 ,96,moderate
+24172247,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$10.00 ,1,$0.00 ,98,flexible
+24177903,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$30.00 ,1,$0.00 ,100,flexible
+24202030,Asheville,NC,28804,Guest suite,1,1,2,Real Bed,$60.00 ,2,$15.00 ,100,moderate
+24202205,Asheville,NC,28806,Bungalow,2,2,2,Real Bed,$50.00 ,2,$10.00 ,93,flexible
+24208478,Asheville,NC,28806,Condominium,1,1,1,Real Bed,$20.00 ,1,$20.00 ,100,flexible
+24222452,Woodfin,NC,28804,Bungalow,1,2,2,Real Bed,$75.00 ,4,$45.00 ,100,flexible
+24244390,Asheville,NC,28806,Guest suite,1,0,1,Real Bed,$15.00 ,1,$0.00 ,98,flexible
+24278792,Woodfin,NC,28804,Apartment,2,4,6,Real Bed,$120.00 ,1,$0.00 ,100,moderate
+24280176,Fletcher,NC,28732,Guest suite,1,1,1,Real Bed,,1,$0.00 ,100,flexible
+24280559,Asheville,NC,28803,Apartment,1,1,1,Real Bed,$50.00 ,1,$0.00 ,,strict_14_with_grace_period
+24287936,Arden,NC,28704,Guest suite,1,1,1,Real Bed,,1,$0.00 ,100,moderate
+24306486,Asheville,NC,28803,House,1,3,3,Real Bed,$75.00 ,5,$10.00 ,100,flexible
+24312963,Woodfin,NC,28804,Apartment,1,1,1,Real Bed,$25.00 ,1,$0.00 ,96,strict_14_with_grace_period
+24327916,Asheville,NC,28806,House,1,1,1,Real Bed,$10.00 ,1,$5.00 ,95,moderate
+24329922,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$50.00 ,1,$0.00 ,99,moderate
+24333659,Asheville,NC,28806,Apartment,1,1,2,Real Bed,$64.00 ,2,$39.00 ,96,strict_14_with_grace_period
+24347730,Asheville,NC,28801,Condominium,2,2,2,Real Bed,$75.00 ,1,$0.00 ,100,moderate
+24372818,Woodfin,NC,28804,House,1,2,2,Real Bed,$65.00 ,1,$0.00 ,98,moderate
+24373135,Asheville,NC,28806,House,2,3,4,Real Bed,$125.00 ,6,$25.00 ,100,flexible
+24375145,Asheville,NC,28806,Guest suite,1,1,3,Real Bed,$30.00 ,4,$15.00 ,98,flexible
+24387676,Asheville,NC,28803,Boutique hotel,1,1,2,Real Bed,,1,$0.00 ,88,flexible
+24396068,Asheville,NC,28805,House,1,2,3,Real Bed,$65.00 ,4,$8.00 ,100,moderate
+24421260,Asheville,NC,28806,Apartment,1,0,1,Real Bed,$25.00 ,1,$0.00 ,96,flexible
+24424858,Asheville,NC,28804,House,1,1,1,Real Bed,,1,$0.00 ,100,flexible
+24425345,Asheville,NC,28803,House,1,1,1,Real Bed,$100.00 ,1,$0.00 ,100,flexible
+24428641,Asheville,NC,28805,Cottage,2.5,3,0,Real Bed,$100.00 ,8,$75.00 ,100,moderate
+24443632,Asheville,NC,28801,House,1,1,1,Real Bed,,1,$0.00 ,90,flexible
+24445744,Asheville,NC,28806,House,1,1,1,Real Bed,$25.00 ,2,$50.00 ,96,flexible
+24476866,Asheville,NC,28806,Guest suite,1,1,3,Real Bed,$30.00 ,2,$20.00 ,100,moderate
+24493492,Asheville,NC,28801,House,1,2,3,Real Bed,$20.00 ,1,$40.00 ,100,moderate
+24512884,Asheville,NC,28801,Condominium,1,1,2,Real Bed,$189.00 ,2,$0.00 ,100,super_strict_30
+24520534,Asheville,NC,28801,Hostel,2,1,1,Real Bed,$16.00 ,1,$0.00 ,96,moderate
+24540122,Asheville,NC,28806,Guest suite,2,1,1,Real Bed,$35.00 ,2,$20.00 ,99,flexible
+24543359,Asheville,NC,28801,House,2,2,3,Real Bed,$60.00 ,5,$10.00 ,94,moderate
+24556468,Arden,NC,28704,Apartment,1,1,1,Real Bed,,1,$0.00 ,100,flexible
+24557386,Asheville,NC,28806,Apartment,1,1,2,Real Bed,$65.00 ,2,$15.00 ,98,strict_14_with_grace_period
+24594949,Asheville,NC,28801,Apartment,1,0,2,Real Bed,$30.00 ,1,$0.00 ,99,moderate
+24605088,Asheville,NC,28803,House,1,1,1,Real Bed,$0.00 ,1,$0.00 ,99,strict_14_with_grace_period
+24656374,Arden,NC,28704,Apartment,1,1,4,Real Bed,$20.00 ,1,$0.00 ,100,strict_14_with_grace_period
+24675968,Asheville,NC,28803,House,2,3,3,Real Bed,$150.00 ,1,$0.00 ,,flexible
+24678233,Asheville,NC,28803,Guest suite,1,1,1,Real Bed,$40.00 ,1,$0.00 ,100,flexible
+24697002,Asheville,NC,28806,Campsite,1,0,1,Real Bed,$0.00 ,3,$5.00 ,96,flexible
+24711554,Asheville,NC,28805,Guest suite,1,1,2,Real Bed,$28.00 ,1,$0.00 ,100,moderate
+24752561,Asheville,NC,28801,Apartment,1,2,2,Real Bed,$60.00 ,1,$0.00 ,,flexible
+24766296,Arden,NC,28704,House,2,3,3,Real Bed,$135.00 ,4,$20.00 ,93,strict_14_with_grace_period
+24797144,Asheville,NC,28803,House,1,1,2,Real Bed,$28.00 ,2,$9.00 ,98,moderate
+24817711,Asheville,NC,28804,Guest suite,1,1,1,Real Bed,$25.00 ,1,$0.00 ,100,moderate
+24818581,Candler,NC,28715,Condominium,2,2,0,Real Bed,$65.00 ,4,$15.00 ,100,moderate
+24828874,Asheville,NC,28803,House,1,1,1,Real Bed,$25.00 ,1,$0.00 ,100,moderate
+24834700,Asheville,NC,28805,House,3,4,5,Real Bed,$150.00 ,1,$0.00 ,98,strict_14_with_grace_period
+24851273,Asheville,NC,28804,Bungalow,1,2,2,Real Bed,$20.00 ,1,$0.00 ,100,moderate
+24852463,Asheville,NC,28806,House,1,1,1,Real Bed,$15.00 ,2,$15.00 ,98,flexible
+24872184,Woodfin,NC,28804,Apartment,1,1,1,Real Bed,$30.00 ,1,$0.00 ,100,strict_14_with_grace_period
+24873765,Asheville,NC,28805,House,1,1,1,Real Bed,$25.00 ,1,$0.00 ,100,flexible
+24882481,Asheville,NC,28806,House,2,3,7,Real Bed,$150.00 ,4,$15.00 ,100,strict_14_with_grace_period
+24885757,Asheville,NC,28806,House,1,1,1,Real Bed,,1,$0.00 ,96,flexible
+24893602,Asheville,NC,28801,Loft,1.5,1,2,Real Bed,$75.00 ,1,$35.00 ,100,flexible
+24894370,Asheville,NC,28801,House,1,1,1,Real Bed,$25.00 ,2,$0.00 ,100,flexible
+24895844,Asheville,NC,28805,House,2,3,5,Real Bed,$100.00 ,6,$25.00 ,100,strict_14_with_grace_period
+24907910,Asheville,NC,28804,Apartment,1,2,2,Real Bed,$79.00 ,4,$39.00 ,99,moderate
+24916446,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$30.00 ,1,$20.00 ,96,strict_14_with_grace_period
+24942698,Asheville,NC,28803,House,2.5,3,4,Real Bed,$90.00 ,1,$0.00 ,99,moderate
+24943726,Asheville,NC,28805,Cabin,2,2,2,Real Bed,$198.00 ,4,$0.00 ,,strict_14_with_grace_period
+24945996,Arden,NC,28704,Loft,1,1,1,Real Bed,$30.00 ,4,$25.00 ,100,moderate
+24980055,Asheville,NC,28803,House,1,1,1,Real Bed,$0.00 ,1,$5.00 ,99,flexible
+24984793,Asheville,NC,28804,House,1,1,1,Real Bed,$10.00 ,1,$0.00 ,97,moderate
+25013010,Asheville,NC,28801,Bungalow,1,1,1,Real Bed,$39.00 ,2,$50.00 ,96,strict_14_with_grace_period
+25032668,Asheville,NC,28803,Bed and breakfast,3.5,4,4,Real Bed,$99.00 ,6,$30.00 ,,strict_14_with_grace_period
+25045172,Asheville,NC,28806,Guest suite,1,1,0,Real Bed,$85.00 ,2,$45.00 ,100,strict_14_with_grace_period
+25068792,Asheville,NC,28804,House,2,4,6,Real Bed,$95.00 ,1,$0.00 ,98,moderate
+25079309,Asheville,NC,28805,House,1,1,1,Real Bed,$0.00 ,1,$0.00 ,100,flexible
+25111932,Asheville,NC,28805,Camper/RV,1,1,2,Real Bed,$15.00 ,2,$0.00 ,97,moderate
+25124933,Asheville,NC,28805,House,1,1,2,Real Bed,$0.00 ,1,$10.00 ,88,flexible
+25128396,Asheville,NC,28805,House,1,1,3,Real Bed,$0.00 ,3,$10.00 ,80,flexible
+25132222,Asheville,NC,28805,House,3.5,3,4,Real Bed,$125.00 ,1,$0.00 ,97,moderate
+25135375,Asheville,NC,28805,House,1,1,1,Real Bed,$50.00 ,1,$0.00 ,100,moderate
+25135803,Asheville,NC,28801,Apartment,1,1,0,Real Bed,$75.00 ,1,$0.00 ,100,strict_14_with_grace_period
+25138871,Asheville,NC,28806,Campsite,1,0,1,Real Bed,$0.00 ,3,$5.00 ,93,flexible
+25181137,Asheville,NC,28806,House,3,4,4,Real Bed,$125.00 ,1,$0.00 ,95,moderate
+25212461,Asheville,NC,28803,House,1,1,1,Real Bed,$45.00 ,1,$0.00 ,99,flexible
+25236572,Asheville,NC,28801,Bungalow,1.5,1,1,Real Bed,$50.00 ,1,$0.00 ,93,strict_14_with_grace_period
+25251626,Asheville,NC,28804,Apartment,1,2,4,Real Bed,$50.00 ,4,$15.00 ,98,moderate
+25281090,Asheville,NC,28801,Loft,1,1,1,Real Bed,,1,$0.00 ,,flexible
+25286041,Asheville,NC,28803,House,1,1,2,Real Bed,$10.00 ,1,$0.00 ,100,flexible
+25286845,Asheville,NC,28804,House,2.5,3,3,Real Bed,$150.00 ,1,$0.00 ,98,strict_14_with_grace_period
+25288773,Asheville,NC,28804,House,2,3,3,Real Bed,$275.00 ,6,$0.00 ,100,super_strict_60
+25309332,Woodfin,NC,28804,House,2,2,1,Real Bed,$224.00 ,6,$0.00 ,93,super_strict_30
+25318023,Asheville,NC,28806,Apartment,1,1,1,Real Bed,,1,$0.00 ,98,moderate
+25322676,Asheville,NC,28806,House,1,1,1,Real Bed,$25.00 ,1,$0.00 ,98,flexible
+25337854,Asheville,NC,28805,House,2,3,3,Real Bed,$229.00 ,6,$0.00 ,100,super_strict_30
+25345769,Asheville,NC,28803,Guest suite,1,1,1,Real Bed,,1,$0.00 ,,flexible
+25346618,Asheville,NC,28806,House,2.5,3,4,Real Bed,,1,$0.00 ,96,strict_14_with_grace_period
+25347831,Asheville,NC,28806,Campsite,1,0,1,Real Bed,$0.00 ,3,$5.00 ,98,flexible
+25366645,Candler,NC,28715,House,2,4,6,Real Bed,$100.00 ,4,$10.00 ,94,flexible
+25372471,Asheville,NC,28803,Apartment,1,1,1,Real Bed,$55.00 ,1,$0.00 ,93,strict_14_with_grace_period
+25378033,Asheville,NC,28806,Tent,1,1,2,Real Bed,$75.00 ,2,$30.00 ,95,strict_14_with_grace_period
+25398902,Asheville,NC,28804,Guest suite,1,0,2,Real Bed,$45.00 ,1,$0.00 ,99,moderate
+25406163,Asheville,NC,28806,Guest suite,1,1,2,Real Bed,$40.00 ,2,$25.00 ,95,strict_14_with_grace_period
+25417416,Asheville,NC,28806,Apartment,2,3,3,Real Bed,$100.00 ,1,$0.00 ,98,moderate
+25418819,Asheville,NC,28803,Tiny house,1,0,2,Real Bed,$20.00 ,2,$5.00 ,100,strict_14_with_grace_period
+25422541,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$15.00 ,1,$10.00 ,96,flexible
+25456908,Asheville,NC,28806,House,1.5,1,1,Real Bed,$15.00 ,1,$0.00 ,100,flexible
+25459484,Asheville,NC,28804,Guest suite,1,2,3,Real Bed,$59.00 ,3,$9.00 ,97,moderate
+25471043,Asheville,NC,28801,Guest suite,1,1,2,Real Bed,$75.00 ,2,$20.00 ,100,strict_14_with_grace_period
+25474000,Asheville,NC,28805,House,1,1,2,Real Bed,$50.00 ,1,$0.00 ,100,moderate
+25479162,Asheville,NC,28803,Guest suite,1,0,2,Real Bed,$20.00 ,2,$15.00 ,99,moderate
+25518066,Arden,NC,28704,House,1,3,3,Real Bed,$75.00 ,6,$10.00 ,98,flexible
+25519106,Asheville,NC,28806,House,1,1,1,Real Bed,$40.00 ,1,$0.00 ,90,moderate
+25519478,Asheville,NC,28801,Apartment,1,1,0,Real Bed,$75.00 ,1,$0.00 ,100,strict_14_with_grace_period
+25519626,Asheville,NC,28801,Apartment,1,1,0,Real Bed,$75.00 ,1,$0.00 ,100,strict_14_with_grace_period
+25574558,Asheville,NC,28803,House,1,1,1,Real Bed,,1,$0.00 ,99,moderate
+25577370,Asheville,NC,28806,House,2,2,2,Real Bed,$100.00 ,4,$25.00 ,100,strict_14_with_grace_period
+25678742,Asheville,NC,28806,House,1,1,1,Real Bed,$0.00 ,1,$0.00 ,99,flexible
+25679471,Asheville,NC,28805,Guest suite,1,1,1,Real Bed,$25.00 ,1,$0.00 ,100,flexible
+25710481,Fletcher,NC,28732,Bed and breakfast,3.5,1,2,Real Bed,,1,$0.00 ,,flexible
+25718935,Asheville,NC,28806,House,2,3,3,Real Bed,$100.00 ,1,$0.00 ,99,flexible
+25722075,Asheville,NC,28804,House,3.5,4,4,Real Bed,$150.00 ,1,$0.00 ,100,strict_14_with_grace_period
+25762439,Asheville,NC,28805,House,1,2,2,Real Bed,,1,$0.00 ,100,flexible
+25882810,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$30.00 ,1,$0.00 ,97,moderate
+25883256,Candler,NC,28715,House,1,1,1,Real Bed,$20.00 ,1,$0.00 ,99,flexible
+25892881,Asheville,NC,28803,Apartment,1,1,3,Real Bed,$40.00 ,1,$0.00 ,96,moderate
+25919767,Asheville,NC,28801,House,1,1,2,Real Bed,,1,$0.00 ,100,flexible
+25936206,Asheville,NC,28806,House,1,2,2,Real Bed,$40.00 ,2,$10.00 ,100,strict_14_with_grace_period
+25948248,Asheville,NC,28806,Bungalow,1,1,1,Real Bed,$10.00 ,1,$5.00 ,93,moderate
+25975204,Asheville,NC,28804,House,2,3,3,Real Bed,$50.00 ,1,$0.00 ,,moderate
+25979505,Asheville,NC,28801,Apartment,2,2,2,Real Bed,$50.00 ,2,$10.00 ,100,flexible
+25996444,Asheville,NC,28806,House,2,2,2,Real Bed,$80.00 ,1,$0.00 ,97,strict_14_with_grace_period
+26012053,Asheville,NC,28806,Bungalow,1,1,2,Real Bed,$35.00 ,1,$10.00 ,97,strict_14_with_grace_period
+26028858,Asheville,NC,28801,Townhouse,1,2,2,Real Bed,$20.00 ,2,$25.00 ,99,flexible
+26038824,Asheville,NC,28806,House,1,1,2,Real Bed,$60.00 ,3,$10.00 ,99,moderate
+26053639,Asheville,NC,28804,House,3.5,4,6,Real Bed,$250.00 ,1,$0.00 ,100,strict_14_with_grace_period
+26058122,Asheville,NC,28801,Apartment,1,2,2,Real Bed,$0.00 ,1,$0.00 ,98,moderate
+26083193,Asheville,NC,28804,House,3,3,3,Real Bed,$60.00 ,1,$0.00 ,98,moderate
+26084631,Asheville,NC,28805,Apartment,1,1,3,Real Bed,$38.00 ,3,$5.00 ,97,moderate
+26093158,Asheville,NC,28803,House,2,2,4,Real Bed,$110.00 ,1,$0.00 ,97,strict_14_with_grace_period
+26098132,Asheville,NC,28806,Apartment,1,0,1,Real Bed,$35.00 ,1,$0.00 ,90,flexible
+26103338,Asheville,NC,28801,House,1,1,1,Real Bed,$39.00 ,2,$50.00 ,95,strict_14_with_grace_period
+26128699,Asheville,NC,28801,Apartment,1,1,1,Real Bed,,1,$0.00 ,99,moderate
+26129371,Asheville,NC,28804,Guest suite,1,1,1,Real Bed,$35.00 ,1,$0.00 ,100,moderate
+26130128,Asheville,NC,28801,Apartment,1,1,1,Real Bed,,1,$0.00 ,99,moderate
+26150255,Asheville,NC,28804,Guest suite,1,1,2,Real Bed,$25.00 ,2,$10.00 ,98,moderate
+26160335,Asheville,NC,28801,Bed and breakfast,1,1,1,Real Bed,$30.00 ,2,$0.00 ,100,strict_14_with_grace_period
+26163788,Asheville,NC,28801,Hostel,2,1,1,Real Bed,$16.00 ,1,$0.00 ,97,moderate
+26190390,Asheville,NC,28804,Guesthouse,1,1,2,Real Bed,,1,$0.00 ,100,moderate
+26212041,Asheville,NC,28803,Guest suite,1,0,4,Real Bed,$30.00 ,1,$0.00 ,100,moderate
+26253207,Fletcher,NC,28732,House,1,1,1,Real Bed,$0.00 ,1,$0.00 ,100,flexible
+26255924,Asheville,NC,28805,Guest suite,1,1,1,Real Bed,$30.00 ,2,$30.00 ,99,moderate
+26260868,Fletcher,NC,28732,House,1,1,1,Real Bed,$15.00 ,2,$20.00 ,99,flexible
+26276337,Asheville,NC,28806,House,1,1,2,Real Bed,$50.00 ,2,$10.00 ,100,moderate
+26280818,Asheville,NC,28806,House,3.5,5,5,Real Bed,$150.00 ,6,$30.00 ,100,moderate
+26281901,Asheville,NC,28804,Cabin,1,3,5,Real Bed,$125.00 ,1,$0.00 ,93,moderate
+26284618,Asheville,NC,28804,Cabin,1,1,1,Real Bed,$55.00 ,2,$15.00 ,95,moderate
+26298501,Asheville,NC,28806,Campsite,1,0,1,Real Bed,$0.00 ,3,$5.00 ,94,flexible
+26305653,Asheville,NC,28806,House,1,1,0,Real Bed,$35.00 ,2,$0.00 ,100,moderate
+26328330,Asheville,NC,28806,Other,2,3,8,Real Bed,,1,$0.00 ,94,strict_14_with_grace_period
+26329675,Arden/Asheville ,NC,28704,House,3.5,3,4,Real Bed,,1,$0.00 ,,flexible
+26335600,Asheville,NC,,House,1,1,1,Real Bed,$10.00 ,1,$0.00 ,98,flexible
+26339145,Asheville,NC,28804,Cabin,2,4,7,Real Bed,$135.00 ,1,$0.00 ,100,moderate
+26352170,Asheville,NC,28805,House,2,2,3,Real Bed,$204.00 ,6,$0.00 ,97,super_strict_30
+26352897,Asheville,NC,28805,Apartment,1,0,1,Real Bed,$20.00 ,1,$0.00 ,99,moderate
+26356137,Asheville,NC,28801,House,1,1,1,Real Bed,$35.00 ,1,$0.00 ,100,moderate
+26357716,Asheville,NC,28805,Apartment,1,1,1,Real Bed,$20.00 ,1,$0.00 ,99,moderate
+26368923,Asheville,NC,28806,Apartment,1,1,3,Real Bed,$20.00 ,1,$0.00 ,87,flexible
+26391300,Asheville,NC,28806,House,1,0,1,Real Bed,$30.00 ,1,$0.00 ,99,flexible
+26397880,Asheville,NC,28801,House,1,1,1,Real Bed,$30.00 ,1,$0.00 ,100,flexible
+26398312,Asheville,NC,28806,Guest suite,1,2,4,Real Bed,$20.00 ,4,$15.00 ,96,moderate
+26400748,Asheville,NC,28806,House,1,2,2,Real Bed,$35.00 ,2,$100.00 ,,strict_14_with_grace_period
+26410860,Asheville,NC,28806,Guesthouse,1,1,1,Real Bed,$35.00 ,2,$10.00 ,100,flexible
+26441668,Asheville,NC,28806,House,2.5,2,3,Real Bed,$209.00 ,6,$0.00 ,98,super_strict_30
+26454939,Candler,NC,28715,House,1,1,1,Real Bed,$35.00 ,2,$49.00 ,97,strict_14_with_grace_period
+26501905,Candler,NC,28715,Apartment,1,1,1,Real Bed,$35.00 ,2,$20.00 ,99,moderate
+26528680,Asheville,NC,28806,Loft,1,0,2,Real Bed,$0.00 ,1,$0.00 ,98,moderate
+26595874,Asheville,NC,28803,House,2,4,5,Real Bed,$125.00 ,8,$25.00 ,97,moderate
+26634224,Asheville,NC,28806,Campsite,1,0,1,Real Bed,$0.00 ,3,$5.00 ,88,flexible
+26639631,Asheville,NC,28803,Guesthouse,1,1,2,Real Bed,$45.00 ,2,$10.00 ,99,moderate
+26658565,Asheville,NC,,House,1,1,1,Real Bed,$27.00 ,3,$25.00 ,99,moderate
+26659046,Asheville,NC,28806,House,2,2,3,Real Bed,,1,$0.00 ,100,moderate
+26690388,Woodfin,NC,28804,Apartment,1,1,0,Real Bed,$25.00 ,2,$25.00 ,97,flexible
+26718894,Asheville,NC,28804,Tiny house,1,0,1,Real Bed,$25.00 ,1,$0.00 ,100,strict_14_with_grace_period
+26721327,Arden,NC,28704,Townhouse,4,6,14,Real Bed,$325.00 ,1,$0.00 ,100,strict_14_with_grace_period
+26735499,Asheville,NC,28801,House,2.5,2,2,Real Bed,$50.00 ,4,$10.00 ,100,strict_14_with_grace_period
+26740506,Candler,NC,28715,House,1,1,1,Real Bed,$10.00 ,1,$0.00 ,100,strict_14_with_grace_period
+26753930,Asheville,NC,28803,Guest suite,1,1,0,Real Bed,$20.00 ,1,$0.00 ,99,moderate
+26771791,Candler,NC,28715,Guest suite,1,1,2,Real Bed,$20.00 ,1,$0.00 ,98,moderate
+26802744,Asheville,NC,28806,Apartment,1,2,3,Real Bed,$55.00 ,5,$10.00 ,100,strict_14_with_grace_period
+26829259,Arden,NC,28704,Guesthouse,1,1,1,Real Bed,$39.00 ,1,$15.00 ,100,strict_14_with_grace_period
+26872561,Asheville,NC,28801,House,1,2,4,Real Bed,$65.00 ,1,$0.00 ,100,strict_14_with_grace_period
+26873393,Asheville,NC,28801,House,2.5,2,3,Real Bed,$239.00 ,6,$0.00 ,96,super_strict_30
+26891591,Asheville,NC,28805,Apartment,1,1,1,Real Bed,,1,$0.00 ,98,flexible
+26910514,Candler,NC,28715,House,1,0,3,Real Bed,$75.00 ,4,$0.00 ,,moderate
+26910515,Asheville,NC,28805,Guest suite,1,1,1,Real Bed,$19.00 ,3,$25.00 ,100,flexible
+26924271,Asheville,NC,28803,Guest suite,1,1,3,Real Bed,$60.00 ,4,$25.00 ,100,flexible
+26925544,Asheville,NC,28804,House,2,3,6,Real Bed,$125.00 ,8,$40.00 ,100,moderate
+26954553,Asheville,NC,28806,Guesthouse,1,0,1,Real Bed,$15.00 ,1,$0.00 ,100,flexible
+26973463,Asheville,NC,28806,House,1,1,1,Real Bed,,1,$0.00 ,100,moderate
+27011341,Asheville,NC,28806,House,1,1,4,Real Bed,$30.00 ,4,$25.00 ,100,flexible
+27059536,Asheville,NC,28804,House,2,3,4,Real Bed,,1,$0.00 ,100,flexible
+27078522,Arden,NC,28704,Guest suite,1,1,2,Real Bed,$30.00 ,4,$25.00 ,100,moderate
+27085270,Asheville,NC,28801,Townhouse,2,2,2,Real Bed,$125.00 ,4,$0.00 ,90,super_strict_60
+27085271,Asheville,NC,28801,Townhouse,2,2,2,Real Bed,$125.00 ,4,$0.00 ,,super_strict_60
+27086469,Arden,NC,28704,House,1.5,1,2,Real Bed,$75.00 ,1,$0.00 ,100,strict_14_with_grace_period
+27105862,Asheville,NC,28806,House,1.5,1,1,Real Bed,$0.00 ,2,$20.00 ,97,flexible
+27108241,Asheville,NC,28806,House,6,4,8,Real Bed,$250.00 ,1,$0.00 ,100,strict_14_with_grace_period
+27113929,Asheville,NC,28803,House,1,2,2,Real Bed,,1,$0.00 ,,flexible
+27123967,Asheville,NC,28805,House,2,3,3,Real Bed,$75.00 ,3,$5.00 ,99,strict_14_with_grace_period
+27131729,Asheville,NC,28806,Cottage,1,2,3,Real Bed,$100.00 ,4,$20.00 ,96,moderate
+27156940,Asheville,NC,28801,House,1,0,1,Real Bed,$15.00 ,2,$15.00 ,99,moderate
+27185837,Arden,NC,28704,House,1,1,1,Real Bed,$40.00 ,1,$0.00 ,95,flexible
+27225252,Asheville,NC,28805,Guesthouse,1,1,2,Real Bed,$25.00 ,15,$15.00 ,100,strict_14_with_grace_period
+27232257,Asheville,NC,28806,House,1.5,1,1,Real Bed,$118.00 ,2,$0.00 ,,strict_14_with_grace_period
+27250576,Asheville,NC,,House,1,2,2,Real Bed,$50.00 ,2,$15.00 ,98,moderate
+27284410,Asheville,NC,28806,Camper/RV,1,1,3,Real Bed,$25.00 ,1,$0.00 ,100,flexible
+27289254,Asheville,NC,28806,House,4.5,6,8,Real Bed,$275.00 ,1,$0.00 ,100,strict_14_with_grace_period
+27289830,Asheville,NC,28803,Apartment,1,1,1,Real Bed,$35.00 ,2,$0.00 ,,strict_14_with_grace_period
+27306911,Asheville,NC,28806,Cabin,1,1,3,Real Bed,$40.00 ,4,$10.00 ,98,moderate
+27334153,Asheville,NC,28803,Apartment,1,2,3,Real Bed,$0.00 ,1,$10.00 ,96,strict_14_with_grace_period
+27335298,Asheville,NC,28804,Apartment,2,2,2,Real Bed,$75.00 ,1,$0.00 ,98,flexible
+27337463,Asheville,NC,28801,Apartment,1,1,2,Real Bed,$50.00 ,2,$25.00 ,100,moderate
+27338328,Asheville,NC,28805,House,1,1,1,Real Bed,$144.00 ,1,$20.00 ,,moderate
+27339221,Asheville,NC,28806,Guest suite,1,0,1,Real Bed,$25.00 ,1,$0.00 ,100,flexible
+27340168,Asheville,NC,28801,House,1,1,1,Real Bed,$35.00 ,1,$20.00 ,100,strict_14_with_grace_period
+27392504,Asheville,NC,28805,Apartment,2,2,2,Real Bed,$75.00 ,1,$0.00 ,100,strict_14_with_grace_period
+27427466,Asheville,NC,28806,House,1,2,3,Real Bed,$65.00 ,1,$0.00 ,100,strict_14_with_grace_period
+27461996,Asheville,NC,28806,Guest suite,1,0,1,Real Bed,$35.00 ,1,$0.00 ,100,flexible
+27466554,Asheville,NC,28803,House,2,2,3,Real Bed,$70.00 ,2,$30.00 ,99,strict_14_with_grace_period
+27486807,Asheville,NC,28803,House,2.5,3,6,Real Bed,$95.00 ,1,$0.00 ,96,strict_14_with_grace_period
+27503824,Asheville,NC,28806,House,1,1,1,Real Bed,,1,$0.00 ,100,flexible
+27538204,Asheville,NC,28804,Bungalow,1,2,2,Real Bed,$20.00 ,1,$10.00 ,100,flexible
+27548960,Asheville,NC,28806,House,2,4,6,Real Bed,$100.00 ,7,$15.00 ,95,strict_14_with_grace_period
+27562061,Asheville,NC,28803,Chalet,3.5,3,3,Real Bed,$200.00 ,1,$0.00 ,93,strict_14_with_grace_period
+27566298,Asheville,NC,28806,House,1,1,1,Real Bed,,2,$20.00 ,96,strict_14_with_grace_period
+27583238,Asheville ,NC,28806,Chalet,4,4,7,Real Bed,$250.00 ,1,$0.00 ,97,strict_14_with_grace_period
+27620241,Asheville,NC,28801,House,1.5,1,2,Real Bed,$35.00 ,1,$20.00 ,92,strict_14_with_grace_period
+27625446,Asheville,NC,28806,Guest suite,2,3,4,Real Bed,$100.00 ,6,$15.00 ,91,strict_14_with_grace_period
+27645716,Asheville,NC,28806,House,1,2,2,Real Bed,$40.00 ,1,$10.00 ,100,strict_14_with_grace_period
+27675156,Asheville,NC,28801,House,1.5,3,2,Real Bed,$100.00 ,1,$0.00 ,,moderate
+27689813,Asheville,NC,28803,House,2,3,4,Real Bed,$150.00 ,8,$50.00 ,100,moderate
+27690175,Asheville,NC,28804,Bungalow,1.5,1,1,Real Bed,,1,$0.00 ,99,flexible
+27723015,Arden,NC,28704,House,4.5,4,4,Real Bed,$200.00 ,1,$0.00 ,100,strict_14_with_grace_period
+27759123,Asheville,NC,28806,Apartment,1,1,2,Real Bed,$25.00 ,1,$0.00 ,99,flexible
+27770787,Asheville,NC,28806,Townhouse,1,2,3,Real Bed,$35.00 ,1,$0.00 ,100,moderate
+27779063,Candler,NC,28715,House,2,2,2,Real Bed,$30.00 ,1,$0.00 ,100,moderate
+27827166,Arden,NC,28704,House,2,3,4,Real Bed,$170.00 ,6,$0.00 ,70,strict_14_with_grace_period
+27853519,Asheville,NC,28806,House,1,1,1,Real Bed,$0.00 ,2,$20.00 ,99,strict_14_with_grace_period
+27871087,Asheville,NC,28803,Bed and breakfast,1,1,1,Real Bed,$38.00 ,1,$0.00 ,100,flexible
+27903380,Asheville,NC,28803,Tent,1,1,1,Real Bed,$10.00 ,1,$0.00 ,97,moderate
+27903998,Asheville,NC,28803,Guest suite,1,1,1,Real Bed,$25.00 ,2,$15.00 ,99,flexible
+27906707,Asheville,NC,28803,Apartment,1,0,2,Real Bed,$25.00 ,1,$0.00 ,100,strict_14_with_grace_period
+27927441,Asheville,NC,28805,Bed and breakfast,1.5,1,1,Real Bed,$18.00 ,2,$18.00 ,100,moderate
+27931927,Asheville,NC,28803,Guest suite,1,1,1,Real Bed,$40.00 ,1,$0.00 ,100,moderate
+27933308,Asheville,NC,28804,Guest suite,1,0,1,Real Bed,$30.00 ,1,$0.00 ,100,moderate
+27933446,Asheville,NC,28801,Condominium,1,1,2,Real Bed,$75.00 ,1,$0.00 ,,moderate
+27977261,Asheville,NC,28801,House,2.5,2,3,Real Bed,$239.00 ,6,$0.00 ,,super_strict_30
+27977831,Asheville,NC,28801,House,1,0,1,Real Bed,$35.00 ,1,$0.00 ,100,flexible
+27978847,Asheville,NC,28805,House,2.5,3,4,Real Bed,$302.00 ,8,$0.00 ,,strict_14_with_grace_period
+27978872,Asheville,NC,28803,Cabin,2,3,4,Real Bed,$303.00 ,6,$0.00 ,,strict_14_with_grace_period
+27987876,Asheville,NC,28801,House,2,1,2,Real Bed,$35.00 ,1,$20.00 ,80,strict_14_with_grace_period
+27990552,Asheville,NC,28801,House,1,2,4,Real Bed,$47.00 ,4,$10.00 ,84,strict_14_with_grace_period
+28001246,Arden,NC,28704,House,1,1,1,Real Bed,$45.00 ,1,$0.00 ,100,moderate
+28001503,Asheville,NC,28806,House,1,2,3,Real Bed,$0.00 ,4,$50.00 ,100,moderate
+28002475,Asheville,NC,28803,House,2,2,2,Real Bed,$120.00 ,1,$0.00 ,100,strict_14_with_grace_period
+28003776,Asheville,NC,28801,House,2.5,2,5,Real Bed,$150.00 ,1,$0.00 ,100,strict_14_with_grace_period
+28022558,Asheville,NC,28801,House,2.5,2,3,Real Bed,$264.00 ,6,$0.00 ,100,super_strict_30
+28026624,Asheville,NC,28805,House,1.5,1,1,Real Bed,$60.00 ,1,$0.00 ,100,strict_14_with_grace_period
+28029833,Asheville,NC,28806,Bungalow,1,0,1,Real Bed,$40.00 ,1,$25.00 ,100,strict_14_with_grace_period
+28042422,Asheville,NC,28801,Apartment,1,2,0,Real Bed,$45.00 ,2,$25.00 ,98,flexible
+28049619,Asheville,NC,28804,House,3,3,3,Real Bed,$325.00 ,1,$0.00 ,70,super_strict_60
+28051297,Asheville,NC,28803,Condominium,1,1,3,Real Bed,$30.00 ,2,$10.00 ,85,flexible
+28053172,Asheville,NC,28804,House,2,1,1,Real Bed,$55.00 ,2,$20.00 ,100,moderate
+28053434,Asheville,NC,28805,Camper/RV,1,0,2,Real Bed,$15.00 ,1,$0.00 ,97,moderate
+28053639,Asheville,NC,28803,Bungalow,1,1,1,Real Bed,$20.00 ,1,$5.00 ,98,strict_14_with_grace_period
+28072155,Asheville,NC,28806,House,2,3,4,Real Bed,$60.00 ,4,$10.00 ,100,moderate
+28097393,Asheville,NC,28803,House,3,3,4,Real Bed,$130.00 ,6,$0.00 ,,strict_14_with_grace_period
+28097447,Asheville,NC,28805,Guest suite,1,1,1,Real Bed,$35.00 ,1,$0.00 ,99,flexible
+28097580,Asheville,NC,28814,Condominium,3,3,3,Real Bed,$163.00 ,8,$0.00 ,,strict_14_with_grace_period
+28097641,Asheville,NC,28803,Cabin,2,3,4,Real Bed,$130.00 ,6,$0.00 ,,strict_14_with_grace_period
+28097673,Fletcher,NC,28732,House,2,3,4,Real Bed,$130.00 ,6,$0.00 ,,strict_14_with_grace_period
+28109091,Asheville,NC,28803,House,1.5,2,2,Real Bed,$50.00 ,4,$25.00 ,100,strict_14_with_grace_period
+28118669,Asheville,NC,28805,Guest suite,1,1,1,Real Bed,,1,$0.00 ,,flexible
+28127559,Asheville,NC,28805,Guest suite,1,1,2,Real Bed,$40.00 ,2,$20.00 ,100,moderate
+28133323,Asheville,NC,28804,House,1,1,1,Real Bed,$0.00 ,2,$15.00 ,100,flexible
+28147531,Asheville,NC,28806,House,1,1,1,Real Bed,$15.00 ,1,$0.00 ,,flexible
+28148160,Asheville,NC,28806,House,2,1,1,Real Bed,$25.00 ,1,$0.00 ,100,moderate
+28149961,Arden,NC,28704,House,3,4,5,Real Bed,$221.00 ,15,$0.00 ,100,strict_14_with_grace_period
+28156491,Asheville,NC,28803,House,1,1,1,Real Bed,$25.00 ,2,$20.00 ,100,flexible
+28158870,Asheville,NC,28804,House,2,1,1,Real Bed,$55.00 ,2,$20.00 ,100,moderate
+28160806,Asheville,NC,28804,House,3,2,2,Real Bed,$100.00 ,6,$20.00 ,100,moderate
+28172948,Asheville,NC,28801,House,1,1,1,Real Bed,$15.00 ,1,$0.00 ,100,flexible
+28184369,Arden,NC,28704,House,3,3,5,Real Bed,$226.00 ,12,$0.00 ,100,strict_14_with_grace_period
+28202866,Asheville,NC,28804,Guest suite,1,1,2,Real Bed,$30.00 ,1,$0.00 ,96,flexible
+28205495,Asheville,NC,28803,House,2,3,3,Real Bed,,1,$0.00 ,,flexible
+28210988,Asheville,NC,28801,House,1.5,1,1,Real Bed,$35.00 ,1,$20.00 ,100,strict_14_with_grace_period
+28212289,Asheville,NC,28801,House,1.5,1,2,Real Bed,$35.00 ,1,$20.00 ,100,strict_14_with_grace_period
+28216632,Asheville,NC,28803,Guest suite,1,1,1,Real Bed,$50.00 ,1,$0.00 ,100,flexible
+28216747,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$50.00 ,1,$0.00 ,94,moderate
+28245965,Asheville,NC,28801,Apartment,1,1,3,Real Bed,$90.00 ,1,$0.00 ,100,flexible
+28258300,Asheville,NC,28806,House,1,1,1,Real Bed,$20.00 ,1,$0.00 ,86,flexible
+28281182,Asheville ,NC,28803,Apartment,1,1,1,Real Bed,$20.00 ,2,$0.00 ,100,moderate
+28286510,Asheville,NC,28804,Tiny house,1,0,1,Real Bed,$25.00 ,1,$0.00 ,98,strict_14_with_grace_period
+28289096,Asheville,NC,28806,House,1,1,1,Real Bed,,1,$0.00 ,100,flexible
+28308701,Woodfin,NC,28804,House,1,2,1,Real Bed,,1,$0.00 ,100,flexible
+28313958,Asheville,NC,28806,Condominium,1,1,1,Real Bed,,1,$0.00 ,93,flexible
+28319643,Asheville,NC,28801,House,2.5,2,3,Real Bed,$239.00 ,6,$0.00 ,91,super_strict_30
+28331348,Asheville,NC,28806,House,1.5,3,4,Real Bed,$48.00 ,4,$10.00 ,100,moderate
+28335156,Asheville,NC,28801,House,2,2,2,Real Bed,$150.00 ,1,$0.00 ,,flexible
+28369196,Asheville,NC,28806,House,1,1,1,Real Bed,$50.00 ,1,$0.00 ,100,moderate
+28385457,Asheville,NC,28803,House,2,2,2,Real Bed,$100.00 ,1,$0.00 ,100,moderate
+28389480,Asheville,NC,28806,Campsite,1,0,1,Real Bed,,4,$5.00 ,,flexible
+28403855,Arden,NC,28704,House,1,2,2,Real Bed,$120.00 ,1,$0.00 ,,flexible
+28410193,Asheville,NC,28803,House,1,1,1,Real Bed,$10.00 ,1,$0.00 ,94,moderate
+28411241,Asheville,NC,28803,House,3,4,5,Real Bed,$200.00 ,6,$20.00 ,,flexible
+28415336,Asheville,NC,28801,House,2,1,1,Real Bed,$35.00 ,1,$20.00 ,93,strict_14_with_grace_period
+28432651,Asheville,NC,28806,Apartment,1,2,2,Real Bed,$0.00 ,1,$0.00 ,95,strict_14_with_grace_period
+28438011,Asheville,NC,28801,House,1,2,2,Real Bed,$75.00 ,2,$25.00 ,97,flexible
+28453860,Asheville,NC,28803,House,1,0,2,Real Bed,$0.00 ,2,$15.00 ,98,moderate
+28465150,Asheville,NC,28806,House,2,2,2,Real Bed,$150.00 ,1,$0.00 ,100,flexible
+28466957,Asheville,NC,28806,Guest suite,1,1,2,Real Bed,$30.00 ,1,$0.00 ,100,flexible
+28467897,Asheville,NC,,House,1,2,2,Real Bed,,1,$0.00 ,100,moderate
+28478646,Asheville,NC,28804,House,1,0,1,Real Bed,$50.00 ,2,$30.00 ,,strict_14_with_grace_period
+28481477,Asheville,NC,28806,House,2,1,1,Real Bed,$25.00 ,1,$0.00 ,83,flexible
+28491562,Asheville,NC,28805,House,3.5,4,7,Real Bed,$319.00 ,8,$0.00 ,90,super_strict_30
+28540786,Asheville,NC,28801,Bungalow,1,0,1,Real Bed,$20.00 ,1,$0.00 ,96,flexible
+28544651,Asheville,NC,28805,House,1,2,3,Real Bed,$35.00 ,2,$12.00 ,,flexible
+28544931,Asheville,NC,,Guest suite,1,2,2,Real Bed,$0.00 ,2,$10.00 ,100,strict_14_with_grace_period
+28556282,Asheville,NC,28804,Bungalow,1,1,2,Real Bed,,1,$0.00 ,100,flexible
+28582577,Asheville,NC,28803,Guest suite,1,1,1,Real Bed,$10.00 ,1,$0.00 ,98,flexible
+28582717,Asheville,NC,28806,Condominium,1,1,1,Real Bed,,1,$10.00 ,94,flexible
+28583038,Asheville,NC,28801,Guest suite,1,1,1,Real Bed,$75.00 ,1,$0.00 ,100,flexible
+28584499,Asheville,NC,28803,Guesthouse,1,2,2,Real Bed,$60.00 ,1,$0.00 ,,flexible
+28607789,Asheville,NC,28803,Apartment,1,1,2,Real Bed,$0.00 ,2,$5.00 ,100,flexible
+28608801,Asheville,NC,28805,House,2,3,3,Real Bed,$75.00 ,1,$0.00 ,100,strict_14_with_grace_period
+28610923,Candler,NC,28715,Apartment,1,1,1,Real Bed,,1,$0.00 ,97,flexible
+28665091,Arden,NC,28704,Apartment,1,1,3,Real Bed,$25.00 ,4,$10.00 ,100,flexible
+28674119,Asheville,NC,28805,Bed and breakfast,1,1,1,Real Bed,$0.00 ,1,$0.00 ,100,flexible
+28719799,Asheville,NC,28804,Apartment,1,1,2,Real Bed,$45.00 ,2,$10.00 ,,moderate
+28758757,Asheville,NC,28804,Apartment,1,2,2,Real Bed,$0.00 ,1,$0.00 ,100,strict_14_with_grace_period
+28774606,Arden,NC,28704,House,1.5,3,3,Real Bed,$50.00 ,2,$10.00 ,100,moderate
+28777663,Asheville,NC,28803,Apartment,1,1,2,Real Bed,$75.00 ,1,$0.00 ,92,moderate
+28785469,Asheville,NC,28806,House,1,1,1,Real Bed,$0.00 ,1,$10.00 ,98,flexible
+28802634,Asheville,NC,28804,House,1,0,1,Real Bed,$25.00 ,1,$0.00 ,89,moderate
+28804277,Asheville,NC,28801,House,1,1,1,Real Bed,$50.00 ,1,$0.00 ,100,flexible
+28836307,Candler,NC,28715,Tiny house,1,0,1,Real Bed,$35.00 ,2,$15.00 ,95,flexible
+28857573,Asheville,NC,28806,Cottage,2,2,3,Real Bed,$99.00 ,4,$10.00 ,,moderate
+28864118,Asheville,NC,28806,House,1,1,1,Real Bed,$69.00 ,1,$0.00 ,100,moderate
+28870812,Asheville,NC,28803,Bungalow,2,3,4,Real Bed,$65.00 ,7,$10.00 ,,flexible
+28871245,Arden,NC,28704,House,2,3,3,Real Bed,$75.00 ,1,$0.00 ,100,moderate
+28882986,Asheville,NC,28804,Guest suite,1,1,1,Real Bed,$20.00 ,1,$0.00 ,100,moderate
+28888177,Asheville,NC,28806,House,1,0,1,Real Bed,$10.00 ,2,$10.00 ,91,moderate
+28915376,Asheville,NC,28803,Apartment,2,1,1,Real Bed,$35.00 ,1,$0.00 ,95,flexible
+28927010,Asheville,NC,28806,Guesthouse,1,0,2,Real Bed,$40.00 ,1,$0.00 ,100,flexible
+28942385,Asheville,NC,28806,Guest suite,1,1,2,Real Bed,$65.00 ,2,$30.00 ,96,flexible
+28952959,Asheville,NC,28806,House,2.5,3,4,Real Bed,$175.00 ,6,$25.00 ,100,strict_14_with_grace_period
+28960407,Asheville,NC,28804,House,1,1,1,Real Bed,$40.00 ,1,$0.00 ,100,moderate
+28986868,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$25.00 ,1,$0.00 ,93,strict_14_with_grace_period
+28996509,Asheville,NC,28806,House,1,1,1,Real Bed,$20.00 ,1,$0.00 ,100,flexible
+29003338,Asheville,NC,28803,House,2.5,3,4,Real Bed,$150.00 ,6,$75.00 ,100,strict_14_with_grace_period
+29008329,Asheville,NC,28801,Bed and breakfast,1,1,1,Real Bed,$0.00 ,2,$0.00 ,,strict_14_with_grace_period
+29026930,Asheville,NC,28806,House,1,1,2,Real Bed,$40.00 ,1,$0.00 ,100,strict_14_with_grace_period
+29030266,Asheville,NC,28803,Condominium,1,1,2,Real Bed,$0.00 ,1,$25.00 ,100,moderate
+29033893,Asheville,NC,28806,Apartment,1.5,1,3,Real Bed,$50.00 ,2,$25.00 ,100,moderate
+29052301,Asheville,NC,28801,House,1,1,1,Real Bed,$35.00 ,1,$0.00 ,100,moderate
+29071034,Asheville,NC,28804,Bungalow,1,1,1,Real Bed,,1,$0.00 ,100,moderate
+29073142,Asheville,NC,28804,Guesthouse,1,1,1,Real Bed,$50.00 ,1,$0.00 ,93,moderate
+29076665,Asheville,NC,28804,Farm stay,1,2,2,Real Bed,$25.00 ,4,$20.00 ,100,flexible
+29098489,Arden,NC,,Guesthouse,1,0,2,Real Bed,$35.00 ,2,$25.00 ,100,moderate
+29102553,Asheville,NC,28803,House,1,1,1,Real Bed,$15.00 ,2,$0.00 ,97,flexible
+29125407,Asheville,NC,28803,Guest suite,1,1,2,Real Bed,$0.00 ,2,$20.00 ,100,moderate
+29148062,Asheville,NC,28803,Cabin,2,2,2,Real Bed,$60.00 ,1,$0.00 ,97,moderate
+29162070,Asheville,NC,28805,House,1,1,1,Real Bed,$10.00 ,1,$0.00 ,93,flexible
+29180757,Asheville,NC,28806,Guesthouse,1,1,2,Real Bed,$65.00 ,2,$0.00 ,,strict_14_with_grace_period
+29180843,Asheville,NC,28806,House,1,2,2,Real Bed,$40.00 ,1,$0.00 ,97,strict_14_with_grace_period
+29186292,Asheville,NC,28804,House,4.5,4,4,Real Bed,$200.00 ,1,$0.00 ,,flexible
+29186734,Asheville,NC,28806,Campsite,1,0,1,Real Bed,$0.00 ,3,$5.00 ,100,flexible
+29187153,Asheville,NC,28803,Condominium,2,2,2,Real Bed,$0.00 ,1,$0.00 ,,super_strict_30
+29187202,Asheville,NC,28803,House,3,3,3,Real Bed,$150.00 ,1,$0.00 ,,super_strict_30
+29187255,Asheville,NC,28803,Cabin,2,3,3,Real Bed,$100.00 ,1,$0.00 ,,super_strict_30
+29208295,Asheville,NC,28806,House,1,0,2,Real Bed,,1,$0.00 ,99,flexible
+29209398,Asheville,NC,28803,House,3,3,3,Real Bed,$234.00 ,1,$0.00 ,,super_strict_30
+29209947,Asheville,NC,28806,House,2,3,3,Real Bed,$140.00 ,1,$0.00 ,,super_strict_30
+29210382,Asheville,NC,28803,Bungalow,1,1,1,Real Bed,$20.00 ,1,$5.00 ,100,strict_14_with_grace_period
+29213270,Asheville,NC,28803,House,2,3,3,Real Bed,$169.00 ,1,$0.00 ,,super_strict_30
+29214157,Asheville,NC,28803,House,2,2,2,Real Bed,$100.00 ,6,$0.00 ,100,strict_14_with_grace_period
+29231942,Asheville,NC,28805,House,1,1,1,Real Bed,$88.00 ,1,$0.00 ,,super_strict_30
+29232809,Asheville,NC,28806,House,1.5,1,1,Real Bed,,1,$0.00 ,,flexible
+29234943,Asheville,NC,28805,Guest suite,1,0,1,Real Bed,$25.00 ,2,$25.00 ,100,flexible
+29236250,Asheville,NC,28801,Bed and breakfast,1,1,1,Real Bed,$0.00 ,2,$0.00 ,,strict_14_with_grace_period
+29275879,Asheville,NC,28801,Bed and breakfast,1,1,1,Real Bed,$0.00 ,2,$0.00 ,,strict_14_with_grace_period
+29278169,Asheville,NC,28801,Bed and breakfast,1,1,1,Real Bed,$0.00 ,2,$0.00 ,,strict_14_with_grace_period
+29278187,Asheville,NC,28804,House,1,1,2,Real Bed,$20.00 ,2,$15.00 ,100,moderate
+29286650,Asheville,NC,28806,Bungalow,2,3,3,Real Bed,$65.00 ,1,$0.00 ,,flexible
+29301481,Asheville,NC,28803,House,7,7,7,Real Bed,$475.00 ,1,$0.00 ,,super_strict_30
+29334580,Asheville,NC,28806,Apartment,1,2,3,Real Bed,,1,$0.00 ,,flexible
+29340133,Asheville,NC,28805,Apartment,1,2,3,Real Bed,$0.00 ,1,$0.00 ,95,flexible
+29358894,Asheville,NC,28804,House,3,3,3,Real Bed,$200.00 ,1,$0.00 ,,super_strict_30
+29359265,Asheville,NC,28803,House,1,1,1,Real Bed,$25.00 ,1,$0.00 ,100,moderate
+29364298,Asheville,NC,28806,House,1,1,1,Real Bed,$10.00 ,1,$19.00 ,80,moderate
+29392863,Asheville,NC,28806,House,1,1,1,Real Bed,$10.00 ,1,$25.00 ,100,strict_14_with_grace_period
+29411227,Candler,NC,28715,House,1,0,1,Real Bed,,2,$0.00 ,,flexible
+29415555,Woodfin,NC,28804,Apartment,1,1,2,Real Bed,$0.00 ,4,$25.00 ,97,flexible
+29431621,Asheville,NC,28806,Camper/RV,1,1,1,Real Bed,$10.00 ,1,$5.00 ,100,moderate
+29482441,Asheville,NC,28806,Cabin,1,1,1,Real Bed,$0.00 ,1,$0.00 ,,super_strict_30
+29482634,Asheville,NC,28806,Cabin,1,1,1,Real Bed,$0.00 ,1,$0.00 ,,super_strict_30
+29484383,Asheville,NC,28805,House,1,2,2,Real Bed,$214.00 ,4,$0.00 ,,super_strict_60
+29488398,Asheville,NC,28806,Guest suite,1,1,1,Real Bed,$20.00 ,3,$30.00 ,98,flexible
+29490603,Arden,NC,28704,House,1,2,2,Real Bed,$10.00 ,2,$20.00 ,100,flexible
+29491343,Asheville,NC,28804,House,2.5,3,3,Real Bed,$125.00 ,6,$20.00 ,,moderate
+29494091,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$25.00 ,1,$0.00 ,100,flexible
+29495159,Asheville,NC,28806,Apartment,1,1,1,Real Bed,,1,$0.00 ,100,flexible
+29510985,Asheville,NC,28805,House,3,4,4,Real Bed,$120.00 ,1,$0.00 ,,super_strict_30
+29519394,Asheville,NC,28806,House,3,6,11,Real Bed,$0.00 ,1,$0.00 ,90,strict_14_with_grace_period
+29552452,Asheville,NC,28801,House,2,2,3,Real Bed,$209.00 ,6,$0.00 ,100,super_strict_30
+29579244,Asheville,NC,28801,House,2,2,3,Real Bed,$209.00 ,6,$0.00 ,100,super_strict_30
+29587963,Asheville,NC,28806,House,2,3,4,Real Bed,$35.00 ,2,$10.00 ,100,moderate
+29633339,Asheville,NC,28805,House,1,1,1,Real Bed,$75.00 ,2,$0.00 ,,strict_14_with_grace_period
+29634104,Asheville,NC,28806,Guesthouse,1,1,2,Real Bed,$25.00 ,2,$30.00 ,,strict_14_with_grace_period
+29647115,Asheville,NC,28805,House,1,1,1,Real Bed,,1,$0.00 ,100,flexible
+29649938,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$20.00 ,1,$0.00 ,,moderate
+29657252,Woodfin,NC,28804,Guest suite,1,2,2,Real Bed,$20.00 ,1,$0.00 ,96,flexible
+29657686,Asheville,NC,28804,House,1,2,3,Real Bed,$24.00 ,1,$0.00 ,100,flexible
+29663310,Arden,NC,28704,House,4,5,5,Real Bed,$410.00 ,1,$0.00 ,,super_strict_30
+29678853,Asheville,NC,28801,House,1,0,1,Real Bed,$100.00 ,1,$0.00 ,,flexible
+29731425,Asheville,NC,28803,House,1,1,1,Real Bed,$15.00 ,1,$25.00 ,,flexible
+29732553,Asheville,NC,28803,House,2,3,7,Real Bed,$100.00 ,6,$5.00 ,,strict_14_with_grace_period
+29754604,Asheville,NC,28805,Cabin,2,4,5,Real Bed,$150.00 ,6,$20.00 ,100,strict_14_with_grace_period
+29775875,Arden,NC,28704,Apartment,1,1,1,Real Bed,$20.00 ,3,$10.00 ,100,moderate
+29777058,Asheville,NC,28803,Condominium,1,1,1,Real Bed,$50.00 ,1,$15.00 ,100,flexible
+29791163,Asheville,NC,28804,Bungalow,2,2,2,Real Bed,$60.00 ,1,$0.00 ,,moderate
+29850766,Asheville,NC,28803,House,2,3,2,Real Bed,,1,$0.00 ,,flexible
+29852630,Asheville,NC,28804,House,3,3,3,Real Bed,$130.00 ,1,$0.00 ,,super_strict_30
+29852695,Asheville,NC,28803,Cottage,1,1,1,Real Bed,$0.00 ,1,$0.00 ,,super_strict_30
+29871451,Asheville,NC,28801,Condominium,1,1,1,Real Bed,$95.00 ,1,$0.00 ,100,strict_14_with_grace_period
+29885976,Asheville,NC,28801,Condominium,2.5,2,3,Real Bed,$135.00 ,1,$0.00 ,100,strict_14_with_grace_period
+29886393,Asheville,NC,28801,Condominium,1,1,1,Real Bed,$111.00 ,1,$0.00 ,100,strict_14_with_grace_period
+29895223,Asheville,NC,28801,Guest suite,1,2,2,Real Bed,$60.00 ,4,$15.00 ,100,moderate
+29902436,Asheville,NC,28803,House,1,0,2,Real Bed,$50.00 ,2,$25.00 ,,strict_14_with_grace_period
+29925763,Asheville,NC,28803,Townhouse,2,3,3,Real Bed,$20.00 ,2,$0.00 ,,flexible
+29928828,Asheville,NC,28803,House,2.5,3,6,Real Bed,$95.00 ,8,$0.00 ,,moderate
+30015857,Asheville,NC,28806,House,3,0,3,Real Bed,,1,$0.00 ,,flexible
+30020759,Asheville,NC,28801,Apartment,1,1,2,Real Bed,$20.00 ,2,$15.00 ,,flexible
+30043315,Asheville,NC,28806,Apartment,1,1,1,Real Bed,$50.00 ,1,$0.00 ,,moderate
+30067056,Asheville,NC,28803,House,2.5,4,6,Real Bed,$150.00 ,1,$0.00 ,,moderate
+30067870,Asheville,NC,28801,House,1,2,3,Real Bed,$30.00 ,1,$10.00 ,,flexible
+30086718,Asheville,NC,28801,Bungalow,2.5,1,1,Real Bed,$25.00 ,2,$0.00 ,,strict_14_with_grace_period
+30089678,Asheville,NC,28801,Apartment,1,1,1,Real Bed,$100.00 ,1,$0.00 ,,flexible
+30100770,Asheville,NC,28806,House,2.5,3,4,Real Bed,$125.00 ,1,$0.00 ,,moderate
+30103018,Asheville,NC,28803,House,4,4,8,Real Bed,$160.00 ,1,$0.00 ,,moderate
+30126158,Asheville,NC,28805,Guest suite,1,1,1,Real Bed,,1,$0.00 ,,flexible
