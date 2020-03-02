@@ -10,6 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r libraries}
+library(knitr)
 library(broom)
 library(tidyverse)
 library(ggplot2)
